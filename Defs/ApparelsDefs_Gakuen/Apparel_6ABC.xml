@@ -56,6 +56,93 @@
 		<generateCommonality>0.5</generateCommonality><!--Less chance-->
 	</ThingDef>
 
+	<!--Anneli_Gakuen_PaperBag-->
+	<ThingDef ParentName="Anneli_Gakuen_6ABC_NonMetal">
+		<defName>Anneli_Gakuen_PaperBag</defName>
+		<description>NOT dyeable.</description>
+		<label>(Gakuen)6ABC_PaperBag</label>
+		<graphicData>
+			<texPath>6ABC/PaperBag/Anneli_Gakuen_PaperBagOkay</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6ABC/PaperBag/Anneli_Gakuen_PaperBagOkay</wornGraphicPath>
+			<tags>
+				<li>Anneli_FullHelmet</li>
+				<li>Anneli_Gakuen_Common</li>
+				<li>Anneli_Gakuen_Tsuppari</li>
+				<li>Anneli_Gakuen_Sukeban</li>
+				<li>Anneli_Gakuen_Undoubuin</li>
+				<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
+				<li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,255,255,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<comps>
+			<li Class="Annelitrice.CompProperties_ApparelSecialTex">
+				<replaceTexPathList>
+					<li>
+						<apparelDef>Anneli_Gakuen_Blazer</apparelDef>
+						<level>1</level>
+						<path>6ABC/PaperBag/Anneli_Gakuen_PaperBagUnhappy</path>
+						<!-- <shader>CutoutComplex</shader> -->
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Gakuen_SweaterVest</apparelDef>
+						<level>1</level>
+						<path>6ABC/PaperBag/Anneli_Gakuen_PaperBagUnhappy</path>
+						<!-- <shader>CutoutComplex</shader> -->
+					</li> 	
+					<li>
+						<apparelDef>Anneli_Gakuen_GakuranCoat</apparelDef>
+						<level>1</level>
+						<path>6ABC/PaperBag/Anneli_Gakuen_PaperBagDead</path>
+						<!-- <shader>CutoutComplex</shader> -->
+					</li> 
+					<li>
+						<apparelDef>Anneli_Gakuen_KendoArmor</apparelDef>
+						<level>1</level>
+						<path>6ABC/PaperBag/Anneli_Gakuen_PaperBagDead</path>
+						<!-- <shader>CutoutComplex</shader> -->
+					</li> 
+					<li>
+						<apparelDef>Anneli_Gakuen_TiedAroundWaist</apparelDef>
+						<level>1</level>
+						<path>6ABC/PaperBag/Anneli_Gakuen_PaperBagHappy</path>
+						<!-- <shader>CutoutComplex</shader> -->
+					</li> 
+					<li>
+						<apparelDef>Anneli_Gakuen_TiedAroundWaist_Red</apparelDef>
+						<level>1</level>
+						<path>6ABC/PaperBag/Anneli_Gakuen_PaperBagHappy</path>
+						<!-- <shader>CutoutComplex</shader> -->
+					</li> 
+					<li>
+						<apparelDef>Anneli_Gakuen_TrackJacket</apparelDef>
+						<level>1</level>
+						<path>6ABC/PaperBag/Anneli_Gakuen_PaperBagHappy</path>
+						<!-- <shader>CutoutComplex</shader> -->
+					</li> 
+					<li>
+						<apparelDef>Anneli_Gakuen_TrackJacket_Red</apparelDef>
+						<level>1</level>
+						<path>6ABC/PaperBag/Anneli_Gakuen_PaperBagHappy</path>
+						<!-- <shader>CutoutComplex</shader> -->
+					</li> 
+				</replaceTexPathList>
+			</li>
+		</comps>
+		<generateCommonality>0.5</generateCommonality><!--Less chance-->
+	</ThingDef>
+
 
 			
 </Defs>
