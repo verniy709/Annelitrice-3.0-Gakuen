@@ -32,7 +32,6 @@
 		<leaderTitle>Senpai</leaderTitle>
 		<factionNameMaker>NamerFactionOutlander</factionNameMaker>
 		<settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
-		<geneticVariance>1</geneticVariance>
 		<backstoryCategories>
 			<li>Anneli_Childhood</li>
 			<li>Anneli_Story_Gakuen</li>
@@ -69,17 +68,17 @@
 				<commonality>100</commonality>
 				<options>
 					<Anneli_Gakuen_Leader>1</Anneli_Gakuen_Leader>
-					<Anneli_Gakuen_Kitakubuinn_SailorSuit>7</Anneli_Gakuen_Kitakubuinn_SailorSuit>
-					<Anneli_Gakuen_Kitakubuinn_WesternSuit>7</Anneli_Gakuen_Kitakubuinn_WesternSuit>
-					<Anneli_Gakuen_Sabagebuin_SailorSuit>7</Anneli_Gakuen_Sabagebuin_SailorSuit>
-					<Anneli_Gakuen_Sabagebuin_WesternSuit>7</Anneli_Gakuen_Sabagebuin_WesternSuit>
-					<Anneli_Gakuen_Tsuppari>5</Anneli_Gakuen_Tsuppari>
-					<Anneli_Gakuen_Sukeban>5</Anneli_Gakuen_Sukeban>
-					<Anneli_Gakuen_Undoubuin>5</Anneli_Gakuen_Undoubuin>
-					<Anneli_Gakuen_Suieibuin>2</Anneli_Gakuen_Suieibuin>
-					<Anneli_Gakuen_Ouenbuin_CheerLeader>2</Anneli_Gakuen_Ouenbuin_CheerLeader>
-					<Anneli_Gakuen_Ouenbuin_SailorSuit>2</Anneli_Gakuen_Ouenbuin_SailorSuit>
-					<Anneli_Gakuen_Kendobuin>5</Anneli_Gakuen_Kendobuin>
+					<Anneli_Gakuen_Kitakubuinn_SailorSuit>5</Anneli_Gakuen_Kitakubuinn_SailorSuit>
+					<Anneli_Gakuen_Kitakubuinn_WesternSuit>5</Anneli_Gakuen_Kitakubuinn_WesternSuit>
+					<Anneli_Gakuen_Sabagebuin_SailorSuit>5</Anneli_Gakuen_Sabagebuin_SailorSuit>
+					<Anneli_Gakuen_Sabagebuin_WesternSuit>5</Anneli_Gakuen_Sabagebuin_WesternSuit>
+					<Anneli_Gakuen_Tsuppari>3</Anneli_Gakuen_Tsuppari>
+					<Anneli_Gakuen_Sukeban>3</Anneli_Gakuen_Sukeban>
+					<Anneli_Gakuen_Undoubuin>3</Anneli_Gakuen_Undoubuin>
+					<Anneli_Gakuen_Suieibuin>3</Anneli_Gakuen_Suieibuin>
+					<Anneli_Gakuen_Ouenbuin_CheerLeader>3</Anneli_Gakuen_Ouenbuin_CheerLeader>
+					<Anneli_Gakuen_Ouenbuin_SailorSuit>3</Anneli_Gakuen_Ouenbuin_SailorSuit>
+					<Anneli_Gakuen_Kendobuin>3</Anneli_Gakuen_Kendobuin>
 				</options>
 			</li>
 			
@@ -125,17 +124,17 @@
 				<kindDef>Settlement</kindDef>
 				<options>
 					<Anneli_Gakuen_Leader>1</Anneli_Gakuen_Leader>
-					<Anneli_Gakuen_Kitakubuinn_SailorSuit>7</Anneli_Gakuen_Kitakubuinn_SailorSuit>
-					<Anneli_Gakuen_Kitakubuinn_WesternSuit>7</Anneli_Gakuen_Kitakubuinn_WesternSuit>
-					<Anneli_Gakuen_Sabagebuin_SailorSuit>7</Anneli_Gakuen_Sabagebuin_SailorSuit>
-					<Anneli_Gakuen_Sabagebuin_WesternSuit>7</Anneli_Gakuen_Sabagebuin_WesternSuit>
-					<Anneli_Gakuen_Tsuppari>5</Anneli_Gakuen_Tsuppari>
-					<Anneli_Gakuen_Sukeban>5</Anneli_Gakuen_Sukeban>
-					<Anneli_Gakuen_Undoubuin>5</Anneli_Gakuen_Undoubuin>
-					<Anneli_Gakuen_Suieibuin>2</Anneli_Gakuen_Suieibuin>
-					<Anneli_Gakuen_Ouenbuin_CheerLeader>2</Anneli_Gakuen_Ouenbuin_CheerLeader>
-					<Anneli_Gakuen_Ouenbuin_SailorSuit>2</Anneli_Gakuen_Ouenbuin_SailorSuit>
-					<Anneli_Gakuen_Kendobuin>5</Anneli_Gakuen_Kendobuin>
+					<Anneli_Gakuen_Kitakubuinn_SailorSuit>5</Anneli_Gakuen_Kitakubuinn_SailorSuit>
+					<Anneli_Gakuen_Kitakubuinn_WesternSuit>5</Anneli_Gakuen_Kitakubuinn_WesternSuit>
+					<Anneli_Gakuen_Sabagebuin_SailorSuit>5</Anneli_Gakuen_Sabagebuin_SailorSuit>
+					<Anneli_Gakuen_Sabagebuin_WesternSuit>5</Anneli_Gakuen_Sabagebuin_WesternSuit>
+					<Anneli_Gakuen_Tsuppari>3</Anneli_Gakuen_Tsuppari>
+					<Anneli_Gakuen_Sukeban>3</Anneli_Gakuen_Sukeban>
+					<Anneli_Gakuen_Undoubuin>3</Anneli_Gakuen_Undoubuin>
+					<Anneli_Gakuen_Suieibuin>3</Anneli_Gakuen_Suieibuin>
+					<Anneli_Gakuen_Ouenbuin_CheerLeader>3</Anneli_Gakuen_Ouenbuin_CheerLeader>
+					<Anneli_Gakuen_Ouenbuin_SailorSuit>3</Anneli_Gakuen_Ouenbuin_SailorSuit>
+					<Anneli_Gakuen_Kendobuin>3</Anneli_Gakuen_Kendobuin>
 				</options>
 			</li>
 		</pawnGroupMakers>

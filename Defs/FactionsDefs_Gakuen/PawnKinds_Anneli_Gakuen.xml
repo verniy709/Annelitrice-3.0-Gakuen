@@ -2,11 +2,11 @@
 <Defs>
 
 	<PawnKindDef Name="Anneli_Gakuen_KindBase" ParentName="Anneli_KindBase" Abstract="True">
-		<label>Gakuen_KindBase</label>
+		<label>Anneli_Gakuen_KindBase</label>
 		<itemQuality>Good</itemQuality>
 		<defaultFactionType>Anneli_Faction_Gakuen</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>85</combatPower>
+		<combatPower>95</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryCategories>
 			<li>Anneli_Childhood</li>
@@ -108,6 +108,7 @@
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelTags>
+			<li>BeltDefensePop</li>
 			<li>Anneli_Gakuen_Common</li>
 			<li>Anneli_Gakuen_Sabagebuin_SailorSuit</li>
 		</apparelTags>
@@ -117,6 +118,8 @@
 			<li>Revolver</li>
 			<li>IndustrialGunAdvanced</li>
 			<li>GrenadeDestructive</li>
+			<li>GrenadeEMP</li>
+			<li>GrenadeSmoke</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -126,6 +129,7 @@
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelTags>
+			<li>BeltDefensePop</li>
 			<li>Anneli_Gakuen_Common</li>
 			<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
 		</apparelTags>
@@ -135,6 +139,8 @@
 			<li>Revolver</li>
 			<li>IndustrialGunAdvanced</li>
 			<li>GrenadeDestructive</li>
+			<li>GrenadeEMP</li>
+			<li>GrenadeSmoke</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -144,6 +150,7 @@
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelTags>
+			<li>BeltDefense</li>
 			<li>Anneli_Gakuen_Tsuppari</li>
 		</apparelTags>
 		<apparelMoney>1500~3000</apparelMoney>
@@ -162,6 +169,7 @@
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelTags>
+			<li>BeltDefense</li>
 			<li>Anneli_Gakuen_Sukeban</li>
 		</apparelTags>
 		<apparelMoney>1500~3000</apparelMoney>

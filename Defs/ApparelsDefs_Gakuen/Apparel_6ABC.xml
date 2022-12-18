@@ -62,13 +62,14 @@
 		<description>NOT dyeable.</description>
 		<label>(Gakuen)6ABC_PaperBag</label>
 		<graphicData>
-			<texPath>6ABC/PaperBag/Anneli_Gakuen_PaperBagOkay</texPath>
+			<texPath>6ABC/PaperBag/Anneli_Gakuen_PaperBag</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6ABC/PaperBag/Anneli_Gakuen_PaperBagOkay</wornGraphicPath>
+			<wornGraphicPath>6ABC/PaperBag/Anneli_Gakuen_PaperBag</wornGraphicPath>
 			<tags>
 				<li>Anneli_FullHelmet</li>
+				<li>Anneli_Gakuen_Suieibuin</li>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Tsuppari</li>
 				<li>Anneli_Gakuen_Sukeban</li>
@@ -101,6 +102,18 @@
 						<path>6ABC/PaperBag/Anneli_Gakuen_PaperBagUnhappy</path>
 						<!-- <shader>CutoutComplex</shader> -->
 					</li> 	
+					<li>
+						<apparelDef>Anneli_Gakuen_Apron</apparelDef>
+						<level>1</level>
+						<path>6ABC/PaperBag/Anneli_Gakuen_PaperBagOkay</path>
+						<!-- <shader>CutoutComplex</shader> -->
+					</li> 
+					<li>
+						<apparelDef>Anneli_Gakuen_Coat</apparelDef>
+						<level>1</level>
+						<path>6ABC/PaperBag/Anneli_Gakuen_PaperBagOkay</path>
+						<!-- <shader>CutoutComplex</shader> -->
+					</li> 
 					<li>
 						<apparelDef>Anneli_Gakuen_GakuranCoat</apparelDef>
 						<level>1</level>
@@ -140,9 +153,7 @@
 				</replaceTexPathList>
 			</li>
 		</comps>
-		<generateCommonality>0.5</generateCommonality><!--Less chance-->
+		<generateCommonality>0.1</generateCommonality><!--Less chance-->
 	</ThingDef>
 
-
-			
 </Defs>

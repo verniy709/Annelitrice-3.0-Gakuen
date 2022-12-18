@@ -85,7 +85,7 @@
 	<!--Anneli_Gakuen_Toast-->
 	<ThingDef ParentName="Anneli_Gakuen_6C">
 		<defName>Anneli_Gakuen_Toast</defName>
-		<description>Dyeable.</description>
+		<description>NOT dyeable.</description>
 		<label>(Gakuen)6C_Toast</label>
 		<graphicData>
 			<texPath>6C/Anneli_Gakuen_Toast</texPath>

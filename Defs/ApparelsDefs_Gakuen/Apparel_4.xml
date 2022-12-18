@@ -71,4 +71,61 @@
 		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
+	<!--Anneli_Gakuen_ArmorBikini-->
+	<ThingDef ParentName="Anneli_Gakuen_4">
+		<defName>Anneli_Gakuen_ArmorBikini</defName>
+		<description>Dyeable.</description>
+		<label>(Gakuen)4_ArmorBikini</label>
+		<graphicData>
+			<texPath>4/Anneli_Gakuen_ArmorBikini</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>4/Anneli_Gakuen_ArmorBikini</wornGraphicPath>
+			<tags>
+				<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Gakuen_Tsuppari</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_Gakuen_CamoArmorBikini-->
+	<ThingDef ParentName="Anneli_Gakuen_4">
+		<defName>Anneli_Gakuen_CamoArmorBikini</defName>
+		<description>NOT dyeable.</description>
+		<label>(Gakuen)4_CamoArmorBikini</label>
+		<graphicData>
+			<texPath>4/Anneli_Gakuen_CamoArmorBikini</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>4/Anneli_Gakuen_CamoArmorBikini</wornGraphicPath>
+			<tags>
+				<li>Anneli_Gakuen_Sabagebuin_SailorSuit</li>
+				<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,255,255,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
 </Defs>

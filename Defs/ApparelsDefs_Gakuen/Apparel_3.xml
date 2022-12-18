@@ -239,6 +239,10 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<recipeMaker Inherit="False">
+			<!--Not makeable-->
+			<useIngredientsForColor>false</useIngredientsForColor>
+    	</recipeMaker>
 		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
@@ -296,6 +300,10 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<recipeMaker Inherit="False">
+			<!--Not makeable-->
+			<useIngredientsForColor>false</useIngredientsForColor>
+    	</recipeMaker>
 		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 	
