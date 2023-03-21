@@ -58,6 +58,17 @@
 			<li>NeolithicMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Gakuen_RiotShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>	
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -79,6 +90,17 @@
 			<li>NeolithicMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Gakuen_RiotShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -100,6 +122,17 @@
 			<li>NeolithicMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Gakuen_RiotShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -121,6 +154,17 @@
 			<li>GrenadeEMP</li>
 			<li>GrenadeSmoke</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Gakuen_BallisticShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -142,6 +186,17 @@
 			<li>GrenadeEMP</li>
 			<li>GrenadeSmoke</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Gakuen_BallisticShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -180,6 +235,17 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Gakuen_RiotShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
