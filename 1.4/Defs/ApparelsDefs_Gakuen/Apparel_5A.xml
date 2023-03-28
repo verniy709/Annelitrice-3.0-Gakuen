@@ -3,6 +3,12 @@
 
 	<ThingDef Name="Anneli_Gakuen_5A" ParentName="Anneli_5A" Abstract="True">
 		<equippedStatOffsets>
+			<FoodPoisonChance>-0.1</FoodPoisonChance>
+			<CleaningSpeed>0.1</CleaningSpeed>
+			<NegotiationAbility>0.1</NegotiationAbility>
+			<TradePriceImprovement>0.1</TradePriceImprovement>
+			<SocialImpact>0.1</SocialImpact>
+			<GlobalLearningFactor>0.1</GlobalLearningFactor>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Gakuen</li>
@@ -45,7 +51,7 @@
 <!--Anneli_Gakuen_CamoChestRig-->
 	<ThingDef ParentName="Anneli_Gakuen_5A">
 		<defName>Anneli_Gakuen_CamoChestRig</defName>
-		<description>Dyeable.</description>
+		<description>Not dyeable.</description>
 		<label>(Gakuen)5A_CamoChestRig</label>
 		<graphicData>
 			<texPath>5A/Anneli_Gakuen_CamoChestRig</texPath>

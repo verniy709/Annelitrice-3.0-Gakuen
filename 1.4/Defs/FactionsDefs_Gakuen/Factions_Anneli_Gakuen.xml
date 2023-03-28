@@ -6,7 +6,7 @@
 		<label>Anneli Faction Gakuen</label>
 		<description>Annelitrice Gakuen is a unique faction of annelitrice who believe that a high school lifestyle provides the most fulfilling existence possible. They embrace the archetypal activities of high school life such as love triangles, tea parties, and school competitions. Their society is built around clubs, which make up every facet of living from hobbies to industry and even law enforcement. The citizens, known as "Students," are expected to join one or more clubs. The leadership is chosen by lottery, and the chosen leader is referred to as the "Great Senpai," ruling as the supreme leader of their settlement, or "School."\n\nWhile this system seems organized, Annelitrice Gakuen is often preyed upon by hostilities from outside the school. Due to their unique ideology, they are either unable or unwilling to build a functional defense. Consequently, their militias and club members are constantly overwhelmed, leaving their schools ransacked. This annihilation has repeated for many generations, yet the system remains unaltered. To this day, the Students of Annelitrice Gakuen remain resolute and continue to rebuild, embracing their odd lifestyles as if nothing happened.</description>
 		<pawnSingular>Annelitrice</pawnSingular>
-		<pawnsPlural>Annelitrices</pawnsPlural>
+		<pawnsPlural>Annelitrice</pawnsPlural>
 		<fixedName>Forged Gakuen</fixedName>
 		<requiredMemes>
 			<li MayRequire="Ludeon.RimWorld.Ideology">FemaleSupremacy</li>

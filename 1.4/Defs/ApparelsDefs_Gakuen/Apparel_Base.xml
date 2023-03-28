@@ -6,5 +6,11 @@
 		<parent>Apparel</parent>
 		<label>Annelitrice Gakuen Apparels</label>
 	</ThingCategoryDef>
+
+	<ThingCategoryDef>
+		<defName>Category_Annelitrice_Gakuen_Dyed</defName>
+		<parent>Category_Annelitrice_Gakuen</parent>
+		<label>Pawn Spawn Gakuen Apparels</label>
+	</ThingCategoryDef>
 	
 </Defs>

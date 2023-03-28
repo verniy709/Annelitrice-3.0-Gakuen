@@ -3,6 +3,12 @@
 
 	<ThingDef Name="Anneli_Gakuen_6ABC_NonMetal" ParentName="Anneli_6ABC_NonMetal" Abstract="True">
 		<equippedStatOffsets>
+			<FoodPoisonChance>-0.3</FoodPoisonChance>
+			<CleaningSpeed>0.3</CleaningSpeed>
+			<NegotiationAbility>0.3</NegotiationAbility>
+			<TradePriceImprovement>0.3</TradePriceImprovement>
+			<SocialImpact>0.3</SocialImpact>
+			<GlobalLearningFactor>0.3</GlobalLearningFactor>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Gakuen</li>
@@ -16,6 +22,12 @@
 
 	<ThingDef Name="Anneli_Gakuen_6ABC_Metal" ParentName="Anneli_6ABC_Metal" Abstract="True">
 		<equippedStatOffsets>
+			<FoodPoisonChance>-0.3</FoodPoisonChance>
+			<CleaningSpeed>0.3</CleaningSpeed>
+			<NegotiationAbility>0.3</NegotiationAbility>
+			<TradePriceImprovement>0.3</TradePriceImprovement>
+			<SocialImpact>0.3</SocialImpact>
+			<GlobalLearningFactor>0.3</GlobalLearningFactor>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Gakuen</li>
@@ -31,7 +43,7 @@
 	<ThingDef ParentName="Anneli_Gakuen_6ABC_Metal">
 		<defName>Anneli_Gakuen_KendoHelmet</defName>
 		<description>Dyeable.</description>
-		<label>(Gakuen)6ABCD_KendoHelmet</label>
+		<label>(Gakuen)6ABC_KendoHelmet</label>
 		<graphicData>
 			<texPath>6ABC/Anneli_Gakuen_KendoHelmet</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
