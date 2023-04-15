@@ -57,8 +57,8 @@
 	<!--Anneli_Gakuen_WALKWOMAN-->
 	<ThingDef ParentName="Anneli_Gakuen_8A">
 		<defName>Anneli_Gakuen_WALKWOMAN</defName>
-		<description>(Gakuen)8A_WALKWOMAN</description>
-		<label>Dyeable. No apparel texture.</label>
+		<description>Dyeable. No apparel texture.</description>
+		<label>(Gakuen)8A_WALKWOMAN</label>
 		<graphicData>
 			<texPath>8A/Anneli_Gakuen_WALKWOMAN</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -154,8 +154,8 @@
 	<!--Anneli_Gakuen_Flute-->
 	<ThingDef ParentName="Anneli_Gakuen_8A">
 		<defName>Anneli_Gakuen_Flute</defName>
-		<description>Dyeable.</description>
-		<label>Dyeable. No apparel texture.</label>
+		<description>Dyeable. No apparel texture.</description>
+		<label>(Gakuen)8A_Flute</label>
 		<graphicData>
 			<texPath>8A/Anneli_Gakuen_Flute</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -221,8 +221,8 @@
 	<!--Anneli_Gakuen_KatanaA-->
 	<ThingDef ParentName="Anneli_Gakuen_8A">
 		<defName>Anneli_Gakuen_KatanaA</defName>
-		<description>(Gakuen)8A_KatanaA</description>
-		<label>Dyeable.</label>
+		<description>Dyeable.</description>
+		<label>(Gakuen)8A_KatanaA</label>
 		<costStuffCount>20</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -280,8 +280,8 @@
 	<!--Anneli_Gakuen_KatanaB-->
 	<ThingDef ParentName="Anneli_Gakuen_8A">
 		<defName>Anneli_Gakuen_KatanaB</defName>
-		<description>(Gakuen)8A_KatanaB</description>
-		<label>Dyeable.</label>
+		<description>Dyeable.</description>
+		<label>(Gakuen)8A_KatanaB</label>
 		<costStuffCount>100</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>

@@ -43,8 +43,8 @@
 	<!--Anneli_Gakuen_Boots-->
 	<ThingDef ParentName="Anneli_Gakuen_2C_NonMetal">
 		<defName>Anneli_Gakuen_Boots</defName>
-		<description>(Gakuen)2C_Boots</description>
-		<label>Dyeable.</label>
+		<description>Dyeable.</description>
+		<label>(Gakuen)2C_Boots</label>
 		<graphicData>
 			<texPath>2C/Anneli_Gakuen_Boots</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -83,8 +83,8 @@
 	<!--Anneli_Gakuen_LeatherShoes-->
 	<ThingDef ParentName="Anneli_Gakuen_2C_NonMetal">
 		<defName>Anneli_Gakuen_LeatherShoes</defName>
-		<description>(Gakuen)2C_LeatherShoes</description>
-		<label>Dyeable.</label>
+		<description>Dyeable.</description>
+		<label>(Gakuen)2C_LeatherShoes</label>
 		<graphicData>
 			<texPath>2C/Anneli_Gakuen_LeatherShoes</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -123,8 +123,8 @@
 	<!--Anneli_Gakuen_TennisShoes-->
 	<ThingDef ParentName="Anneli_Gakuen_2C_NonMetal">
 		<defName>Anneli_Gakuen_TennisShoes</defName>
-		<description>(Gakuen)2C_TennisShoes</description>
-		<label>Dyeable.</label>
+		<description>Dyeable.</description>
+		<label>(Gakuen)2C_TennisShoes</label>
 		<graphicData>
 			<texPath>2C/Anneli_Gakuen_TennisShoes</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -160,8 +160,8 @@
 	<!--Anneli_Gakuen_Sneakers-->
 	<ThingDef ParentName="Anneli_Gakuen_2C_NonMetal">
 		<defName>Anneli_Gakuen_Sneakers</defName>
-		<description>(Gakuen)2C_Sneakers</description>
-		<label>Dyeable.</label>
+		<description>Dyeable.</description>
+		<label>(Gakuen)2C_Sneakers</label>
 		<graphicData>
 			<texPath>2C/Anneli_Gakuen_Sneakers</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -197,8 +197,8 @@
 	<!--Anneli_Gakuen_Geta-->
 	<ThingDef ParentName="Anneli_Gakuen_2C_NonMetal">
 		<defName>Anneli_Gakuen_Geta</defName>
-		<description>(Gakuen)2C_Geta</description>
-		<label>Dyeable.</label>
+		<description>Dyeable.</description>
+		<label>(Gakuen)2C_Geta</label>
 		<graphicData>
 			<texPath>2C/Anneli_Gakuen_Geta</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -227,8 +227,8 @@
 	<!--Anneli_Gakuen_Uwabaki-->
 	<ThingDef ParentName="Anneli_Gakuen_2C_NonMetal">
 		<defName>Anneli_Gakuen_Uwabaki</defName>
-		<description>(Gakuen)2C_Uwabaki</description>
-		<label>Dyeable.</label>
+		<description>Dyeable.</description>
+		<label>(Gakuen)2C_Uwabaki</label>
 		<graphicData>
 			<texPath>2C/Anneli_Gakuen_Uwabaki</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -260,8 +260,8 @@
 	<!--Anneli_Gakuen_Slippers-->
 	<ThingDef ParentName="Anneli_Gakuen_2C_NonMetal">
 		<defName>Anneli_Gakuen_Slippers</defName>
-		<description>(Gakuen)2C_Slippers</description>
-		<label>Dyeable.</label>
+		<description>Dyeable.</description>
+		<label>(Gakuen)2C_Slippers</label>
 		<graphicData>
 			<texPath>2C/Anneli_Gakuen_Slippers</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

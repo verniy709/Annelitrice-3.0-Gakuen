@@ -54,4 +54,31 @@
 		</colorGenerator>
 	</ThingDef>
 
+	<!--Anneli_Gakuen_CowPrintSwimsuit-->
+	<ThingDef ParentName="Anneli_Gakuen_1AB">
+		<defName>Anneli_Gakuen_CowPrintSwimsuit</defName>
+		<description>NOT dyeable.</description>
+		<label>(Gakuen)1AB_CowPrintSwimsuit</label>
+		<graphicData>
+			<texPath>1AB/Anneli_Gakuen_CowPrintSwimsuit</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1AB/Anneli_Gakuen_CowPrintSwimsuit</wornGraphicPath>
+			<tags>
+				<li>Anneli_Gakuen_Suieibuin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,255,255,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateCommonality>0.5</generateCommonality><!--Less chance-->
+	</ThingDef>
+
 </Defs>

@@ -6,13 +6,14 @@
       <mods><li>Annelitrice 3.0</li></mods>
       <match Class="PatchOperationAdd">
         <success>Always</success>
-        <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Annelitrice"]/alienRace/raceRestriction/apparelList</xpath>        
+        <xpath>/Defs/AlienRace.ThingDef_AlienRace[@Name="Anneli_BasePawn"]/alienRace/raceRestriction/apparelList</xpath>        
         <value>
            <li>Anneli_Gakuen_Bra</li>
            <li>Anneli_Gakuen_CatBra</li>
            <li>Anneli_Gakuen_HalterNeckBra</li>
            <li>Anneli_Gakuen_ChestWrap</li>
            <li>Anneli_Gakuen_SchoolSwimsuit</li>
+           <li>Anneli_Gakuen_CowPrintSwimsuit</li>
            <li>Anneli_Gakuen_CatUnderwear</li>
            <li>Anneli_Gakuen_Cheeky</li>
            <li>Anneli_Gakuen_Classic</li>
