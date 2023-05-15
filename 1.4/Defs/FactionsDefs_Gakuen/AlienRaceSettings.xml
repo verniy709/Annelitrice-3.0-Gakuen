@@ -226,67 +226,67 @@
 							<kindDefs>
 								<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
 							</kindDefs>
-							<chance>1000</chance>
+							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
 							</kindDefs>
-							<chance>1000</chance>
+							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Sabagebuin_SailorSuit</li>
 							</kindDefs>
-							<chance>1000</chance>
+							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
 							</kindDefs>
-							<chance>1000</chance>
+							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Tsuppari</li>
 							</kindDefs>
-							<chance>1000</chance>
+							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Sukeban</li>
 							</kindDefs>
-							<chance>1000</chance>
+							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Undoubuin</li>
 							</kindDefs>
-							<chance>1000</chance>
+							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Suieibuin</li>
 							</kindDefs>
-							<chance>1000</chance>
+							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
 							</kindDefs>
-							<chance>1000</chance>
+							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
 							</kindDefs>
-							<chance>1000</chance>
+							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Kendobuin</li>
 							</kindDefs>
-							<chance>1000</chance>
+							<chance>100</chance>
 						</li>
 					</pawnKindEntries>
 					<factionDefs>
