@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Gakuen_ChestRig</defName>
+		<originalDef>Anneli_Gakuen_ChestRig</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>5A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Gakuen_ChestRig</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.0263, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.0263, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.0263, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.0263, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Gakuen_CamoChestRig</defName>
+		<originalDef>Anneli_Gakuen_CamoChestRig</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>5A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Gakuen_CamoChestRig</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.0263, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.0263, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.0263, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.0263, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Gakuen_Scarf</defName>
+		<originalDef>Anneli_Gakuen_Scarf</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>5A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Gakuen_Scarf</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.0263, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.0263, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.0263, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.0263, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Gakuen_PlaidScarf</defName>
+		<originalDef>Anneli_Gakuen_PlaidScarf</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>5A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Gakuen_PlaidScarf</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.0263, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.0263, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.0263, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.0263, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Gakuen_CoatAsCloak</defName>
+		<originalDef>Anneli_Gakuen_CoatAsCloak</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>5A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Gakuen_CoatAsCloak</li>
+				</prefix>
+				<renderLayer>FrontShell</renderLayer>
+				<textureLevelsName>Anneli_FrontShell5A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.6698, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.6698, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, -2.6698, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.6698, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Gakuen_CoatAsCloak</li>
+				</prefix>
+				<renderLayer>BottomShell</renderLayer>
+				<textureLevelsName>Anneli_BottomShell5A</textureLevelsName>
+				<drawOffsetSouth>(0, -2.6698, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.6698, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.6698, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.6698, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+</Defs>
