@@ -12,7 +12,7 @@
 					<li>Anneli_Gakuen_WALKWOMAN</li>
 				</prefix>
 				<renderLayer>FrontShell</renderLayer>
-				<textureLevelsName>Anneli_Apparel8A</textureLevelsName>
+				<textureLevelsName>Anneli_FrontShell8A</textureLevelsName>
 				<drawOffsetSouth>(0, 2.86285, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.86285, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, -2.86285, 0)</drawOffsetNorth>
@@ -36,7 +36,7 @@
 					<li>Anneli_Gakuen_Flute</li>
 				</prefix>
 				<renderLayer>FrontShell</renderLayer>
-				<textureLevelsName>Anneli_Apparel8A</textureLevelsName>
+				<textureLevelsName>Anneli_FrontShell8A</textureLevelsName>
 				<drawOffsetSouth>(0, 2.86285, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.86285, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, -2.86285, 0)</drawOffsetNorth>
