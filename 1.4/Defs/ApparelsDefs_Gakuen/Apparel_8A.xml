@@ -228,7 +228,7 @@
 			<li>Metallic</li>
 		</stuffCategories>
 		<statBases>
-			<WorkToMake>20</WorkToMake>
+			<WorkToMake>200</WorkToMake>
 			<Mass>1</Mass>
 			<StuffEffectMultiplierArmor>0.01</StuffEffectMultiplierArmor>
 			<StuffEffectMultiplierInsulation_Cold>0.01</StuffEffectMultiplierInsulation_Cold>
