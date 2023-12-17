@@ -37,7 +37,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 <!--Anneli_Gakuen_CamoChestRig-->
@@ -65,7 +65,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Gakuen_Scarf-->
@@ -101,7 +101,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Gakuen_PlaidScarf-->
@@ -137,7 +137,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Gakuen_CoatAsCloak-->

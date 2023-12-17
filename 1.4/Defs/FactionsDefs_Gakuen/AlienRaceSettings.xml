@@ -43,6 +43,12 @@
 				</li>
 				<li>
 					<kindDefs>
+						<li>Anneli_Gakuen_Sukeban_ShortUniform</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
 						<li>Anneli_Gakuen_Undoubuin</li>
 					</kindDefs>
 					<chance>1</chance>
@@ -50,6 +56,12 @@
 				<li>
 					<kindDefs>
 						<li>Anneli_Gakuen_Suieibuin</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_Gakuen_Suieibuin_CowPrint</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -71,7 +83,6 @@
 					</kindDefs>
 					<chance>1</chance>
 				</li>
-
 			</alienslavekinds>
 
 			<alienwandererkinds>
@@ -115,6 +126,12 @@
 						</li>
 						<li>
 							<kindDefs>
+								<li>Anneli_Gakuen_Sukeban_ShortUniform</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
 								<li>Anneli_Gakuen_Undoubuin</li>
 							</kindDefs>
 							<chance>1</chance>
@@ -122,6 +139,12 @@
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Suieibuin</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_Gakuen_Suieibuin_CowPrint</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
@@ -189,6 +212,12 @@
 				</li>
 				<li>
 					<kindDefs>
+						<li>Anneli_Gakuen_Sukeban_ShortUniform</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
 						<li>Anneli_Gakuen_Undoubuin</li>
 					</kindDefs>
 					<chance>1</chance>
@@ -196,6 +225,12 @@
 				<li>
 					<kindDefs>
 						<li>Anneli_Gakuen_Suieibuin</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_Gakuen_Suieibuin_CowPrint</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -260,6 +295,12 @@
 						</li>
 						<li>
 							<kindDefs>
+								<li>Anneli_Gakuen_Sukeban_ShortUniform</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
 								<li>Anneli_Gakuen_Undoubuin</li>
 							</kindDefs>
 							<chance>100</chance>
@@ -267,6 +308,12 @@
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Suieibuin</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_Gakuen_Suieibuin_CowPrint</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>

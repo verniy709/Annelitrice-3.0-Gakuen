@@ -20,7 +20,7 @@
 		</techHediffsTags>
 		<apparelAllowHeadgearChance>1.0</apparelAllowHeadgearChance>
 		<gearHealthRange>
-			<min>0.4</min>
+			<min>1.0</min>
 			<max>2.0</max>
 		</gearHealthRange>
 		<inventoryOptions>
@@ -44,6 +44,10 @@
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<factionLeader>true</factionLeader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SailorSuitA</li>
+			<li>Anneli_Gakuen_Skirt_Blue</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Gakuen_Common</li>
 			<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
@@ -76,6 +80,10 @@
 		<label>Gakuen_Kitakubuinn</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SailorSuitA</li>
+			<li>Anneli_Gakuen_Skirt_Blue</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Gakuen_Common</li>
 			<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
@@ -108,6 +116,10 @@
 		<label>Gakuen_Kitakubuinn</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_ShirtNecktie</li>
+			<li>Anneli_Gakuen_PlaidSkirt</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Gakuen_Common</li>
 			<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
@@ -140,6 +152,10 @@
 		<label>Gakuen_Sabagebuin</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SailorSuitA</li>
+			<li>Anneli_Gakuen_Skirt_Blue</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_Gakuen_Common</li>
@@ -172,6 +188,10 @@
 		<label>Gakuen_Sabagebuin</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_ShirtBowTie</li>
+			<li>Anneli_Gakuen_PlaidMiniskirt</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_Gakuen_Common</li>
@@ -204,6 +224,10 @@
 		<label>Gakuen_Tsuppari</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_ShirtOpen</li>
+			<li>Anneli_Gakuen_DressPants</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefense</li>
 			<li>Anneli_Gakuen_Tsuppari</li>
@@ -223,6 +247,44 @@
 		<label>Gakuen_Sukeban</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SailorSuitB</li>
+			<li>Anneli_Gakuen_Skirt</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefense</li>
+			<li>Anneli_Gakuen_Sukeban</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeBasic</li>
+			<li>NeolithicMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Gakuen_RiotShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
+		<defName>Anneli_Gakuen_Sukeban_ShortUniform</defName>
+		<label>Gakuen_Sukeban</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SailorCropTopB</li>
+			<li>Anneli_Gakuen_Miniskirt</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefense</li>
 			<li>Anneli_Gakuen_Sukeban</li>
@@ -253,6 +315,10 @@
 		<label>Gakuen_Undoubuin</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_GymShirt</li>
+			<li>Anneli_Gakuen_GymShorts</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Gakuen_Undoubuin</li>
 		</apparelTags>
@@ -273,6 +339,32 @@
 		<label>Gakuen_Suieibuin</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SchoolSwimsuit</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Suieibuin</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>GrenadeDestructive</li>
+			<li>MedievalMeleeBasic</li>
+			<li>NeolithicMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
+		<defName>Anneli_Gakuen_Suieibuin_CowPrint</defName>
+		<label>Gakuen_Suieibuin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_CowPrintSwimsuit</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Gakuen_Suieibuin</li>
 		</apparelTags>
@@ -293,6 +385,10 @@
 		<label>Gakuen_Ouenbuin</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_CheerCropTop</li>
+			<li>Anneli_Gakuen_CheerDress</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
 		</apparelTags>
@@ -313,6 +409,10 @@
 		<label>Gakuen_Ouenbuin</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SailorCropTopA</li>
+			<li>Anneli_Gakuen_Miniskirt_Red</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
 		</apparelTags>
@@ -333,6 +433,10 @@
 		<label>Gakuen_Kendobuin</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_KendoTop</li>
+			<li>Anneli_Gakuen_KendoHakama</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefense</li>
 			<li>Anneli_Gakuen_Kendobuin</li>

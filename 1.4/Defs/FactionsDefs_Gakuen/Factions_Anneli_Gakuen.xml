@@ -75,15 +75,16 @@
 					<Anneli_Gakuen_Sabagebuin_SailorSuit>5</Anneli_Gakuen_Sabagebuin_SailorSuit>
 					<Anneli_Gakuen_Sabagebuin_WesternSuit>5</Anneli_Gakuen_Sabagebuin_WesternSuit>
 					<Anneli_Gakuen_Tsuppari>3</Anneli_Gakuen_Tsuppari>
-					<Anneli_Gakuen_Sukeban>3</Anneli_Gakuen_Sukeban>
+					<Anneli_Gakuen_Sukeban>2</Anneli_Gakuen_Sukeban>
+					<Anneli_Gakuen_Sukeban_ShortUniform>2</Anneli_Gakuen_Sukeban_ShortUniform>
 					<Anneli_Gakuen_Undoubuin>3</Anneli_Gakuen_Undoubuin>
-					<Anneli_Gakuen_Suieibuin>3</Anneli_Gakuen_Suieibuin>
+					<Anneli_Gakuen_Suieibuin>2</Anneli_Gakuen_Suieibuin>
+					<Anneli_Gakuen_Suieibuin_CowPrint>1</Anneli_Gakuen_Suieibuin_CowPrint>
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>3</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>3</Anneli_Gakuen_Ouenbuin_SailorSuit>
 					<Anneli_Gakuen_Kendobuin>3</Anneli_Gakuen_Kendobuin>
 				</options>
 			</li>
-			
 			<li>
 				<kindDef>Peaceful</kindDef>
 				<options>
@@ -115,6 +116,7 @@
 					<Anneli_Gakuen_Sabagebuin_WesternSuit>1</Anneli_Gakuen_Sabagebuin_WesternSuit>
 					<Anneli_Gakuen_Tsuppari>1</Anneli_Gakuen_Tsuppari>
 					<Anneli_Gakuen_Sukeban>1</Anneli_Gakuen_Sukeban>
+					<Anneli_Gakuen_Sukeban_ShortUniform>1</Anneli_Gakuen_Sukeban_ShortUniform>
 					<Anneli_Gakuen_Undoubuin>1</Anneli_Gakuen_Undoubuin>
 					<Anneli_Gakuen_Suieibuin>1</Anneli_Gakuen_Suieibuin>
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>1</Anneli_Gakuen_Ouenbuin_CheerLeader>
@@ -131,9 +133,11 @@
 					<Anneli_Gakuen_Sabagebuin_SailorSuit>5</Anneli_Gakuen_Sabagebuin_SailorSuit>
 					<Anneli_Gakuen_Sabagebuin_WesternSuit>5</Anneli_Gakuen_Sabagebuin_WesternSuit>
 					<Anneli_Gakuen_Tsuppari>3</Anneli_Gakuen_Tsuppari>
-					<Anneli_Gakuen_Sukeban>3</Anneli_Gakuen_Sukeban>
+					<Anneli_Gakuen_Sukeban>2</Anneli_Gakuen_Sukeban>
+					<Anneli_Gakuen_Sukeban_ShortUniform>2</Anneli_Gakuen_Sukeban_ShortUniform>
 					<Anneli_Gakuen_Undoubuin>3</Anneli_Gakuen_Undoubuin>
-					<Anneli_Gakuen_Suieibuin>3</Anneli_Gakuen_Suieibuin>
+					<Anneli_Gakuen_Suieibuin>2</Anneli_Gakuen_Suieibuin>
+					<Anneli_Gakuen_Suieibuin_CowPrint>1</Anneli_Gakuen_Suieibuin_CowPrint>
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>3</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>3</Anneli_Gakuen_Ouenbuin_SailorSuit>
 					<Anneli_Gakuen_Kendobuin>3</Anneli_Gakuen_Kendobuin>
@@ -147,10 +151,14 @@
 					<Anneli_Gakuen_Kitakubuinn_WesternSuit>1</Anneli_Gakuen_Kitakubuinn_WesternSuit>
 					<Anneli_Gakuen_Sabagebuin_SailorSuit>1</Anneli_Gakuen_Sabagebuin_SailorSuit>
 					<Anneli_Gakuen_Sabagebuin_WesternSuit>1</Anneli_Gakuen_Sabagebuin_WesternSuit>
+					<Anneli_Gakuen_Tsuppari>1</Anneli_Gakuen_Tsuppari>
+					<Anneli_Gakuen_Sukeban>1</Anneli_Gakuen_Sukeban>
+					<Anneli_Gakuen_Sukeban_ShortUniform>1</Anneli_Gakuen_Sukeban_ShortUniform>
 					<Anneli_Gakuen_Undoubuin>1</Anneli_Gakuen_Undoubuin>
 					<Anneli_Gakuen_Suieibuin>1</Anneli_Gakuen_Suieibuin>
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>1</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>1</Anneli_Gakuen_Ouenbuin_SailorSuit>
+					<Anneli_Gakuen_Kendobuin>1</Anneli_Gakuen_Kendobuin>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
@@ -161,10 +169,14 @@
 					<Anneli_Gakuen_Kitakubuinn_WesternSuit>1</Anneli_Gakuen_Kitakubuinn_WesternSuit>
 					<Anneli_Gakuen_Sabagebuin_SailorSuit>1</Anneli_Gakuen_Sabagebuin_SailorSuit>
 					<Anneli_Gakuen_Sabagebuin_WesternSuit>1</Anneli_Gakuen_Sabagebuin_WesternSuit>
+					<Anneli_Gakuen_Tsuppari>1</Anneli_Gakuen_Tsuppari>
+					<Anneli_Gakuen_Sukeban>1</Anneli_Gakuen_Sukeban>
+					<Anneli_Gakuen_Sukeban_ShortUniform>1</Anneli_Gakuen_Sukeban_ShortUniform>
 					<Anneli_Gakuen_Undoubuin>1</Anneli_Gakuen_Undoubuin>
 					<Anneli_Gakuen_Suieibuin>1</Anneli_Gakuen_Suieibuin>
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>1</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>1</Anneli_Gakuen_Ouenbuin_SailorSuit>
+					<Anneli_Gakuen_Kendobuin>1</Anneli_Gakuen_Kendobuin>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
@@ -175,10 +187,14 @@
 					<Anneli_Gakuen_Kitakubuinn_WesternSuit>1</Anneli_Gakuen_Kitakubuinn_WesternSuit>
 					<Anneli_Gakuen_Sabagebuin_SailorSuit>1</Anneli_Gakuen_Sabagebuin_SailorSuit>
 					<Anneli_Gakuen_Sabagebuin_WesternSuit>1</Anneli_Gakuen_Sabagebuin_WesternSuit>
+					<Anneli_Gakuen_Tsuppari>1</Anneli_Gakuen_Tsuppari>
+					<Anneli_Gakuen_Sukeban>1</Anneli_Gakuen_Sukeban>
+					<Anneli_Gakuen_Sukeban_ShortUniform>1</Anneli_Gakuen_Sukeban_ShortUniform>
 					<Anneli_Gakuen_Undoubuin>1</Anneli_Gakuen_Undoubuin>
 					<Anneli_Gakuen_Suieibuin>1</Anneli_Gakuen_Suieibuin>
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>1</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>1</Anneli_Gakuen_Ouenbuin_SailorSuit>
+					<Anneli_Gakuen_Kendobuin>1</Anneli_Gakuen_Kendobuin>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
@@ -189,10 +205,14 @@
 					<Anneli_Gakuen_Kitakubuinn_WesternSuit>1</Anneli_Gakuen_Kitakubuinn_WesternSuit>
 					<Anneli_Gakuen_Sabagebuin_SailorSuit>1</Anneli_Gakuen_Sabagebuin_SailorSuit>
 					<Anneli_Gakuen_Sabagebuin_WesternSuit>1</Anneli_Gakuen_Sabagebuin_WesternSuit>
+					<Anneli_Gakuen_Tsuppari>1</Anneli_Gakuen_Tsuppari>
+					<Anneli_Gakuen_Sukeban>1</Anneli_Gakuen_Sukeban>
+					<Anneli_Gakuen_Sukeban_ShortUniform>1</Anneli_Gakuen_Sukeban_ShortUniform>
 					<Anneli_Gakuen_Undoubuin>1</Anneli_Gakuen_Undoubuin>
 					<Anneli_Gakuen_Suieibuin>1</Anneli_Gakuen_Suieibuin>
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>1</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>1</Anneli_Gakuen_Ouenbuin_SailorSuit>
+					<Anneli_Gakuen_Kendobuin>1</Anneli_Gakuen_Kendobuin>
 				</options>
 			</li>
 		</pawnGroupMakers>
