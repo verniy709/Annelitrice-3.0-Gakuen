@@ -3,10 +3,10 @@
 
 	<PawnKindDef Name="Anneli_Gakuen_KindBase" ParentName="Anneli_KindBase" Abstract="True">
 		<label>Anneli_Gakuen_KindBase</label>
-		<itemQuality>Good</itemQuality>
+		<itemQuality>Masterwork</itemQuality>
 		<defaultFactionType>Anneli_Faction_Gakuen</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>140</combatPower>
+		<combatPower>160</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryCategories>
 			<li>Anneli_Childhood</li>
