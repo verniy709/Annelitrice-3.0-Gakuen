@@ -108,7 +108,7 @@
         <graphicData>
             <texPath>8C/Anneli_Gakuen_BallisticShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <drawSize>0.85</drawSize>
+            <drawSize>1</drawSize>
         </graphicData>
         <comps>
             <li Class="VFECore.CompProperties_Shield">
@@ -165,7 +165,7 @@
         <graphicData>
             <texPath>8C/Anneli_Gakuen_RiotShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <drawSize>0.85</drawSize>
+            <drawSize>1</drawSize>
         </graphicData>
         <comps>
             <li Class="VFECore.CompProperties_Shield">
