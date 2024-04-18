@@ -8,10 +8,14 @@
 		<isFighter>true</isFighter>
 		<combatPower>160</combatPower>
 		<canBeSapper>true</canBeSapper>
-		<backstoryCategories>
-			<li>Anneli_Childhood</li>
-			<li>Anneli_Story</li>
-		</backstoryCategories>
+		<backstoryFiltersOverride>
+			<li>
+				<categories>
+					<li>Anneli_Childhood</li>
+					<li>Anneli_Story_Gakuen</li>
+				</categories>
+			</li>
+		</backstoryFiltersOverride>
 		<weaponMoney>1000</weaponMoney>
 		<techHediffsChance>0.1</techHediffsChance>
 		<techHediffsMoney>1000</techHediffsMoney>
