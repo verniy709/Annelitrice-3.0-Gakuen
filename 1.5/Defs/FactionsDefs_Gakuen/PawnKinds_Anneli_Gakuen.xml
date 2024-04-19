@@ -455,4 +455,28 @@
 		</weaponTags>
 	</PawnKindDef>
 
+	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
+		<defName>Anneli_Gakuen_Kyudobuin</defName>
+		<label>Gakuen_Kyudobuin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Gakuen_KendoTop</li>
+			<li>Anneli_Gakuen_KendoHakama</li>
+			<li>Anneli_Gakuen_Chestguard</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Kyudobuin</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicRangedBasic</li>
+			<li>NeolithicRangedDecent</li>
+			<li>NeolithicRangedHeavy</li>
+			<li>NeolithicRangedChief</li>
+			<li>MedievalRanged</li>
+			<li>MedievalRangedHeavy</li>
+		</weaponTags>
+	</PawnKindDef>
+
 </Defs>

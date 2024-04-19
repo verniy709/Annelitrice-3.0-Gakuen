@@ -201,6 +201,7 @@
 			<wornGraphicPath>2B/Anneli_Gakuen_KendoHakama</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kendobuin</li>
+				<li>Anneli_Gakuen_Kyudobuin</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
