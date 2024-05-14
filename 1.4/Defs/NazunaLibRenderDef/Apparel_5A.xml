@@ -121,8 +121,8 @@
 				<prefix>
 					<li>Anneli_Back_Gakuen_CoatAsCloak</li>
 				</prefix>
-				<renderLayer>BottomShell</renderLayer>
-				<textureLevelsName>Anneli_BottomShell5A</textureLevelsName>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
 				<drawOffsetSouth>(0, -2.6698, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.6698, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.6698, 0)</drawOffsetNorth>

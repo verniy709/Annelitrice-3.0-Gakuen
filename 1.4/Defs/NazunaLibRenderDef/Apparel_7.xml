@@ -26,8 +26,8 @@
 				<prefix>
 					<li>Anneli_Back_Gakuen_SchoolBag</li>
 				</prefix>
-				<renderLayer>BottomShell</renderLayer>
-				<textureLevelsName>Anneli_BottomShell7</textureLevelsName>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
 				<drawOffsetSouth>(0, -0.232, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.09065, 0)</drawOffsetNorth>
@@ -64,8 +64,8 @@
 				<prefix>
 					<li>Anneli_Back_Gakuen_ShoulderBag</li>
 				</prefix>
-				<renderLayer>BottomShell</renderLayer>
-				<textureLevelsName>Anneli_BottomShell7</textureLevelsName>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
 				<drawOffsetSouth>(0, -0.232, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.60545, 0)</drawOffsetNorth>

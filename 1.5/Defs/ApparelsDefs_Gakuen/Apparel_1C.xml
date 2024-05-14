@@ -39,7 +39,7 @@
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Gakuen_Pantyhose-->
+	<!--Anneli_Gakuen_Pantyhose-->
 	<ThingDef ParentName="Anneli_Gakuen_1C">
 		<defName>Anneli_Gakuen_Pantyhose</defName>
 		<description>Dyeable.</description>
@@ -74,7 +74,7 @@
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Gakuen_Socks-->
+	<!--Anneli_Gakuen_Socks-->
 	<ThingDef ParentName="Anneli_Gakuen_1C">
 		<defName>Anneli_Gakuen_Socks</defName>
 		<description>Dyeable.</description>
@@ -114,7 +114,7 @@
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Gakuen_Stockings-->
+	<!--Anneli_Gakuen_Stockings-->
 	<ThingDef ParentName="Anneli_Gakuen_1C">
 		<defName>Anneli_Gakuen_Stockings</defName>
 		<description>Dyeable.</description>
@@ -151,7 +151,7 @@
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Gakuen_SoccerSocks-->
+	<!--Anneli_Gakuen_SoccerSocks-->
 	<ThingDef ParentName="Anneli_Gakuen_1C">
 		<defName>Anneli_Gakuen_SoccerSocks</defName>
 		<description>Dyeable.</description>
@@ -210,5 +210,32 @@
 			</options>
 		</colorGenerator>
 	</ThingDef>
-		
+
+	<!--Anneli_Gakuen_CowPrintStockings-->
+	<ThingDef ParentName="Anneli_Gakuen_1C">
+		<defName>Anneli_Gakuen_CowPrintStockings</defName>
+		<description>NOT dyeable.</description>
+		<label>(Gakuen)1C_CowPrintStockings</label>
+		<graphicData>
+			<texPath>1C/Anneli_Gakuen_CowPrintStockings</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1C/Anneli_Gakuen_CowPrintStockings</wornGraphicPath>
+			<tags>
+				<li>Anneli_Underwear</li>
+				<li>Anneli_Gakuen_Suieibuin_CowPrint</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,255,255,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
 </Defs>

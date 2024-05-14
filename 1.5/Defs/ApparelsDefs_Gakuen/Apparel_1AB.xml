@@ -64,7 +64,7 @@
 			<wornGraphicPath>1AB/Anneli_Gakuen_CowPrintSwimsuit</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
-				<li>Anneli_Gakuen_Suieibuin</li>
+				<li>Anneli_Gakuen_Suieibuin_CowPrint</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -76,7 +76,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateCommonality>0.5</generateCommonality><!--Less chance-->
 	</ThingDef>
 
 </Defs>

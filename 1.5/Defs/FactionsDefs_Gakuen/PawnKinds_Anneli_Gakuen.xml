@@ -368,9 +368,11 @@
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Gakuen_CowPrintSwimsuit</li>
+			<li>Anneli_Gakuen_CowPrintStockings</li>
 		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Gakuen_Suieibuin</li>
+			<li>Anneli_Gakuen_Suieibuin_CowPrint</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>

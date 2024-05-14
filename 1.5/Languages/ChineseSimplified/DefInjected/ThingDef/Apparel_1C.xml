@@ -35,6 +35,12 @@
 
   <Anneli_Gakuen_Tabi.label>(学园)1C_足袜</Anneli_Gakuen_Tabi.label>
   <Anneli_Gakuen_Tabi.description>可染色.</Anneli_Gakuen_Tabi.description>
+  
+
+  <!-- Anneli_Gakuen_CowPrintStockings -->
+
+  <Anneli_Gakuen_CowPrintStockings.label>(学园)1C_奶牛过膝袜</Anneli_Gakuen_CowPrintStockings.label>
+  <Anneli_Gakuen_CowPrintStockings.description>不可染色.</Anneli_Gakuen_CowPrintStockings.description>
 
 
 </LanguageData>
