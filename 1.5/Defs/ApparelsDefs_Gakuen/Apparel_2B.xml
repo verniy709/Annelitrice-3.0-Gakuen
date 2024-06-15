@@ -6,7 +6,7 @@
 			<SocialImpact>0.3</SocialImpact>
 		</equippedStatOffsets>
 		<thingCategories>
-			<li>Category_Annelitrice_Gakuen</li>
+			<li>Anneli_Category_Gakuen</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>
@@ -66,7 +66,7 @@
 			</options>
 		</colorGenerator>
 		<thingCategories Inherit="False">
-			<li>Category_Annelitrice_Gakuen_Dyed</li>
+			<li>Anneli_Category_Gakuen_Dyed</li>
 		</thingCategories>
 		<recipeMaker Inherit="False">
 			<!--Not makeable-->
@@ -126,7 +126,7 @@
 			</options>
 		</colorGenerator>
 		<thingCategories Inherit="False">
-			<li>Category_Annelitrice_Gakuen_Dyed</li>
+			<li>Anneli_Category_Gakuen_Dyed</li>
 		</thingCategories>
 		<recipeMaker Inherit="False">
 			<!--Not makeable-->
