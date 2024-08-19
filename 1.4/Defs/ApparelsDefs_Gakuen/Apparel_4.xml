@@ -125,5 +125,32 @@
 		</colorGenerator>
 		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
+	
+	<!--Anneli_Gakuen_Chestguard-->
+	<ThingDef ParentName="Anneli_Gakuen_4">
+		<defName>Anneli_Gakuen_Chestguard</defName>
+		<description>Dyeable.</description>
+		<label>(Gakuen)4_Chestguard</label>
+		<graphicData>
+			<texPath>4/Anneli_Gakuen_Chestguard</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>4/Anneli_Gakuen_Chestguard</wornGraphicPath>
+			<tags>
+				<li>Anneli_Gakuen_Kyudobuin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
 
 </Defs>

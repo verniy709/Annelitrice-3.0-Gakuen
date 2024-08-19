@@ -155,6 +155,7 @@
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
    <!--Anneli_Gakuen_RiotShield-->
@@ -212,6 +213,7 @@
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
 </Defs>

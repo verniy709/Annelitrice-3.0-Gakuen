@@ -82,7 +82,8 @@
 					<Anneli_Gakuen_Suieibuin_CowPrint>1</Anneli_Gakuen_Suieibuin_CowPrint>
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>3</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>3</Anneli_Gakuen_Ouenbuin_SailorSuit>
-					<Anneli_Gakuen_Kendobuin>3</Anneli_Gakuen_Kendobuin>
+					<Anneli_Gakuen_Kendobuin>2</Anneli_Gakuen_Kendobuin>
+					<Anneli_Gakuen_Kyudobuin>2</Anneli_Gakuen_Kyudobuin>
 				</options>
 			</li>
 			<li>
@@ -122,6 +123,7 @@
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>1</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>1</Anneli_Gakuen_Ouenbuin_SailorSuit>
 					<Anneli_Gakuen_Kendobuin>1</Anneli_Gakuen_Kendobuin>
+					<Anneli_Gakuen_Kyudobuin>1</Anneli_Gakuen_Kyudobuin>
 				</guards>
 			</li>
 			<li>
@@ -140,7 +142,8 @@
 					<Anneli_Gakuen_Suieibuin_CowPrint>1</Anneli_Gakuen_Suieibuin_CowPrint>
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>3</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>3</Anneli_Gakuen_Ouenbuin_SailorSuit>
-					<Anneli_Gakuen_Kendobuin>3</Anneli_Gakuen_Kendobuin>
+					<Anneli_Gakuen_Kendobuin>2</Anneli_Gakuen_Kendobuin>
+					<Anneli_Gakuen_Kyudobuin>2</Anneli_Gakuen_Kyudobuin>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
@@ -159,6 +162,7 @@
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>1</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>1</Anneli_Gakuen_Ouenbuin_SailorSuit>
 					<Anneli_Gakuen_Kendobuin>1</Anneli_Gakuen_Kendobuin>
+					<Anneli_Gakuen_Kyudobuin>1</Anneli_Gakuen_Kyudobuin>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
@@ -177,6 +181,7 @@
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>1</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>1</Anneli_Gakuen_Ouenbuin_SailorSuit>
 					<Anneli_Gakuen_Kendobuin>1</Anneli_Gakuen_Kendobuin>
+					<Anneli_Gakuen_Kyudobuin>1</Anneli_Gakuen_Kyudobuin>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
@@ -195,6 +200,7 @@
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>1</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>1</Anneli_Gakuen_Ouenbuin_SailorSuit>
 					<Anneli_Gakuen_Kendobuin>1</Anneli_Gakuen_Kendobuin>
+					<Anneli_Gakuen_Kyudobuin>1</Anneli_Gakuen_Kyudobuin>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
@@ -213,6 +219,7 @@
 					<Anneli_Gakuen_Ouenbuin_CheerLeader>1</Anneli_Gakuen_Ouenbuin_CheerLeader>
 					<Anneli_Gakuen_Ouenbuin_SailorSuit>1</Anneli_Gakuen_Ouenbuin_SailorSuit>
 					<Anneli_Gakuen_Kendobuin>1</Anneli_Gakuen_Kendobuin>
+					<Anneli_Gakuen_Kyudobuin>1</Anneli_Gakuen_Kyudobuin>
 				</options>
 			</li>
 		</pawnGroupMakers>
