@@ -3,7 +3,7 @@
 
 	<ThingDef Name="Anneli_Gakuen_3" ParentName="Anneli_3" Abstract="True">
 		<equippedStatOffsets>
-			<FoodPoisonChance>-0.4</FoodPoisonChance>
+			<GeneralLaborSpeed>0.2</GeneralLaborSpeed>
 			<CleaningSpeed>0.2</CleaningSpeed>
 		</equippedStatOffsets>
 		<thingCategories>
