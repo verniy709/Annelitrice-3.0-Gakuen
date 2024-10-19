@@ -233,7 +233,7 @@
 			<li>Anneli_Gakuen_DressPants</li>
 		</apparelRequired>
 		<apparelTags>
-			<li>BeltDefense</li>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_Gakuen_Tsuppari</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -256,7 +256,7 @@
 			<li>Anneli_Gakuen_Skirt</li>
 		</apparelRequired>
 		<apparelTags>
-			<li>BeltDefense</li>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_Gakuen_Sukeban</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -290,7 +290,7 @@
 			<li>Anneli_Gakuen_Miniskirt</li>
 		</apparelRequired>
 		<apparelTags>
-			<li>BeltDefense</li>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_Gakuen_Sukeban</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -444,7 +444,7 @@
 			<li>Anneli_Gakuen_KendoHakama</li>
 		</apparelRequired>
 		<apparelTags>
-			<li>BeltDefense</li>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_Gakuen_Kendobuin</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
