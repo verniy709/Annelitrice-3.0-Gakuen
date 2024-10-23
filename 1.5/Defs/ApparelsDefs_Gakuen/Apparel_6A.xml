@@ -79,6 +79,10 @@
 				<li>Anneli_Gakuen_Suieibuin</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -162,6 +166,10 @@
 				<li>Anneli_Gakuen_Kyudobuin</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -193,6 +201,10 @@
 				<li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -266,6 +278,10 @@
 				<li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
