@@ -17,6 +17,11 @@
 			<li MayRequire="Ludeon.RimWorld.Ideology">Loyalist</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">HighLife</li>
 		</requiredMemes>
+		<!-- <xenotypeSet>
+			<xenotypeChances>
+				<Anneli_Xenotype_Elf MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Elf>
+			</xenotypeChances>
+		</xenotypeSet> -->
 		<maxConfigurableAtWorldCreation>1</maxConfigurableAtWorldCreation>
 		<techLevel>Industrial</techLevel>
 		<allowedCultures>
