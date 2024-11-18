@@ -42,6 +42,7 @@
 			<wornGraphicPath>6A/Anneli_Gakuen_Beret</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -77,6 +78,7 @@
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Suieibuin</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -164,6 +166,7 @@
 				<li>Anneli_Gakuen_Tsuppari</li>
 				<li>Anneli_Gakuen_Kendobuin</li>
 				<li>Anneli_Gakuen_Kyudobuin</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -199,6 +202,7 @@
 				<li>Anneli_Gakuen_Undoubuin</li>
 				<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
 				<li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -276,6 +280,7 @@
 				<li>Anneli_Gakuen_Undoubuin</li>
 				<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
 				<li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -374,6 +379,7 @@
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
