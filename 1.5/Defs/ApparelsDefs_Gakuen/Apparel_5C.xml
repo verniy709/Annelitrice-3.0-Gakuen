@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Gakuen_5C_NonMetal" ParentName="Anneli_5C_NonMetal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Gakuen</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Gakuen_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Gakuen_5C_Metal" ParentName="Anneli_5C_Metal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Gakuen</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Gakuen_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_Gakuen_Glovelettes-->
+	<ThingDef ParentName="Anneli_Gakuen_5C_NonMetal">
+		<defName>Anneli_Gakuen_Glovelettes</defName>
+		<description>Dyeable.</description>
+		<label>(Gakuen)5C_Glovelettes</label>
+		<graphicData>
+			<texPath>5C/Anneli_Gakuen_Glovelettes</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5C/Anneli_Gakuen_Glovelettes</wornGraphicPath>
+			<tags>
+				<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Gakuen_Sabagebuin_SailorSuit</li>
+				<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
+				<li>Anneli_Gakuen_Tsuppari</li>
+				<li>Anneli_Gakuen_Sukeban</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_Gakuen_CheerPomPoms-->
+	<ThingDef ParentName="Anneli_Gakuen_5C_NonMetal">
+		<defName>Anneli_Gakuen_CheerPomPoms</defName>
+		<description>Dyeable.</description>
+		<label>(Gakuen)5C_CheerPomPoms</label>
+		<graphicData>
+			<texPath>5C/Anneli_Gakuen_CheerPomPoms</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5C/Anneli_Gakuen_CheerPomPoms</wornGraphicPath>
+			<tags>
+				<li>Anneli_Gakuen_Undoubuin</li>
+				<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
+				<li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(175,200,240,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(160,210,175,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(255,220,65,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+</Defs>

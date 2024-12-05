@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<PawnKindDef Name="Anneli_Gakuen_Shambler_KindBase" ParentName="Anneli_KindBase" Abstract="True">
+		<label>Anneli_Shambler</label>
+		<defaultFactionType>Entities</defaultFactionType>
+		<initialWillRange>0~1</initialWillRange>
+		<initialResistanceRange>7~12</initialResistanceRange>
+		<isGoodBreacher>true</isGoodBreacher>
+		<overrideDebugActionCategory>Entity</overrideDebugActionCategory>
+		<combatPower>40</combatPower>
+		<gearHealthRange>0.2~0.4</gearHealthRange>
+		<meleeAttackInfectionPathways>
+			<li>EntityAttacked</li>
+		</meleeAttackInfectionPathways>
+		<invNutrition>0</invNutrition>
+		<mutant>Shambler</mutant>
+		<generateInitialNonFamilyRelations>false</generateInitialNonFamilyRelations>
+		<itemQuality>Masterwork</itemQuality>
+		<xenotypeSet>
+			<xenotypeChances>
+				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">1.0</Anneli_Xenotype>
+				<Anneli_Xenotype_Abomination MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Abomination>
+				<Anneli_Xenotype_Dragonkin MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Dragonkin>
+				<Anneli_Xenotype_Elf MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Elf>
+				<Anneli_Xenotype_Fairy MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Fairy>
+				<Anneli_Xenotype_Hellion MayRequire="Ludeon.RimWorld.Biotech">0.05</Anneli_Xenotype_Hellion>
+				<Anneli_Xenotype_Kitsune MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Kitsune>
+				<Anneli_Xenotype_Loong MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Loong>
+				<Anneli_Xenotype_Messenger MayRequire="Ludeon.RimWorld.Biotech">0.05</Anneli_Xenotype_Messenger>
+				<Anneli_Xenotype_Nekojin MayRequire="Ludeon.RimWorld.Biotech">0.2</Anneli_Xenotype_Nekojin>
+				<Anneli_Xenotype_Oni MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Oni>
+				<Anneli_Xenotype_Succubus MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Succubus>
+				<Anneli_Xenotype_Usagi MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Usagi>
+			</xenotypeChances>
+		</xenotypeSet>
+		<apparelDisallowTags>
+			<li>Anneli_ExcludeShambler</li>
+		</apparelDisallowTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Kitakubuinn_SailorSuit</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SailorSuitA</li>
+			<li>Anneli_Gakuen_Skirt_Blue</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Common</li>
+			<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Kitakubuinn_WesternSuit</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_ShirtNecktie</li>
+			<li>Anneli_Gakuen_PlaidSkirt</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Common</li>
+			<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Sabagebuin_SailorSuit</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SailorSuitA</li>
+			<li>Anneli_Gakuen_Skirt_Blue</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_Gakuen_Common</li>
+			<li>Anneli_Gakuen_Sabagebuin_SailorSuit</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Sabagebuin_WesternSuit</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_ShirtBowTie</li>
+			<li>Anneli_Gakuen_PlaidMiniskirt</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_Gakuen_Common</li>
+			<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Tsuppari</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_ShirtOpen</li>
+			<li>Anneli_Gakuen_DressPants</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Tsuppari</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Sukeban</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SailorSuitB</li>
+			<li>Anneli_Gakuen_Skirt</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Sukeban</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Sukeban_ShortUniform</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SailorCropTopB</li>
+			<li>Anneli_Gakuen_Miniskirt</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Sukeban</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Undoubuin</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_GymShirt</li>
+			<li>Anneli_Gakuen_GymShorts</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Undoubuin</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Suieibuin</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SchoolSwimsuit</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Suieibuin</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Suieibuin_CowPrint</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_CowPrintSwimsuit</li>
+			<li>Anneli_Gakuen_CowPrintStockings</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Suieibuin</li>
+			<li>Anneli_Gakuen_Suieibuin_CowPrint</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Ouenbuin_CheerLeader</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_CheerCropTop</li>
+			<li>Anneli_Gakuen_CheerDress</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Ouenbuin_SailorSuit</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_SailorCropTopA</li>
+			<li>Anneli_Gakuen_Miniskirt_Red</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Kendobuin</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_KendoTop</li>
+			<li>Anneli_Gakuen_KendoHakama</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Kendobuin</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Gakuen_Shambler_KindBase">
+		<defName>Anneli_Gakuen_Shambler_Kyudobuin</defName>
+		<apparelRequired>
+			<li>Anneli_Gakuen_KendoTop</li>
+			<li>Anneli_Gakuen_KendoHakama</li>
+			<li>Anneli_Gakuen_Chestguard</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Gakuen_Kyudobuin</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+</Defs>
