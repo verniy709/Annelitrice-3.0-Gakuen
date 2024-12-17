@@ -8,7 +8,7 @@
 		<initialResistanceRange>7~12</initialResistanceRange>
 		<isGoodBreacher>true</isGoodBreacher>
 		<overrideDebugActionCategory>Entity</overrideDebugActionCategory>
-		<combatPower>40</combatPower>
+		<combatPower>60</combatPower>
 		<gearHealthRange>0.2~0.4</gearHealthRange>
 		<meleeAttackInfectionPathways>
 			<li>EntityAttacked</li>
@@ -17,9 +17,17 @@
 		<mutant>Shambler</mutant>
 		<generateInitialNonFamilyRelations>false</generateInitialNonFamilyRelations>
 		<itemQuality>Masterwork</itemQuality>
+		<backstoryFiltersOverride>
+			<li>
+				<categories>
+					<li>Anneli_Childhood</li>
+					<li>Anneli_Story_Gakuen</li>
+				</categories>
+			</li>
+		</backstoryFiltersOverride>
 		<xenotypeSet>
 			<xenotypeChances>
-				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">1.0</Anneli_Xenotype>
+				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">1.5</Anneli_Xenotype>
 				<Anneli_Xenotype_Abomination MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Abomination>
 				<Anneli_Xenotype_Dragonkin MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Dragonkin>
 				<Anneli_Xenotype_Elf MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Elf>
