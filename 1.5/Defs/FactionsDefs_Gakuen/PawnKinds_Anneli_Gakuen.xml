@@ -472,6 +472,19 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Gakuen_Glovelettes</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -496,6 +509,19 @@
 			<li>MedievalRanged</li>
 			<li>MedievalRangedHeavy</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Gakuen_Glovelettes</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 </Defs>
