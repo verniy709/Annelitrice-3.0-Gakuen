@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/NareisLib.MultiTexDef[defName="Anneli_Gakuen_BallisticShield"]</xpath>
+		<value>
+			<NareisLib.MultiTexDef>
+				<defName>Anneli_Gakuen_BallisticShield</defName>
+				<originalDef>Anneli_Gakuen_BallisticShield</originalDef>
+				<originalDefClass>ThingDef</originalDefClass>
+				<renderOriginTex>false</renderOriginTex>
+				<path>8C/</path>
+				<levels>
+					<li>
+						<prefix>
+							<li>Anneli_Gakuen_BallisticShield</li>
+						</prefix>
+						<renderLayer>Apparel</renderLayer>
+						<textureLevelsName>Anneli_Apparel_Shield</textureLevelsName>
+						<drawOffsetSouth>(0.15, 2.750, 0.11)</drawOffsetSouth>
+						<drawOffsetEast>(0.21, 2.750, 0.03)</drawOffsetEast>
+						<drawOffsetNorth>(-0.15, 0.038, 0.11)</drawOffsetNorth>
+						<drawOffsetWest>(-0.21, 2.750, 0.03)</drawOffsetWest>
+						<meshSize>(1.55,1.55)</meshSize>
+						<meshType>Body</meshType>
+						<useStaticYOffset>true</useStaticYOffset>
+					</li>
+				</levels>
+			</NareisLib.MultiTexDef>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/NareisLib.MultiTexDef[defName="Anneli_Gakuen_RiotShield"]</xpath>
+		<value>
+			<NareisLib.MultiTexDef>
+				<defName>Anneli_Gakuen_RiotShield</defName>
+				<originalDef>Anneli_Gakuen_RiotShield</originalDef>
+				<originalDefClass>ThingDef</originalDefClass>
+				<renderOriginTex>false</renderOriginTex>
+				<path>8C/</path>
+				<levels>
+					<li>
+						<prefix>
+							<li>Anneli_Gakuen_RiotShield</li>
+						</prefix>
+						<renderLayer>Apparel</renderLayer>
+						<textureLevelsName>Anneli_Apparel_Shield</textureLevelsName>
+						<drawOffsetSouth>(0.15, 2.750, 0.11)</drawOffsetSouth>
+						<drawOffsetEast>(0.21, 2.750, 0.03)</drawOffsetEast>
+						<drawOffsetNorth>(-0.15, 0.038, 0.11)</drawOffsetNorth>
+						<drawOffsetWest>(-0.21, 2.750, 0.03)</drawOffsetWest>
+						<meshSize>(1.55,1.55)</meshSize>
+						<meshType>Body</meshType>
+						<useStaticYOffset>true</useStaticYOffset>
+					</li>
+				</levels>
+			</NareisLib.MultiTexDef>
+		</value>
+	</Operation>
+
+</Patch>
