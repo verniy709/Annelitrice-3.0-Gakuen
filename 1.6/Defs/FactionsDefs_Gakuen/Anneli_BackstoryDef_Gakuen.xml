@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--Adulthood-->
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Gakuen_AverageStudent</defName>
+		<title>Average Student</title>
+		<titleShort>Average Student</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a Gakuen average student. She does not need a description at all.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Social>4</Social>
+			<Intellectual>2</Intellectual>
+			<Crafting>2</Crafting>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Gakuen</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Gakuen_MusicClub</defName>
+		<title>Music Club</title>
+		<titleShort>Music Club</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a member of a Gakuen music club. She dreams of being a lead singer.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Artistic>4</Artistic>
+			<Social>2</Social>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Gakuen</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Gakuen_BaseballPlayer</defName>
+		<title>Baseball Player</title>
+		<titleShort>Baseball Player</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a Gakuen baseball player. Her team has won the national campaign for five consecutive years.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Melee>6</Melee>
+			<Shooting>2</Shooting>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Gakuen</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Gakuen_GardenClub</defName>
+		<title>Garden Club</title>
+		<titleShort>Garden Club</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a member of a Gakuen garden club. Her favourite are Stargazers.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Plants>6</Plants>
+			<Artistic>2</Artistic>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Gakuen</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Gakuen_CatCafe</defName>
+		<title>Annelitrice Cat Cafe</title>
+		<titleShort>Cat Cafe</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an employee of a cat cafe.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Cooking>4</Cooking>
+			<Animals>4</Animals>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Gakuen</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Gakuen_SculptureClub</defName>
+		<title>Sculpture Club</title>
+		<titleShort>Sculpture Club</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a member of Gakuen sculpture club. Her best work is Sweat No.2VOPN. This piece bears an illustration of a missile. If you squint your eyes, the unbalanced composition of the image reveals the outline of a gourd.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Artistic>6</Artistic>
+			<Construction>2</Construction>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Gakuen</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Gakuen_CookingClub</defName>
+		<title>Annelitrice Cooking Club</title>
+		<titleShort>Cooking Club</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a member of Gakuen cooking club. The club gets really busy before Valentine day.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Cooking>4</Cooking>
+			<Medicine>4</Medicine>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Gakuen</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Gakuen_KarateClub</defName>
+		<title>Karate Club</title>
+		<titleShort>Karate Club</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a member of Gakuen karate club. She likes to have some juice after practice.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Melee>6</Melee>
+			<Artistic>2</Artistic>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Gakuen</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Gakuen_OutingClub</defName>
+		<title>Annelitrice Outing Club</title>
+		<titleShort>Outing Club</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a member of Gakuen outing club. She should have bypassed the camp of the cannibal tribe.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Shooting>6</Shooting>
+			<Crafting>4</Crafting>
+			<Construction>4</Construction>
+			<Plants>4</Plants>
+			<Cooking>-10</Cooking>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Gakuen</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Gakuen_StudentAssociation</defName>
+		<title>Student Association</title>
+		<titleShort>Student Association</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a representative of a Gakuen student association. Her duty is to enforce the discipline of the Gakuen.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Social>4</Social>
+			<Melee>4</Melee>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Gakuen</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+</Defs>
