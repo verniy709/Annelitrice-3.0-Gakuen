@@ -30,8 +30,6 @@
 				<li>Anneli_Gakuen_Sukeban</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-			<renderSkipFlags>
-			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -58,8 +56,6 @@
 				<li>Anneli_Gakuen_Sukeban</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-			<renderSkipFlags>
-			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -87,8 +83,6 @@
 				<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-			<renderSkipFlags>
-			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -116,8 +110,6 @@
 				<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-			<renderSkipFlags>
-			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -145,8 +137,6 @@
 				<li>Anneli_Gakuen_Kyudobuin</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-			<renderSkipFlags>
-			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -173,8 +163,6 @@
 				<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-			<renderSkipFlags>
-			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -201,8 +189,6 @@
 				<li>Anneli_Gakuen_Undoubuin</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-			<renderSkipFlags>
-			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -229,8 +215,6 @@
 				<li>Anneli_Gakuen_Tsuppari</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-			<renderSkipFlags>
-			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>

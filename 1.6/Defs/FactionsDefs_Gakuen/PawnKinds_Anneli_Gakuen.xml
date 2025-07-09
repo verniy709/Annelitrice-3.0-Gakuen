@@ -84,10 +84,10 @@
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
+			<li Class="VEF.Pawns.PawnKindDefExtension">
 				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
+					<min>300</min>
+					<max>800</max>
 				</shieldMoney>
 				<shieldTags>
 					<li>Gakuen_RiotShield</li>
@@ -120,10 +120,10 @@
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
+			<li Class="VEF.Pawns.PawnKindDefExtension">
 				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
+					<min>300</min>
+					<max>800</max>
 				</shieldMoney>
 				<shieldTags>
 					<li>Gakuen_RiotShield</li>
@@ -156,10 +156,10 @@
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
+			<li Class="VEF.Pawns.PawnKindDefExtension">
 				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
+					<min>300</min>
+					<max>800</max>
 				</shieldMoney>
 				<shieldTags>
 					<li>Gakuen_RiotShield</li>
@@ -192,10 +192,10 @@
 			<li>GrenadeSmoke</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
+			<li Class="VEF.Pawns.PawnKindDefExtension">
 				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
+					<min>300</min>
+					<max>800</max>
 				</shieldMoney>
 				<shieldTags>
 					<li>Gakuen_BallisticShield</li>
@@ -228,10 +228,10 @@
 			<li>GrenadeSmoke</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
+			<li Class="VEF.Pawns.PawnKindDefExtension">
 				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
+					<min>300</min>
+					<max>800</max>
 				</shieldMoney>
 				<shieldTags>
 					<li>Gakuen_BallisticShield</li>
@@ -285,10 +285,10 @@
 			<li>UltratechMelee</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
+			<li Class="VEF.Pawns.PawnKindDefExtension">
 				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
+					<min>300</min>
+					<max>800</max>
 				</shieldMoney>
 				<shieldTags>
 					<li>Gakuen_RiotShield</li>
@@ -319,10 +319,10 @@
 			<li>UltratechMelee</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
+			<li Class="VEF.Pawns.PawnKindDefExtension">
 				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
+					<min>300</min>
+					<max>800</max>
 				</shieldMoney>
 				<shieldTags>
 					<li>Gakuen_RiotShield</li>
