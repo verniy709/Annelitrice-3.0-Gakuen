@@ -112,6 +112,11 @@
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>1</drawSize>
         </graphicData>
+        <apparel>
+            <tags>
+                <li>Anneli_Gakuen_BallisticShield</li>
+            </tags>
+        </apparel>
         <comps>
             <li Class="VEF.Apparels.CompProperties_Shield">
                 <shieldTags>
@@ -170,6 +175,11 @@
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>1</drawSize>
         </graphicData>
+        <apparel>
+            <tags>
+                <li>Anneli_Gakuen_RiotShield</li>
+            </tags>
+        </apparel>
         <comps>
             <li Class="VEF.Apparels.CompProperties_Shield">
                 <shieldTags>

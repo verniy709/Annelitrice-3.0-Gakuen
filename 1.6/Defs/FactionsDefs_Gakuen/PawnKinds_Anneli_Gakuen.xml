@@ -67,11 +67,25 @@
 		<factionLeader>true</factionLeader>
 		<apparelRequired>
 			<li>Anneli_Gakuen_SailorSuitA</li>
-			<li>Anneli_Gakuen_Skirt_Blue</li>
+			<li>Anneli_Gakuen_Skirt</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Gakuen_Skirt</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(60,65,90,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_Gakuen_Common</li>
 			<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
+			<li>Anneli_Gakuen_RiotShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -83,17 +97,6 @@
 			<li>NeolithicMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Gakuen_RiotShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>	
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -103,11 +106,25 @@
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Gakuen_SailorSuitA</li>
-			<li>Anneli_Gakuen_Skirt_Blue</li>
+			<li>Anneli_Gakuen_Skirt</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Gakuen_Skirt</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(60,65,90,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_Gakuen_Common</li>
 			<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
+			<li>Anneli_Gakuen_RiotShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -119,17 +136,6 @@
 			<li>NeolithicMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Gakuen_RiotShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -144,6 +150,7 @@
 		<apparelTags>
 			<li>Anneli_Gakuen_Common</li>
 			<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
+			<li>Anneli_Gakuen_RiotShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -155,17 +162,6 @@
 			<li>NeolithicMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Gakuen_RiotShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -175,12 +171,26 @@
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Gakuen_SailorSuitA</li>
-			<li>Anneli_Gakuen_Skirt_Blue</li>
+			<li>Anneli_Gakuen_Skirt</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Gakuen_Skirt</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(60,65,90,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_Gakuen_Common</li>
 			<li>Anneli_Gakuen_Sabagebuin_SailorSuit</li>
+			<li>Anneli_Gakuen_BallisticShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -191,17 +201,6 @@
 			<li>GrenadeEMP</li>
 			<li>GrenadeSmoke</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Gakuen_BallisticShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -217,6 +216,7 @@
 			<li>BeltDefensePop</li>
 			<li>Anneli_Gakuen_Common</li>
 			<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
+			<li>Anneli_Gakuen_BallisticShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -227,17 +227,6 @@
 			<li>GrenadeEMP</li>
 			<li>GrenadeSmoke</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Gakuen_BallisticShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -275,6 +264,7 @@
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_Gakuen_Sukeban</li>
+			<li>Anneli_Gakuen_RiotShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -284,17 +274,6 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Gakuen_RiotShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -309,6 +288,7 @@
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_Gakuen_Sukeban</li>
+			<li>Anneli_Gakuen_RiotShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -318,17 +298,6 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Gakuen_RiotShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -412,6 +381,19 @@
 			<li>Anneli_Gakuen_CheerCropTop</li>
 			<li>Anneli_Gakuen_CheerDress</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelLayer>Shell</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
 		</apparelTags>
@@ -434,8 +416,32 @@
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Gakuen_SailorCropTopA</li>
-			<li>Anneli_Gakuen_Miniskirt_Red</li>
+			<li>Anneli_Gakuen_Miniskirt</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Gakuen_Miniskirt</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Shell</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
 		</apparelTags>
