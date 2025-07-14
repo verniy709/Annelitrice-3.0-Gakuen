@@ -8,7 +8,20 @@
                 <kindDef>Shamblers</kindDef>
                 <commonality>10</commonality>
                 <options>
-
+                    <Anneli_Gakuen_Shambler_Kitakubuinn_SailorSuit>5</Anneli_Gakuen_Shambler_Kitakubuinn_SailorSuit>
+                    <Anneli_Gakuen_Shambler_Kitakubuinn_WesternSuit>5</Anneli_Gakuen_Shambler_Kitakubuinn_WesternSuit>
+                    <Anneli_Gakuen_Shambler_Sabagebuin_SailorSuit>5</Anneli_Gakuen_Shambler_Sabagebuin_SailorSuit>
+                    <Anneli_Gakuen_Shambler_Sabagebuin_WesternSuit>5</Anneli_Gakuen_Shambler_Sabagebuin_WesternSuit>
+                    <Anneli_Gakuen_Shambler_Tsuppari>3</Anneli_Gakuen_Shambler_Tsuppari>
+                    <Anneli_Gakuen_Shambler_Sukeban>2</Anneli_Gakuen_Shambler_Sukeban>
+                    <Anneli_Gakuen_Shambler_Sukeban_ShortUniform>2</Anneli_Gakuen_Shambler_Sukeban_ShortUniform>
+                    <Anneli_Gakuen_Shambler_Undoubuin>3</Anneli_Gakuen_Shambler_Undoubuin>
+                    <Anneli_Gakuen_Shambler_Suieibuin>2</Anneli_Gakuen_Shambler_Suieibuin>
+                    <Anneli_Gakuen_Shambler_Suieibuin_CowPrint>1</Anneli_Gakuen_Shambler_Suieibuin_CowPrint>
+                    <Anneli_Gakuen_Shambler_Ouenbuin_CheerLeader>3</Anneli_Gakuen_Shambler_Ouenbuin_CheerLeader>
+                    <Anneli_Gakuen_Shambler_Ouenbuin_SailorSuit>3</Anneli_Gakuen_Shambler_Ouenbuin_SailorSuit>
+                    <Anneli_Gakuen_Shambler_Kendobuin>2</Anneli_Gakuen_Shambler_Kendobuin>
+                    <Anneli_Gakuen_Shambler_Kyudobuin>2</Anneli_Gakuen_Shambler_Kyudobuin>
                 </options>
             </li>
         </value>

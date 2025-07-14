@@ -466,6 +466,19 @@
 			<li>Anneli_Gakuen_KendoTop</li>
 			<li>Anneli_Gakuen_KendoHakama</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Gakuen_Glovelettes</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_Gakuen_Kendobuin</li>
@@ -478,19 +491,6 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
-		<specificApparelRequirements>
-			<li>
-				<apparelDef>Anneli_Gakuen_Glovelettes</apparelDef>
-				<colorGenerator Class="ColorGenerator_Options">
-					<options>
-						<li>
-							<weight>10</weight>
-							<only>(255,245,245,255)</only>
-						</li>
-					</options>
-				</colorGenerator>
-			</li>
-		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
@@ -503,18 +503,6 @@
 			<li>Anneli_Gakuen_KendoHakama</li>
 			<li>Anneli_Gakuen_Chestguard</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_Gakuen_Kyudobuin</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>NeolithicRangedBasic</li>
-			<li>NeolithicRangedDecent</li>
-			<li>NeolithicRangedHeavy</li>
-			<li>NeolithicRangedChief</li>
-			<li>MedievalRanged</li>
-			<li>MedievalRangedHeavy</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_Gakuen_Glovelettes</apparelDef>
@@ -528,6 +516,18 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Gakuen_Kyudobuin</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicRangedBasic</li>
+			<li>NeolithicRangedDecent</li>
+			<li>NeolithicRangedHeavy</li>
+			<li>NeolithicRangedChief</li>
+			<li>MedievalRanged</li>
+			<li>MedievalRangedHeavy</li>
+		</weaponTags>
 	</PawnKindDef>
 
 </Defs>
