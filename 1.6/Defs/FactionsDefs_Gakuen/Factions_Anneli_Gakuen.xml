@@ -91,6 +91,19 @@
 				</options>
 			</li>
 			<li>
+				<kindDef>Combat</kindDef>
+				<commonality>60</commonality>
+				<options>
+					<Anneli_Gakuen_Leader>1</Anneli_Gakuen_Leader>
+					<Anneli_Gakuen_Kitakubuinn_SailorSuit>5</Anneli_Gakuen_Kitakubuinn_SailorSuit>
+					<Anneli_Gakuen_Kitakubuinn_WesternSuit>5</Anneli_Gakuen_Kitakubuinn_WesternSuit>
+					<Anneli_Gakuen_Sabagebuin_SailorSuit>5</Anneli_Gakuen_Sabagebuin_SailorSuit>
+					<Anneli_Gakuen_Sabagebuin_WesternSuit>5</Anneli_Gakuen_Sabagebuin_WesternSuit>
+					<Anneli_Gakuen_Sukeban>2</Anneli_Gakuen_Sukeban>
+					<Anneli_Gakuen_Sukeban_ShortUniform>2</Anneli_Gakuen_Sukeban_ShortUniform>
+				</options>
+			</li>
+			<li>
 				<kindDef>Peaceful</kindDef>
 				<options>
 					<Anneli_Gakuen_Kitakubuinn_SailorSuit>1</Anneli_Gakuen_Kitakubuinn_SailorSuit>
