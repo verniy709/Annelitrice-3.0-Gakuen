@@ -70,7 +70,7 @@
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Gakuen_CatCafe</defName>
-		<title>Annelitrice Cat Cafe</title>
+		<title>Cat Cafe</title>
 		<titleShort>Cat Cafe</titleShort>
 		<baseDesc>[PAWN_nameDef] acts as an employee of a cat cafe.</baseDesc>
 		<slot>Adulthood</slot>
@@ -102,7 +102,7 @@
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Gakuen_CookingClub</defName>
-		<title>Annelitrice Cooking Club</title>
+		<title>Cooking Club</title>
 		<titleShort>Cooking Club</titleShort>
 		<baseDesc>[PAWN_nameDef] acts as a member of Gakuen cooking club. The club gets really busy before Valentine day.</baseDesc>
 		<slot>Adulthood</slot>
@@ -134,7 +134,7 @@
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Gakuen_OutingClub</defName>
-		<title>Annelitrice Outing Club</title>
+		<title>Outing Club</title>
 		<titleShort>Outing Club</titleShort>
 		<baseDesc>[PAWN_nameDef] acts as a member of Gakuen outing club. She should have bypassed the camp of the cannibal tribe.</baseDesc>
 		<slot>Adulthood</slot>
