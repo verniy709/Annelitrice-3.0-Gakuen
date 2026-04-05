@@ -83,6 +83,12 @@
 					</kindDefs>
 					<chance>1</chance>
 				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_Gakuen_Kyudobuin</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
 			</alienslavekinds>
 
 			<alienwandererkinds>
@@ -163,6 +169,12 @@
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Kendobuin</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_Gakuen_Kyudobuin</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
@@ -252,6 +264,12 @@
 					</kindDefs>
 					<chance>1</chance>
 				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_Gakuen_Kyudobuin</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
 			</alienrefugeekinds>
 
 			<startingColonists>
@@ -332,6 +350,12 @@
 						<li>
 							<kindDefs>
 								<li>Anneli_Gakuen_Kendobuin</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_Gakuen_Kyudobuin</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
