@@ -4,7 +4,7 @@
 	<ResearchProjectDef>
 		<defName>Anneli_Gakuen_Apparels</defName>
 		<label>Annelitrice Gakuen Apparels</label>
-		<description>Annelitrice Gakuen apparels.</description>
+		<description>Looks like a regular table, but if an operator puts in raw material and keeps twisting the handles on the sides, some new clothes is made. Quite a few people believe this is a Rumanian Box scam.</description>
 		<baseCost>400</baseCost>
 		<techLevel>Medieval</techLevel>
 		<prerequisites>
