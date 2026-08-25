@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Anneli_Faction_Gakuen.label>安妮莉特丝学园</Anneli_Faction_Gakuen.label>
-  <Anneli_Faction_Gakuen.description>安妮莉特丝学园是一支独特的派系，她们认为高中生活是最充实的存在形式。她们热爱高中生活的典型活动，如恋爱三角关系、茶话会和学校竞赛。她们的社会以社团为中心，社团涵盖了生活的各个方面，从兴趣爱好到产业，甚至到执法。公民们被称为“学生”，被期望加入一个或多个社团。领导层由抽签产生，被选中的领袖被称为“大前辈”，成为她们定居点或“学校”的至高无上的领袖。\n\n尽管这种制度看起来颇有效率，但安妮莉特丝学园经常遭受来自学校外部的袭击。由于她们独特的意识形态，她们无法或不愿意建立有效的防御。因此，她们的民兵和社团成员经常不敌，导致她们的学校被洗劫一空。这种惨无人道的毁灭已经重复了很多次，但制度仍然保持不变。直到今天，安妮莉特丝学园的学生们仍然坚定不移地继续着重建，像什么都没有发生过一样拥抱她们奇特的生活方式。</Anneli_Faction_Gakuen.description>
+  <Anneli_Faction_Gakuen.label>安妮莉特丝常磐野学园</Anneli_Faction_Gakuen.label>
+  <Anneli_Faction_Gakuen.description>这里是「安妮莉特丝·常盤学园」——她建立在一个再简单不过的信念之上:人生在世,没有什么能比得上"当一名高中生"更美好的事了!友情、社团活动、体育比赛、茶话会、笨拙的告白、还有无法理清的三角恋,这些都被奉为最理想的存在形态。\n\n她们的整个社会,都是按照"学校"的样子搭建起来的。每一位公民都是"学生",都要加入一个或多个社团——从农耕、制造业,到医疗、治安维持,样样都由社团负责。领导人由抽签决定,中签者就成为"大前辈",学生会至高无上的会长。\n\n可惜呢,常盤学园擅长的,是重现校园生活,而不是"活下去"这件事。她们的民兵组织松松散散,防御工事也没人上心,各个"学校"三天两头就被敌对势力洗劫、焚毁,甚至彻底抹去。\n\n纵然如此,什么都没有改变。每一代人都会重新建起学校,重开社团,继续谈恋爱、参加比赛、开茶话会,仿佛上一场屠杀,也不过是一个格外多事的学期罢了。</Anneli_Faction_Gakuen.description>
   <Anneli_Faction_Gakuen.fixedName>伪造的学园</Anneli_Faction_Gakuen.fixedName>
   <Anneli_Faction_Gakuen.pawnsPlural>安妮莉特丝</Anneli_Faction_Gakuen.pawnsPlural>
   <Anneli_Faction_Gakuen.leaderTitle>先辈</Anneli_Faction_Gakuen.leaderTitle>
