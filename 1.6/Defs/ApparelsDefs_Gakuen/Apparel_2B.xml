@@ -2,9 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Gakuen_2B" ParentName="Anneli_2B" Abstract="True">
-		<equippedStatOffsets>
-			<SocialImpact>0.3</SocialImpact>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_Gakuen</li>
 		</thingCategories>

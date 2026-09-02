@@ -2,10 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Gakuen_3" ParentName="Anneli_3" Abstract="True">
-		<equippedStatOffsets>
-			<GeneralLaborSpeed>0.2</GeneralLaborSpeed>
-			<CleaningSpeed>0.2</CleaningSpeed>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_Gakuen</li>
 		</thingCategories>

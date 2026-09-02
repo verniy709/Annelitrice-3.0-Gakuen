@@ -2,10 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Gakuen_1A" ParentName="Anneli_1A" Abstract="True">
-		<equippedStatOffsets>
-			<NegotiationAbility>0.2</NegotiationAbility>
-			<TradePriceImprovement>0.2</TradePriceImprovement>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_Gakuen</li>
 		</thingCategories>

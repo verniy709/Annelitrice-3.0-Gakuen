@@ -34,7 +34,7 @@
 				<drawOffsetWest>(0, 1.731, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.999,0.999,0.999,1)</color>
+				<color>RGBA(255,255,254,255)</color>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -57,7 +57,7 @@
 				<drawOffsetWest>(0, 0.558, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.999,0.999,0.999,1)</color>
+				<color>RGBA(255,255,254,255)</color>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -166,7 +166,7 @@
 				<drawOffsetWest>(0, 1.731, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.999,0.999,0.999,1)</color>
+				<color>RGBA(255,255,254,255)</color>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -189,7 +189,7 @@
 				<drawOffsetWest>(0, 0.558, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.999,0.999,0.999,1)</color>
+				<color>RGBA(255,255,254,255)</color>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -298,7 +298,7 @@
 				<drawOffsetWest>(0, 1.731, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.999,0.999,0.999,1)</color>
+				<color>RGBA(255,255,254,255)</color>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -321,7 +321,7 @@
 				<drawOffsetWest>(0, 0.558, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.999,0.999,0.999,1)</color>
+				<color>RGBA(255,255,254,255)</color>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -366,7 +366,7 @@
 				<drawOffsetWest>(0, 1.731, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.999,0.999,0.999,1)</color>
+				<color>RGBA(255,255,254,255)</color>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -389,7 +389,7 @@
 				<drawOffsetWest>(0, 0.558, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.999,0.999,0.999,1)</color>
+				<color>RGBA(255,255,254,255)</color>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -586,7 +586,7 @@
 				<drawOffsetWest>(0, 1.731, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.999,0.999,0.999,1)</color>
+				<color>RGBA(255,255,254,255)</color>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -609,7 +609,7 @@
 				<drawOffsetWest>(0, 0.558, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.999,0.999,0.999,1)</color>
+				<color>RGBA(255,255,254,255)</color>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
