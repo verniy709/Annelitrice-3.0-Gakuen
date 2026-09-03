@@ -28,7 +28,7 @@
 						<clipPath>Anneli_AudioPlayerA</clipPath>
 					</li>
 				</grains>
-				<volumeRange>40~40</volumeRange>
+				<volumeRange>70~70</volumeRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -49,7 +49,7 @@
 						<clipPath>Anneli_AudioPlayerB</clipPath>
 					</li>
 				</grains>
-				<volumeRange>40~40</volumeRange>
+				<volumeRange>65~65</volumeRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -128,7 +128,7 @@
 						<clipPath>Anneli_FluteA</clipPath>
 					</li>
 				</grains>
-				<volumeRange>40~40</volumeRange>
+				<volumeRange>60~60</volumeRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -149,7 +149,7 @@
 						<clipPath>Anneli_FluteB</clipPath>
 					</li>
 				</grains>
-				<volumeRange>40~40</volumeRange>
+				<volumeRange>50~50</volumeRange>
 			</li>
 		</subSounds>
 	</SoundDef>
