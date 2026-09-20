@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_BallisticShield</defName>
-		<originalDef>Anneli_Gakuen_BallisticShield</originalDef>
+		<defName>Anneli_Tokiwano_BallisticShield</defName>
+		<originalDef>Anneli_Tokiwano_BallisticShield</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>true</renderOriginTex>
 		<path>Anneli_Null/</path>
@@ -20,8 +20,8 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_RiotShield</defName>
-		<originalDef>Anneli_Gakuen_RiotShield</originalDef>
+		<defName>Anneli_Tokiwano_RiotShield</defName>
+		<originalDef>Anneli_Tokiwano_RiotShield</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>true</renderOriginTex>
 		<path>Anneli_Null/</path>

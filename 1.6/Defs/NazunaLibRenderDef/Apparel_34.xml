@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_KendoArmor</defName>
-		<originalDef>Anneli_Gakuen_KendoArmor</originalDef>
+		<defName>Anneli_Tokiwano_KendoArmor</defName>
+		<originalDef>Anneli_Tokiwano_KendoArmor</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>34/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_KendoArmor</li>
+					<li>Anneli_Tokiwano_KendoArmor</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel34</textureLevelsName>

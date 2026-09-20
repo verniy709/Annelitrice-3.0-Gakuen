@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Boots</defName>
-		<originalDef>Anneli_Gakuen_Boots</originalDef>
+		<defName>Anneli_Tokiwano_Boots</defName>
+		<originalDef>Anneli_Tokiwano_Boots</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2C/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Boots</li>
+					<li>Anneli_Tokiwano_Boots</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
@@ -25,15 +25,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_LeatherShoes</defName>
-		<originalDef>Anneli_Gakuen_LeatherShoes</originalDef>
+		<defName>Anneli_Tokiwano_LeatherShoes</defName>
+		<originalDef>Anneli_Tokiwano_LeatherShoes</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2C/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_LeatherShoes</li>
+					<li>Anneli_Tokiwano_LeatherShoes</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
@@ -49,15 +49,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_TennisShoes</defName>
-		<originalDef>Anneli_Gakuen_TennisShoes</originalDef>
+		<defName>Anneli_Tokiwano_TennisShoes</defName>
+		<originalDef>Anneli_Tokiwano_TennisShoes</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2C/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_TennisShoes</li>
+					<li>Anneli_Tokiwano_TennisShoes</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
@@ -73,15 +73,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Sneakers</defName>
-		<originalDef>Anneli_Gakuen_Sneakers</originalDef>
+		<defName>Anneli_Tokiwano_Sneakers</defName>
+		<originalDef>Anneli_Tokiwano_Sneakers</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2C/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Sneakers</li>
+					<li>Anneli_Tokiwano_Sneakers</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
@@ -97,15 +97,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Geta</defName>
-		<originalDef>Anneli_Gakuen_Geta</originalDef>
+		<defName>Anneli_Tokiwano_Geta</defName>
+		<originalDef>Anneli_Tokiwano_Geta</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2C/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Geta</li>
+					<li>Anneli_Tokiwano_Geta</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
@@ -121,15 +121,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Uwabaki</defName>
-		<originalDef>Anneli_Gakuen_Uwabaki</originalDef>
+		<defName>Anneli_Tokiwano_Uwabaki</defName>
+		<originalDef>Anneli_Tokiwano_Uwabaki</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2C/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Uwabaki</li>
+					<li>Anneli_Tokiwano_Uwabaki</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
@@ -145,15 +145,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Slippers</defName>
-		<originalDef>Anneli_Gakuen_Slippers</originalDef>
+		<defName>Anneli_Tokiwano_Slippers</defName>
+		<originalDef>Anneli_Tokiwano_Slippers</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2C/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Slippers</li>
+					<li>Anneli_Tokiwano_Slippers</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>

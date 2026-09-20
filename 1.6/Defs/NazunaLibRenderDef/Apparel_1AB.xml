@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_SchoolSwimsuit</defName>
-		<originalDef>Anneli_Gakuen_SchoolSwimsuit</originalDef>
+		<defName>Anneli_Tokiwano_SchoolSwimsuit</defName>
+		<originalDef>Anneli_Tokiwano_SchoolSwimsuit</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>1AB/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SchoolSwimsuit</li>
+					<li>Anneli_Tokiwano_SchoolSwimsuit</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel1AB</textureLevelsName>
@@ -25,15 +25,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_CowPrintSwimsuit</defName>
-		<originalDef>Anneli_Gakuen_CowPrintSwimsuit</originalDef>
+		<defName>Anneli_Tokiwano_CowPrintSwimsuit</defName>
+		<originalDef>Anneli_Tokiwano_CowPrintSwimsuit</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>1AB/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CowPrintSwimsuit</li>
+					<li>Anneli_Tokiwano_CowPrintSwimsuit</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel1AB</textureLevelsName>

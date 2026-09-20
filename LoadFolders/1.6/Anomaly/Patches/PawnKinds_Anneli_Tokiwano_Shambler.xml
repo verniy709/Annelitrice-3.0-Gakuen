@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/FactionDef[defName="Entities"]/pawnGroupMakers</xpath>
+        <value>
+            <li>
+                <!-- Anneli_Shambler -->
+                <kindDef>Shamblers</kindDef>
+                <commonality>10</commonality>
+                <options>
+                    <Anneli_Tokiwano_Shambler_Kitakubuinn_SailorSuit>5</Anneli_Tokiwano_Shambler_Kitakubuinn_SailorSuit>
+                    <Anneli_Tokiwano_Shambler_Kitakubuinn_WesternSuit>5</Anneli_Tokiwano_Shambler_Kitakubuinn_WesternSuit>
+                    <Anneli_Tokiwano_Shambler_Sabagebuin_SailorSuit>5</Anneli_Tokiwano_Shambler_Sabagebuin_SailorSuit>
+                    <Anneli_Tokiwano_Shambler_Sabagebuin_WesternSuit>5</Anneli_Tokiwano_Shambler_Sabagebuin_WesternSuit>
+                    <Anneli_Tokiwano_Shambler_Tsuppari>3</Anneli_Tokiwano_Shambler_Tsuppari>
+                    <Anneli_Tokiwano_Shambler_SukebanA>2</Anneli_Tokiwano_Shambler_SukebanA>
+                    <Anneli_Tokiwano_Shambler_SukebanB>2</Anneli_Tokiwano_Shambler_SukebanB>
+                    <Anneli_Tokiwano_Shambler_Undoubuin>3</Anneli_Tokiwano_Shambler_Undoubuin>
+                    <Anneli_Tokiwano_Shambler_SuieibuinA>2</Anneli_Tokiwano_Shambler_SuieibuinA>
+                    <Anneli_Tokiwano_Shambler_SuieibuinB>1</Anneli_Tokiwano_Shambler_SuieibuinB>
+                    <Anneli_Tokiwano_Shambler_OuenbuinA>3</Anneli_Tokiwano_Shambler_OuenbuinA>
+                    <Anneli_Tokiwano_Shambler_OuenbuinB>3</Anneli_Tokiwano_Shambler_OuenbuinB>
+                    <Anneli_Tokiwano_Shambler_Kendobuin>2</Anneli_Tokiwano_Shambler_Kendobuin>
+                    <Anneli_Tokiwano_Shambler_Kyudobuin>2</Anneli_Tokiwano_Shambler_Kyudobuin>
+                </options>
+            </li>
+        </value>
+    </Operation>
+</Patch>

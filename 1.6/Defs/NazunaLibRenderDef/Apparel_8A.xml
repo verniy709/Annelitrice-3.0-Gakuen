@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_WALKWOMAN</defName>
-		<originalDef>Anneli_Gakuen_WALKWOMAN</originalDef>
+		<defName>Anneli_Tokiwano_WALKWOMAN</defName>
+		<originalDef>Anneli_Tokiwano_WALKWOMAN</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>8A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_WALKWOMAN</li>
+					<li>Anneli_Tokiwano_WALKWOMAN</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel8A</textureLevelsName>
@@ -25,15 +25,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Flute</defName>
-		<originalDef>Anneli_Gakuen_Flute</originalDef>
+		<defName>Anneli_Tokiwano_Flute</defName>
+		<originalDef>Anneli_Tokiwano_Flute</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>8A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Flute</li>
+					<li>Anneli_Tokiwano_Flute</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel8A</textureLevelsName>
@@ -49,15 +49,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_KatanaA</defName>
-		<originalDef>Anneli_Gakuen_KatanaA</originalDef>
+		<defName>Anneli_Tokiwano_KatanaA</defName>
+		<originalDef>Anneli_Tokiwano_KatanaA</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>8A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_KatanaA</li>
+					<li>Anneli_Tokiwano_KatanaA</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel8A</textureLevelsName>
@@ -71,7 +71,7 @@
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Back_Gakuen_KatanaA</li>
+					<li>Anneli_Back_Tokiwano_KatanaA</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel8A_Back</textureLevelsName>
@@ -88,15 +88,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_KatanaB</defName>
-		<originalDef>Anneli_Gakuen_KatanaB</originalDef>
+		<defName>Anneli_Tokiwano_KatanaB</defName>
+		<originalDef>Anneli_Tokiwano_KatanaB</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>8A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_KatanaB</li>
+					<li>Anneli_Tokiwano_KatanaB</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel8A</textureLevelsName>
@@ -110,7 +110,7 @@
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Back_Gakuen_KatanaB</li>
+					<li>Anneli_Back_Tokiwano_KatanaB</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel8A_Back</textureLevelsName>

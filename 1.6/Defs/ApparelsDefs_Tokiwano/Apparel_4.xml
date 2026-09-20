@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Tokiwano_4" ParentName="Anneli_4" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Tokiwano</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Tokiwano_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_ArmorVest-->
+	<ThingDef ParentName="Anneli_Tokiwano_4">
+		<defName>Anneli_Tokiwano_ArmorVest</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)4_ArmorVest</label>
+		<graphicData>
+			<texPath>4/Anneli_Tokiwano_ArmorVest</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>4/Anneli_Tokiwano_ArmorVest</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Tokiwano_Tsuppari</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_CamoArmorVest-->
+	<ThingDef ParentName="Anneli_Tokiwano_4">
+		<defName>Anneli_Tokiwano_CamoArmorVest</defName>
+		<description>NOT dyeable.</description>
+		<label>(Tokiwano)4_CamoArmorVest</label>
+		<graphicData>
+			<texPath>4/Anneli_Tokiwano_CamoArmorVest</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>4/Anneli_Tokiwano_CamoArmorVest</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,255,255,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_ArmorBikini-->
+	<ThingDef ParentName="Anneli_Tokiwano_4">
+		<defName>Anneli_Tokiwano_ArmorBikini</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)4_ArmorBikini</label>
+		<graphicData>
+			<texPath>4/Anneli_Tokiwano_ArmorBikini</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>4/Anneli_Tokiwano_ArmorBikini</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_SukebanA</li>
+				<li>Anneli_Tokiwano_Undoubuin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_CamoArmorBikini-->
+	<ThingDef ParentName="Anneli_Tokiwano_4">
+		<defName>Anneli_Tokiwano_CamoArmorBikini</defName>
+		<description>NOT dyeable.</description>
+		<label>(Tokiwano)4_CamoArmorBikini</label>
+		<graphicData>
+			<texPath>4/Anneli_Tokiwano_CamoArmorBikini</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>4/Anneli_Tokiwano_CamoArmorBikini</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_SukebanB</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,255,255,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_Chestguard-->
+	<ThingDef ParentName="Anneli_Tokiwano_4">
+		<defName>Anneli_Tokiwano_Chestguard</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)4_Chestguard</label>
+		<graphicData>
+			<texPath>4/Anneli_Tokiwano_Chestguard</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>4/Anneli_Tokiwano_Chestguard</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kyudobuin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>

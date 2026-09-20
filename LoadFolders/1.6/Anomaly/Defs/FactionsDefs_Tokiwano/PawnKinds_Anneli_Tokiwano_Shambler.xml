@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<PawnKindDef Name="Anneli_Tokiwano_Shambler_KindBase" ParentName="Anneli_KindBase" Abstract="True">
+		<label>Anneli_Shambler</label>
+		<defaultFactionType>Entities</defaultFactionType>
+		<initialWillRange>0~1</initialWillRange>
+		<initialResistanceRange>7~12</initialResistanceRange>
+		<isGoodBreacher>true</isGoodBreacher>
+		<overrideDebugActionCategory>Entity</overrideDebugActionCategory>
+		<combatPower>150</combatPower>
+		<gearHealthRange>0.2~0.4</gearHealthRange>
+		<meleeAttackInfectionPathways>
+			<li>EntityAttacked</li>
+		</meleeAttackInfectionPathways>
+		<invNutrition>0</invNutrition>
+		<mutant>Shambler</mutant>
+		<generateInitialNonFamilyRelations>false</generateInitialNonFamilyRelations>
+		<itemQuality>Masterwork</itemQuality>
+		<backstoryFiltersOverride>
+			<li>
+				<categories>
+					<li>Anneli_Childhood</li>
+					<li>Anneli_Story_Tokiwano</li>
+				</categories>
+			</li>
+		</backstoryFiltersOverride>
+		<xenotypeSet>
+			<xenotypeChances>
+				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">10.0</Anneli_Xenotype>
+				<Anneli_Xenotype_Abomination MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Abomination>
+				<Anneli_Xenotype_Dragonkin MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Dragonkin>
+				<Anneli_Xenotype_Elf MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Elf>
+				<Anneli_Xenotype_Fairy MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Fairy>
+				<Anneli_Xenotype_Hellion MayRequire="Ludeon.RimWorld.Biotech">0.05</Anneli_Xenotype_Hellion>
+				<Anneli_Xenotype_Kitsune MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Kitsune>
+				<Anneli_Xenotype_Loong MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Loong>
+				<Anneli_Xenotype_Messenger MayRequire="Ludeon.RimWorld.Biotech">0.05</Anneli_Xenotype_Messenger>
+				<Anneli_Xenotype_Nekojin MayRequire="Ludeon.RimWorld.Biotech">0.2</Anneli_Xenotype_Nekojin>
+				<Anneli_Xenotype_Oni MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Oni>
+				<Anneli_Xenotype_Succubus MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Succubus>
+				<Anneli_Xenotype_Usagi MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Usagi>
+			</xenotypeChances>
+		</xenotypeSet>
+		<apparelDisallowTags>
+			<li>Anneli_ExcludeShambler</li>
+		</apparelDisallowTags>
+	</PawnKindDef>
+	
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_Kitakubuinn_SailorSuit</defName>
+		<label>Tokiwano_Kitakubuinn</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_SailorSuitA</li>
+			<li>Anneli_Tokiwano_Skirt</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_Kitakubuinn_SailorSuit</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_Kitakubuinn_SailorSuit</requiredTag>
+			</li>
+			<li>
+				<apparelDef>Anneli_Tokiwano_Skirt</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(60,65,90,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Overhead</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(60,65,90,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_Kitakubuinn_WesternSuit</defName>
+		<label>Tokiwano_Kitakubuinn</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_ShirtNecktie</li>
+			<li>Anneli_Tokiwano_PlaidSkirt</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_Kitakubuinn_WesternSuit</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_Kitakubuinn_WesternSuit</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Overhead</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(60,65,90,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_Sabagebuin_SailorSuit</defName>
+		<label>Tokiwano_Sabagebuin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_SailorSuitA</li>
+			<li>Anneli_Tokiwano_Skirt</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_Sabagebuin_SailorSuit</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_Sabagebuin_SailorSuit</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Tokiwano_Skirt</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(60,65,90,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Overhead</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(60,65,90,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_Sabagebuin_SailorSuit</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_Sabagebuin_WesternSuit</defName>
+		<label>Tokiwano_Sabagebuin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_ShirtBowTie</li>
+			<li>Anneli_Tokiwano_PlaidMiniskirt</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_Sabagebuin_WesternSuit</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_Sabagebuin_WesternSuit</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Shell</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(60,65,90,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Overhead</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(60,65,90,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_Tsuppari</defName>
+		<label>Tokiwano_Tsuppari</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_ShirtOpen</li>
+			<li>Anneli_Tokiwano_DressPants</li>
+			<li>Anneli_Tokiwano_GakuranCoat</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_Tsuppari</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_Tsuppari</requiredTag>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_Tsuppari</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_SukebanA</defName>
+		<label>Tokiwano_Sukeban</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_SailorSuitB</li>
+			<li>Anneli_Tokiwano_Skirt</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_SukebanA</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_SukebanA</requiredTag>
+			</li>
+			<li>
+				<apparelDef>Anneli_Tokiwano_SailorSuitB</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Tokiwano_Skirt</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_SukebanA</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_SukebanB</defName>
+		<label>Tokiwano_Sukeban</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_SailorCropTopB</li>
+			<li>Anneli_Tokiwano_Miniskirt</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_SukebanB</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_SukebanB</requiredTag>
+			</li>
+			<li>
+				<apparelDef>Anneli_Tokiwano_SailorCropTopB</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Tokiwano_Miniskirt</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Overhead</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_SukebanB</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_Undoubuin</defName>
+		<label>Tokiwano_Undoubuin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_GymShirt</li>
+			<li>Anneli_Tokiwano_GymShorts</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_Undoubuin</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_Undoubuin</requiredTag>
+			</li>
+			<li>
+				<apparelLayer>Overhead</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(60,65,90,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Tokiwano_CheerPomPoms</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(175,200,240,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Overhead</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(60,65,90,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_Undoubuin</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_SuieibuinA</defName>
+		<label>Tokiwano_Suieibuin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_SchoolSwimsuit</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Tokiwano_Stockings</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Tokiwano_CheerPomPoms</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,220,65,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_SuieibuinA</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_SuieibuinB</defName>
+		<label>Tokiwano_Suieibuin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_CowPrintSwimsuit</li>
+			<li>Anneli_Tokiwano_CowPrintStockings</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Tokiwano_CheerPomPoms</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,220,65,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_SuieibuinB</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_OuenbuinA</defName>
+		<label>Tokiwano_Ouenbuin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_CheerCropTop</li>
+			<li>Anneli_Tokiwano_CheerDress</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_OuenbuinA</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_OuenbuinA</requiredTag>
+			</li>
+			<li>
+				<apparelLayer>Shell</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Tokiwano_CheerPomPoms</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_OuenbuinA</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_OuenbuinB</defName>
+		<label>Tokiwano_Ouenbuin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_SailorCropTopA</li>
+			<li>Anneli_Tokiwano_Miniskirt</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_OuenbuinB</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Tokiwano_OuenbuinB</requiredTag>
+			</li>
+			<li>
+				<apparelDef>Anneli_Tokiwano_Miniskirt</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Shell</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Tokiwano_CheerPomPoms</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_OuenbuinB</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_Kendobuin</defName>
+		<label>Tokiwano_Kendobuin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_ChestWrap</li>
+			<li>Anneli_Tokiwano_Loincloth</li>
+			<li>Anneli_Tokiwano_Tabi</li>
+			<li>Anneli_Tokiwano_KendoTop</li>
+			<li>Anneli_Tokiwano_KendoHakama</li>
+			<li>Anneli_Tokiwano_Geta</li>
+			<li>Anneli_Tokiwano_KendoArmor</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Tokiwano_Glovelettes</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_Kendobuin</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
+		<defName>Anneli_Tokiwano_Shambler_Kyudobuin</defName>
+		<label>Tokiwano_Kyudobuin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Tokiwano_ChestWrap</li>
+			<li>Anneli_Tokiwano_Loincloth</li>
+			<li>Anneli_Tokiwano_Tabi</li>
+			<li>Anneli_Tokiwano_KendoTop</li>
+			<li>Anneli_Tokiwano_KendoHakama</li>
+			<li>Anneli_Tokiwano_Geta</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Tokiwano_Glovelettes</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Tokiwano_Kyudobuin</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+</Defs>

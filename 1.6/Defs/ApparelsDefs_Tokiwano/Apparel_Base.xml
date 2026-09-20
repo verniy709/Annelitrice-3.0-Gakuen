@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingCategoryDef>
+		<defName>Anneli_Category_Tokiwano</defName>
+		<parent>Apparel</parent>
+		<label>Annelitrice Tokiwano Apparel</label>
+	</ThingCategoryDef>
+	
+</Defs>

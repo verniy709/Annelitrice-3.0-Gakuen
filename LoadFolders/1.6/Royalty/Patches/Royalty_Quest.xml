@@ -7,19 +7,22 @@
                 <xpath>/Defs/QuestScriptDef/root[@Class="QuestNode_Sequence"]/nodes/li[@Class="QuestNode_IsSet"]/node[@Class="QuestNode_GetRandomPawnKindForFaction"]/choices</xpath>
                 <value>
                     <li>
-                        <factionDef>Anneli_Faction_Gakuen</factionDef>
+                        <factionDef>Anneli_Faction_Tokiwano</factionDef>
                         <pawnKinds>
-                            <li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
-                            <li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
-                            <li>Anneli_Gakuen_Sabagebuin_SailorSuit</li>
-                            <li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
-                            <li>Anneli_Gakuen_Tsuppari</li>
-                            <li>Anneli_Gakuen_Sukeban</li>
-                            <li>Anneli_Gakuen_Undoubuin</li>
-                            <li>Anneli_Gakuen_Suieibuin</li>
-                            <li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
-                            <li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
-                            <li>Anneli_Gakuen_Kendobuin</li>
+                            <li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+                            <li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+                            <li>Anneli_Tokiwano_Sabagebuin_SailorSuit</li>
+                            <li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+                            <li>Anneli_Tokiwano_Tsuppari</li>
+                            <li>Anneli_Tokiwano_SukebanA</li>
+                            <li>Anneli_Tokiwano_SukebanB</li>
+                            <li>Anneli_Tokiwano_Undoubuin</li>
+                            <li>Anneli_Tokiwano_SuieibuinA</li>
+                            <li>Anneli_Tokiwano_SuieibuinB</li>
+                            <li>Anneli_Tokiwano_OuenbuinA</li>
+                            <li>Anneli_Tokiwano_OuenbuinB</li>
+                            <li>Anneli_Tokiwano_Kendobuin</li>
+                            <li>Anneli_Tokiwano_Kyudobuin</li>
                         </pawnKinds>
                     </li>  
                 </value>
@@ -29,19 +32,22 @@
                 <xpath>/Defs/QuestScriptDef/root[@Class="QuestNode_Sequence"]/nodes/li[@Class="QuestNode_GetRandomPawnKindForFaction"]/choices</xpath>
                 <value>
                     <li>
-                        <factionDef>Anneli_Faction_Gakuen</factionDef>
+                        <factionDef>Anneli_Faction_Tokiwano</factionDef>
                         <pawnKinds>
-                            <li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
-                            <li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
-                            <li>Anneli_Gakuen_Sabagebuin_SailorSuit</li>
-                            <li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
-                            <li>Anneli_Gakuen_Tsuppari</li>
-                            <li>Anneli_Gakuen_Sukeban</li>
-                            <li>Anneli_Gakuen_Undoubuin</li>
-                            <li>Anneli_Gakuen_Suieibuin</li>
-                            <li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
-                            <li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
-                            <li>Anneli_Gakuen_Kendobuin</li>
+                            <li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+                            <li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+                            <li>Anneli_Tokiwano_Sabagebuin_SailorSuit</li>
+                            <li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+                            <li>Anneli_Tokiwano_Tsuppari</li>
+                            <li>Anneli_Tokiwano_SukebanA</li>
+                            <li>Anneli_Tokiwano_SukebanB</li>
+                            <li>Anneli_Tokiwano_Undoubuin</li>
+                            <li>Anneli_Tokiwano_SuieibuinA</li>
+                            <li>Anneli_Tokiwano_SuieibuinB</li>
+                            <li>Anneli_Tokiwano_OuenbuinA</li>
+                            <li>Anneli_Tokiwano_OuenbuinB</li>
+                            <li>Anneli_Tokiwano_Kendobuin</li>
+                            <li>Anneli_Tokiwano_Kyudobuin</li>
                         </pawnKinds>
                     </li>  
                 </value>

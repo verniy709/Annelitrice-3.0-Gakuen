@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Tokiwano_2C_NonMetal" ParentName="Anneli_2C_NonMetal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Tokiwano</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Tokiwano_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Tokiwano_2C_Metal" ParentName="Anneli_2C_Metal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Tokiwano</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Tokiwano_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+
+	<!--Anneli_Tokiwano_Boots-->
+	<ThingDef ParentName="Anneli_Tokiwano_2C_NonMetal">
+		<defName>Anneli_Tokiwano_Boots</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)2C_Boots</label>
+		<graphicData>
+			<texPath>2C/Anneli_Tokiwano_Boots</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_Tokiwano_Boots</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+				<li>Anneli_Tokiwano_Tsuppari</li>
+				<li>Anneli_Tokiwano_SukebanA</li>
+				<li>Anneli_Tokiwano_SukebanB</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>30</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_LeatherShoes-->
+	<ThingDef ParentName="Anneli_Tokiwano_2C_NonMetal">
+		<defName>Anneli_Tokiwano_LeatherShoes</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)2C_LeatherShoes</label>
+		<graphicData>
+			<texPath>2C/Anneli_Tokiwano_LeatherShoes</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_Tokiwano_LeatherShoes</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_SailorSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+				<li>Anneli_Tokiwano_Tsuppari</li>
+				<li>Anneli_Tokiwano_SukebanA</li>
+				<li>Anneli_Tokiwano_SukebanB</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_TennisShoes-->
+	<ThingDef ParentName="Anneli_Tokiwano_2C_NonMetal">
+		<defName>Anneli_Tokiwano_TennisShoes</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)2C_TennisShoes</label>
+		<graphicData>
+			<texPath>2C/Anneli_Tokiwano_TennisShoes</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_Tokiwano_TennisShoes</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+				<li>Anneli_Tokiwano_SukebanA</li>
+				<li>Anneli_Tokiwano_SukebanB</li>
+				<li>Anneli_Tokiwano_Undoubuin</li>
+				<li>Anneli_Tokiwano_OuenbuinA</li>
+				<li>Anneli_Tokiwano_OuenbuinB</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_Sneakers-->
+	<ThingDef ParentName="Anneli_Tokiwano_2C_NonMetal">
+		<defName>Anneli_Tokiwano_Sneakers</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)2C_Sneakers</label>
+		<graphicData>
+			<texPath>2C/Anneli_Tokiwano_Sneakers</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_Tokiwano_Sneakers</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+				<li>Anneli_Tokiwano_Tsuppari</li>
+				<li>Anneli_Tokiwano_SukebanA</li>
+				<li>Anneli_Tokiwano_SukebanB</li>
+				<li>Anneli_Tokiwano_Undoubuin</li>
+				<li>Anneli_Tokiwano_OuenbuinA</li>
+				<li>Anneli_Tokiwano_OuenbuinB</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_Geta-->
+	<ThingDef ParentName="Anneli_Tokiwano_2C_NonMetal">
+		<defName>Anneli_Tokiwano_Geta</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)2C_Geta</label>
+		<graphicData>
+			<texPath>2C/Anneli_Tokiwano_Geta</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_Tokiwano_Geta</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kendobuin</li>
+				<li>Anneli_Tokiwano_Kyudobuin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_Uwabaki-->
+	<ThingDef ParentName="Anneli_Tokiwano_2C_NonMetal">
+		<defName>Anneli_Tokiwano_Uwabaki</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)2C_Uwabaki</label>
+		<graphicData>
+			<texPath>2C/Anneli_Tokiwano_Uwabaki</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_Tokiwano_Uwabaki</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_SailorSuit</li>
+				<li>Anneli_Tokiwano_Undoubuin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(60,65,90,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_Slippers-->
+	<ThingDef ParentName="Anneli_Tokiwano_2C_NonMetal">
+		<defName>Anneli_Tokiwano_Slippers</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)2C_Slippers</label>
+		<graphicData>
+			<texPath>2C/Anneli_Tokiwano_Slippers</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_Tokiwano_Slippers</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_SuieibuinA</li>
+				<li>Anneli_Tokiwano_SuieibuinB</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(60,65,90,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>

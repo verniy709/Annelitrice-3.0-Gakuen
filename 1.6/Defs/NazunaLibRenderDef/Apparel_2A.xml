@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_SailorSuitA</defName>
-		<originalDef>Anneli_Gakuen_SailorSuitA</originalDef>
+		<defName>Anneli_Tokiwano_SailorSuitA</defName>
+		<originalDef>Anneli_Tokiwano_SailorSuitA</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SailorSuitA</li>
+					<li>Anneli_Tokiwano_SailorSuitA</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -26,7 +26,7 @@
 					<li>Anneli_Arm_LS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_LS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -47,7 +47,7 @@
 					<li>Anneli_Arm_LS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_LS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -69,15 +69,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_SailorSuitB</defName>
-		<originalDef>Anneli_Gakuen_SailorSuitB</originalDef>
+		<defName>Anneli_Tokiwano_SailorSuitB</defName>
+		<originalDef>Anneli_Tokiwano_SailorSuitB</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SailorSuitB</li>
+					<li>Anneli_Tokiwano_SailorSuitB</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -94,7 +94,7 @@
 					<li>Anneli_Arm_LS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_LS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -113,7 +113,7 @@
 					<li>Anneli_Arm_LS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_LS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -133,15 +133,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_SailorCropTopA</defName>
-		<originalDef>Anneli_Gakuen_SailorCropTopA</originalDef>
+		<defName>Anneli_Tokiwano_SailorCropTopA</defName>
+		<originalDef>Anneli_Tokiwano_SailorCropTopA</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SailorCropTopA</li>
+					<li>Anneli_Tokiwano_SailorCropTopA</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -158,7 +158,7 @@
 					<li>Anneli_Arm_ShirtSS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_ShirtSS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_ShirtSS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -179,7 +179,7 @@
 					<li>Anneli_Arm_ShirtSS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_ShirtSS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_ShirtSS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -201,15 +201,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_SailorCropTopB</defName>
-		<originalDef>Anneli_Gakuen_SailorCropTopB</originalDef>
+		<defName>Anneli_Tokiwano_SailorCropTopB</defName>
+		<originalDef>Anneli_Tokiwano_SailorCropTopB</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SailorCropTopB</li>
+					<li>Anneli_Tokiwano_SailorCropTopB</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -226,7 +226,7 @@
 					<li>Anneli_Arm_ShirtSS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_ShirtSS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_ShirtSS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -245,7 +245,7 @@
 					<li>Anneli_Arm_ShirtSS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_ShirtSS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_ShirtSS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -265,15 +265,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_ShirtBowTie</defName>
-		<originalDef>Anneli_Gakuen_ShirtBowTie</originalDef>
+		<defName>Anneli_Tokiwano_ShirtBowTie</defName>
+		<originalDef>Anneli_Tokiwano_ShirtBowTie</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_ShirtBowTie</li>
+					<li>Anneli_Tokiwano_ShirtBowTie</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -290,7 +290,7 @@
 					<li>Anneli_Arm_ShirtSS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_ShirtSS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_ShirtSS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -311,75 +311,7 @@
 					<li>Anneli_Arm_ShirtSS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_ShirtSS_Right</textureLevelsName>
-				<flipped>true</flipped>
-				<switchEastWest>true</switchEastWest>
-				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.731, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 1.731, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.558, 0)</drawOffsetWest>
-				<meshType>Body</meshType>
-				<useStaticColor>true</useStaticColor>
-				<color>RGBA(255,255,254,255)</color>
-				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
-				<isSleeve>true</isSleeve>
-				<actionManager>
-					<def>Anneli_Arm_ShirtSS_Right</def>
-				</actionManager>
-				<skipFlag>Anneli_Sleeve2_Right</skipFlag>
-			</li>
-		</levels>
-	</NareisLib.MultiTexDef>
-
-	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_ShirtNecktie</defName>
-		<originalDef>Anneli_Gakuen_ShirtNecktie</originalDef>
-		<originalDefClass>ThingDef</originalDefClass>
-		<renderOriginTex>false</renderOriginTex>
-		<path>2A/</path>
-		<levels>
-			<li>
-				<prefix>
-					<li>Anneli_Gakuen_ShirtNecktie</li>
-				</prefix>
-				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
-				<drawOffsetSouth>(0, 1.231, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.231, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 1.231, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.231, 0)</drawOffsetWest>
-				<meshType>Body</meshType>
-				<useStaticYOffset>true</useStaticYOffset>
-				<useBodyType>true</useBodyType>
-			</li>
-			<li>
-				<prefix>
-					<li>Anneli_Arm_ShirtSS</li>
-				</prefix>
-				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_ShirtSS_Left</textureLevelsName>
-				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 1.731, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.731, 0)</drawOffsetWest>
-				<meshType>Body</meshType>
-				<useStaticColor>true</useStaticColor>
-				<color>RGBA(255,255,254,255)</color>
-				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
-				<isSleeve>true</isSleeve>
-				<actionManager>
-					<def>Anneli_Arm_ShirtSS_Left</def>
-				</actionManager>
-				<skipFlag>Anneli_Sleeve2_Left</skipFlag>
-			</li>
-			<li>
-				<prefix>
-					<li>Anneli_Arm_ShirtSS</li>
-				</prefix>
-				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_ShirtSS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_ShirtSS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -401,15 +333,83 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_ShirtOpen</defName>
-		<originalDef>Anneli_Gakuen_ShirtOpen</originalDef>
+		<defName>Anneli_Tokiwano_ShirtNecktie</defName>
+		<originalDef>Anneli_Tokiwano_ShirtNecktie</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_ShirtOpen</li>
+					<li>Anneli_Tokiwano_ShirtNecktie</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
+				<drawOffsetSouth>(0, 1.231, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.231, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.231, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.231, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_ShirtSS</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_ShirtSS_Left</textureLevelsName>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.731, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.731, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticColor>true</useStaticColor>
+				<color>RGBA(255,255,254,255)</color>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_ShirtSS_Left</def>
+				</actionManager>
+				<skipFlag>Anneli_Sleeve2_Left</skipFlag>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_ShirtSS</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_ShirtSS_Right</textureLevelsName>
+				<flipped>true</flipped>
+				<switchEastWest>true</switchEastWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.731, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.731, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.558, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticColor>true</useStaticColor>
+				<color>RGBA(255,255,254,255)</color>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_ShirtSS_Right</def>
+				</actionManager>
+				<skipFlag>Anneli_Sleeve2_Right</skipFlag>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Tokiwano_ShirtOpen</defName>
+		<originalDef>Anneli_Tokiwano_ShirtOpen</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Tokiwano_ShirtOpen</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -426,7 +426,7 @@
 					<li>Anneli_Arm_ShirtSS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_ShirtSS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_ShirtSS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -445,7 +445,7 @@
 					<li>Anneli_Arm_ShirtSS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_ShirtSS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_ShirtSS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -465,15 +465,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_KendoTop</defName>
-		<originalDef>Anneli_Gakuen_KendoTop</originalDef>
+		<defName>Anneli_Tokiwano_KendoTop</defName>
+		<originalDef>Anneli_Tokiwano_KendoTop</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_KendoTop</li>
+					<li>Anneli_Tokiwano_KendoTop</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -490,7 +490,7 @@
 					<li>Anneli_Arm_ShirtSS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_ShirtSS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_ShirtSS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -509,7 +509,7 @@
 					<li>Anneli_Arm_ShirtSS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_ShirtSS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_ShirtSS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -529,15 +529,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_CheerCropTop</defName>
-		<originalDef>Anneli_Gakuen_CheerCropTop</originalDef>
+		<defName>Anneli_Tokiwano_CheerCropTop</defName>
+		<originalDef>Anneli_Tokiwano_CheerCropTop</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CheerCropTop</li>
+					<li>Anneli_Tokiwano_CheerCropTop</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -553,15 +553,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_GymShirt</defName>
-		<originalDef>Anneli_Gakuen_GymShirt</originalDef>
+		<defName>Anneli_Tokiwano_GymShirt</defName>
+		<originalDef>Anneli_Tokiwano_GymShirt</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_GymShirt</li>
+					<li>Anneli_Tokiwano_GymShirt</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -578,7 +578,7 @@
 					<li>Anneli_Arm_SS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_SS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_SS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -599,7 +599,7 @@
 					<li>Anneli_Arm_SS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_SS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve2_SS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Tokiwano_6C" ParentName="Anneli_6C" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Tokiwano</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Tokiwano_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_WoolMask-->
+	<ThingDef ParentName="Anneli_Tokiwano_6C">
+		<defName>Anneli_Tokiwano_WoolMask</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6C_WoolMask</label>
+		<graphicData>
+			<texPath>6C/Anneli_Tokiwano_WoolMask</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6C/Anneli_Tokiwano_WoolMask</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Sabagebuin_SailorSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_MedicalMask-->
+	<ThingDef ParentName="Anneli_Tokiwano_6C">
+		<defName>Anneli_Tokiwano_MedicalMask</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6C_MedicalMask</label>
+		<graphicData>
+			<texPath>6C/Anneli_Tokiwano_MedicalMask</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6C/Anneli_Tokiwano_MedicalMask</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Tokiwano_OuenbuinA</li>
+				<li>Anneli_Tokiwano_OuenbuinB</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(180,225,250,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_Toast-->
+	<ThingDef ParentName="Anneli_Tokiwano_6C">
+		<defName>Anneli_Tokiwano_Toast</defName>
+		<description>NOT dyeable.</description>
+		<label>(Tokiwano)6C_Toast</label>
+		<graphicData>
+			<texPath>6C/Anneli_Tokiwano_Toast</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6C/Anneli_Tokiwano_Toast</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_SailorSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,255,255,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.1</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+</Defs>

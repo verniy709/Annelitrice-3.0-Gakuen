@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
     <Operation Class="PatchOperationAdd">
-        <xpath>Defs/NareisLib.ActionDef[defName="Anneli_Gakuen_Glovelettes_Right"]/behaviors</xpath>
+        <xpath>Defs/NareisLib.ActionDef[defName="Anneli_Tokiwano_Glovelettes_Right"]/behaviors</xpath>
         <value>
             <!-- Think Job Category -->
             <li>
@@ -9,7 +9,7 @@
                 <value>
                     <exPath>Anneli_Gloves/Glovelettes/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_Glovelettes</li>
+                        <li>Anneli_Tokiwano_Glovelettes</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -23,7 +23,7 @@
                 <value>
                     <exPath>Anneli_Gloves/Glovelettes/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_Glovelettes</li>
+                        <li>Anneli_Tokiwano_Glovelettes</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -37,7 +37,7 @@
                 <value>
                     <exPath>Anneli_Gloves/Glovelettes/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_Glovelettes</li>
+                        <li>Anneli_Tokiwano_Glovelettes</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>

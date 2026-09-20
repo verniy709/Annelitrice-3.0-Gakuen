@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Tokiwano_1B" ParentName="Anneli_1B" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Tokiwano</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Tokiwano_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_CatUnderwear-->
+	<ThingDef ParentName="Anneli_Tokiwano_1B">
+		<defName>Anneli_Tokiwano_CatUnderwear</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)1B_CatUnderwear</label>
+		<graphicData>
+			<texPath>1B/Anneli_Tokiwano_CatUnderwear</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1B/Anneli_Tokiwano_CatUnderwear</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+				<li>Anneli_Tokiwano_OuenbuinA</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_Cheeky-->
+	<ThingDef ParentName="Anneli_Tokiwano_1B">
+		<defName>Anneli_Tokiwano_Cheeky</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)1B_Cheeky</label>
+		<graphicData>
+			<texPath>1B/Anneli_Tokiwano_Cheeky</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1B/Anneli_Tokiwano_Cheeky</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_SukebanA</li>
+				<li>Anneli_Tokiwano_SukebanB</li>
+				<li>Anneli_Tokiwano_OuenbuinB</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_Classic-->
+	<ThingDef ParentName="Anneli_Tokiwano_1B">
+		<defName>Anneli_Tokiwano_Classic</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)1B_Classic</label>
+		<graphicData>
+			<texPath>1B/Anneli_Tokiwano_Classic</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1B/Anneli_Tokiwano_Classic</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_SailorSuit</li>
+				<li>Anneli_Tokiwano_Undoubuin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_Loincloth-->
+	<ThingDef ParentName="Anneli_Tokiwano_1B">
+		<defName>Anneli_Tokiwano_Loincloth</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)1B_Loincloth</label>
+		<graphicData>
+			<texPath>1B/Anneli_Tokiwano_Loincloth</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1B/Anneli_Tokiwano_Loincloth</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Tsuppari</li>
+				<li>Anneli_Tokiwano_Kendobuin</li>
+				<li>Anneli_Tokiwano_Kyudobuin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	
+</Defs>

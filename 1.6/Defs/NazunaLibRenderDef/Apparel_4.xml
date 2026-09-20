@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_ArmorVest</defName>
-		<originalDef>Anneli_Gakuen_ArmorVest</originalDef>
+		<defName>Anneli_Tokiwano_ArmorVest</defName>
+		<originalDef>Anneli_Tokiwano_ArmorVest</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>4/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_ArmorVest</li>
+					<li>Anneli_Tokiwano_ArmorVest</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel4</textureLevelsName>
@@ -25,15 +25,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_CamoArmorVest</defName>
-		<originalDef>Anneli_Gakuen_CamoArmorVest</originalDef>
+		<defName>Anneli_Tokiwano_CamoArmorVest</defName>
+		<originalDef>Anneli_Tokiwano_CamoArmorVest</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>4/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CamoArmorVest</li>
+					<li>Anneli_Tokiwano_CamoArmorVest</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel4</textureLevelsName>
@@ -49,15 +49,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_ArmorBikini</defName>
-		<originalDef>Anneli_Gakuen_ArmorBikini</originalDef>
+		<defName>Anneli_Tokiwano_ArmorBikini</defName>
+		<originalDef>Anneli_Tokiwano_ArmorBikini</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>4/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_ArmorBikini</li>
+					<li>Anneli_Tokiwano_ArmorBikini</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel4</textureLevelsName>
@@ -73,15 +73,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_CamoArmorBikini</defName>
-		<originalDef>Anneli_Gakuen_CamoArmorBikini</originalDef>
+		<defName>Anneli_Tokiwano_CamoArmorBikini</defName>
+		<originalDef>Anneli_Tokiwano_CamoArmorBikini</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>4/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CamoArmorBikini</li>
+					<li>Anneli_Tokiwano_CamoArmorBikini</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel4</textureLevelsName>
@@ -97,15 +97,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Chestguard</defName>
-		<originalDef>Anneli_Gakuen_Chestguard</originalDef>
+		<defName>Anneli_Tokiwano_Chestguard</defName>
+		<originalDef>Anneli_Tokiwano_Chestguard</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>4/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Chestguard</li>
+					<li>Anneli_Tokiwano_Chestguard</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel4</textureLevelsName>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_LegRig</defName>
-		<originalDef>Anneli_Gakuen_LegRig</originalDef>
+		<defName>Anneli_Tokiwano_LegRig</defName>
+		<originalDef>Anneli_Tokiwano_LegRig</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>5B/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_LegRig</li>
+					<li>Anneli_Tokiwano_LegRig</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5B</textureLevelsName>
@@ -25,15 +25,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_CamoLegRig</defName>
-		<originalDef>Anneli_Gakuen_CamoLegRig</originalDef>
+		<defName>Anneli_Tokiwano_CamoLegRig</defName>
+		<originalDef>Anneli_Tokiwano_CamoLegRig</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>5B/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CamoLegRig</li>
+					<li>Anneli_Tokiwano_CamoLegRig</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5B</textureLevelsName>

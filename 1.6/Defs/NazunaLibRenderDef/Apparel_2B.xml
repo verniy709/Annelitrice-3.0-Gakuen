@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Miniskirt</defName>
-		<originalDef>Anneli_Gakuen_Miniskirt</originalDef>
+		<defName>Anneli_Tokiwano_Miniskirt</defName>
+		<originalDef>Anneli_Tokiwano_Miniskirt</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2B/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Miniskirt</li>
+					<li>Anneli_Tokiwano_Miniskirt</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -25,15 +25,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Skirt</defName>
-		<originalDef>Anneli_Gakuen_Skirt</originalDef>
+		<defName>Anneli_Tokiwano_Skirt</defName>
+		<originalDef>Anneli_Tokiwano_Skirt</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2B/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Skirt</li>
+					<li>Anneli_Tokiwano_Skirt</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -49,15 +49,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_PlaidSkirt</defName>
-		<originalDef>Anneli_Gakuen_PlaidSkirt</originalDef>
+		<defName>Anneli_Tokiwano_PlaidSkirt</defName>
+		<originalDef>Anneli_Tokiwano_PlaidSkirt</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2B/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_PlaidSkirt</li>
+					<li>Anneli_Tokiwano_PlaidSkirt</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -73,15 +73,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_PlaidMiniskirt</defName>
-		<originalDef>Anneli_Gakuen_PlaidMiniskirt</originalDef>
+		<defName>Anneli_Tokiwano_PlaidMiniskirt</defName>
+		<originalDef>Anneli_Tokiwano_PlaidMiniskirt</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2B/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_PlaidMiniskirt</li>
+					<li>Anneli_Tokiwano_PlaidMiniskirt</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -97,15 +97,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_KendoHakama</defName>
-		<originalDef>Anneli_Gakuen_KendoHakama</originalDef>
+		<defName>Anneli_Tokiwano_KendoHakama</defName>
+		<originalDef>Anneli_Tokiwano_KendoHakama</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2B/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_KendoHakama</li>
+					<li>Anneli_Tokiwano_KendoHakama</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -121,15 +121,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_CheerDress</defName>
-		<originalDef>Anneli_Gakuen_CheerDress</originalDef>
+		<defName>Anneli_Tokiwano_CheerDress</defName>
+		<originalDef>Anneli_Tokiwano_CheerDress</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2B/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CheerDress</li>
+					<li>Anneli_Tokiwano_CheerDress</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -145,15 +145,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_GymShorts</defName>
-		<originalDef>Anneli_Gakuen_GymShorts</originalDef>
+		<defName>Anneli_Tokiwano_GymShorts</defName>
+		<originalDef>Anneli_Tokiwano_GymShorts</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2B/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_GymShorts</li>
+					<li>Anneli_Tokiwano_GymShorts</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -169,15 +169,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_DressPants</defName>
-		<originalDef>Anneli_Gakuen_DressPants</originalDef>
+		<defName>Anneli_Tokiwano_DressPants</defName>
+		<originalDef>Anneli_Tokiwano_DressPants</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>2B/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_DressPants</li>
+					<li>Anneli_Tokiwano_DressPants</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>

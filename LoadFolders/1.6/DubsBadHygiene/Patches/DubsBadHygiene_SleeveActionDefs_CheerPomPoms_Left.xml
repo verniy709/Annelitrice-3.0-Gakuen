@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
     <Operation Class="PatchOperationAdd">
-        <xpath>Defs/NareisLib.ActionDef[defName="Anneli_Gakuen_CheerPomPoms_Left"]/behaviors</xpath>
+        <xpath>Defs/NareisLib.ActionDef[defName="Anneli_Tokiwano_CheerPomPoms_Left"]/behaviors</xpath>
         <value>
             <!-- Idle Job Category -->
             <li>
@@ -9,7 +9,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -22,7 +22,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -36,7 +36,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -49,7 +49,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -63,7 +63,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -76,7 +76,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -90,7 +90,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -103,7 +103,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -116,7 +116,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -129,7 +129,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -142,7 +142,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -155,7 +155,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -168,7 +168,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -182,7 +182,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -196,7 +196,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -209,7 +209,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -223,7 +223,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -236,7 +236,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -250,7 +250,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -263,7 +263,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -276,7 +276,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -289,7 +289,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -303,7 +303,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -317,7 +317,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -330,7 +330,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -344,7 +344,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -358,7 +358,7 @@
                 <value>
                     <exPath>Anneli_Gloves/CheerPomPoms/</exPath>
                     <textures>
-                        <li>Anneli_Gakuen_CheerPomPoms</li>
+                        <li>Anneli_Tokiwano_CheerPomPoms</li>
                     </textures>
                     <linkedWithAction>true</linkedWithAction>
                     <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>

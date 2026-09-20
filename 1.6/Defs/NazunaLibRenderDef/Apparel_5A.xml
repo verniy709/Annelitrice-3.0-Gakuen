@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_ChestRig</defName>
-		<originalDef>Anneli_Gakuen_ChestRig</originalDef>
+		<defName>Anneli_Tokiwano_ChestRig</defName>
+		<originalDef>Anneli_Tokiwano_ChestRig</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>5A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_ChestRig</li>
+					<li>Anneli_Tokiwano_ChestRig</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
@@ -25,15 +25,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_CamoChestRig</defName>
-		<originalDef>Anneli_Gakuen_CamoChestRig</originalDef>
+		<defName>Anneli_Tokiwano_CamoChestRig</defName>
+		<originalDef>Anneli_Tokiwano_CamoChestRig</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>5A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CamoChestRig</li>
+					<li>Anneli_Tokiwano_CamoChestRig</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
@@ -49,15 +49,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Scarf</defName>
-		<originalDef>Anneli_Gakuen_Scarf</originalDef>
+		<defName>Anneli_Tokiwano_Scarf</defName>
+		<originalDef>Anneli_Tokiwano_Scarf</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>5A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Scarf</li>
+					<li>Anneli_Tokiwano_Scarf</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
@@ -73,15 +73,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_PlaidScarf</defName>
-		<originalDef>Anneli_Gakuen_PlaidScarf</originalDef>
+		<defName>Anneli_Tokiwano_PlaidScarf</defName>
+		<originalDef>Anneli_Tokiwano_PlaidScarf</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>5A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_PlaidScarf</li>
+					<li>Anneli_Tokiwano_PlaidScarf</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
@@ -97,15 +97,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_CoatAsCloak</defName>
-		<originalDef>Anneli_Gakuen_CoatAsCloak</originalDef>
+		<defName>Anneli_Tokiwano_CoatAsCloak</defName>
+		<originalDef>Anneli_Tokiwano_CoatAsCloak</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>5A/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CoatAsCloak</li>
+					<li>Anneli_Tokiwano_CoatAsCloak</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
@@ -119,7 +119,7 @@
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Back_Gakuen_CoatAsCloak</li>
+					<li>Anneli_Back_Tokiwano_CoatAsCloak</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A_Back</textureLevelsName>

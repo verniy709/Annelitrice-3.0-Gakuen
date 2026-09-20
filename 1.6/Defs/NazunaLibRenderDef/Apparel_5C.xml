@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Glovelettes</defName>
-		<originalDef>Anneli_Gakuen_Glovelettes</originalDef>
+		<defName>Anneli_Tokiwano_Glovelettes</defName>
+		<originalDef>Anneli_Tokiwano_Glovelettes</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>5C/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Glovelettes</li>
+					<li>Anneli_Tokiwano_Glovelettes</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Glove1_Left</textureLevelsName>
@@ -23,12 +23,12 @@
 				<useBodyType>true</useBodyType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
-					<def>Anneli_Gakuen_Glovelettes_Left</def>
+					<def>Anneli_Tokiwano_Glovelettes_Left</def>
 				</actionManager>
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Glovelettes</li>
+					<li>Anneli_Tokiwano_Glovelettes</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Glove1_Right</textureLevelsName>
@@ -44,22 +44,22 @@
 				<useBodyType>true</useBodyType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
-					<def>Anneli_Gakuen_Glovelettes_Right</def>
+					<def>Anneli_Tokiwano_Glovelettes_Right</def>
 				</actionManager>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_CheerPomPoms</defName>
-		<originalDef>Anneli_Gakuen_CheerPomPoms</originalDef>
+		<defName>Anneli_Tokiwano_CheerPomPoms</defName>
+		<originalDef>Anneli_Tokiwano_CheerPomPoms</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>5C/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CheerPomPoms</li>
+					<li>Anneli_Tokiwano_CheerPomPoms</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Glove3_Left</textureLevelsName>
@@ -73,12 +73,12 @@
 				<useBodyType>true</useBodyType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
-					<def>Anneli_Gakuen_CheerPomPoms_Left</def>
+					<def>Anneli_Tokiwano_CheerPomPoms_Left</def>
 				</actionManager>
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CheerPomPoms</li>
+					<li>Anneli_Tokiwano_CheerPomPoms</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Glove3_Right</textureLevelsName>
@@ -94,7 +94,7 @@
 				<useBodyType>true</useBodyType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
-					<def>Anneli_Gakuen_CheerPomPoms_Right</def>
+					<def>Anneli_Tokiwano_CheerPomPoms_Right</def>
 				</actionManager>
 			</li>
 		</levels>

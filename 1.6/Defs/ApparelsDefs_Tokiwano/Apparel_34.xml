@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Tokiwano_34" ParentName="Anneli_34" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Tokiwano</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Tokiwano_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+<!--Anneli_Tokiwano_KendoArmor-->
+	<ThingDef ParentName="Anneli_Tokiwano_34">
+		<defName>Anneli_Tokiwano_KendoArmor</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)34_KendoArmor</label>
+		<graphicData>
+			<texPath>34/Anneli_Tokiwano_KendoArmor</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>34/Anneli_Tokiwano_KendoArmor</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kendobuin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+			
+</Defs>

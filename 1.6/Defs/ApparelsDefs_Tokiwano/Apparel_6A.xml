@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Tokiwano_6A_NonMetal" ParentName="Anneli_6A_NonMetal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Tokiwano</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Tokiwano_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Tokiwano_6A_Metal" ParentName="Anneli_6A_Metal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Tokiwano</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Tokiwano_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_Beret-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_NonMetal">
+		<defName>Anneli_Tokiwano_Beret</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6A_Beret</label>
+		<graphicData>
+			<texPath>6A/Anneli_Tokiwano_Beret</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Tokiwano_Beret</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_SailorSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+				<li>Anneli_SkipOverhead</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+			</renderSkipFlags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(60,65,90,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_SunHat-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_NonMetal">
+		<defName>Anneli_Tokiwano_SunHat</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6A_SunHat</label>
+		<graphicData>
+			<texPath>6A/Anneli_Tokiwano_SunHat</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Tokiwano_SunHat</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+				<li>Anneli_Tokiwano_SuieibuinA</li>
+				<li>Anneli_Tokiwano_SuieibuinB</li>
+				<li>Anneli_SkipOverhead</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(180,225,250,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(240,220,200,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_Headband-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_NonMetal">
+		<defName>Anneli_Tokiwano_Headband</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6A_Headband</label>
+		<graphicData>
+			<texPath>6A/Anneli_Tokiwano_Headband</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Tokiwano_Headband</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_SailorSuit</li>
+				<li>Anneli_Tokiwano_SukebanA</li>
+				<li>Anneli_Tokiwano_SukebanB</li>
+				<li>Anneli_Tokiwano_Undoubuin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(60,65,90,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_MilitaryHat-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_NonMetal">
+		<defName>Anneli_Tokiwano_MilitaryHat</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6A_MilitaryHat</label>
+		<graphicData>
+			<texPath>6A/Anneli_Tokiwano_MilitaryHat</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Tokiwano_MilitaryHat</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Tsuppari</li>
+				<li>Anneli_Tokiwano_SukebanA</li>
+				<li>Anneli_Tokiwano_SukebanB</li>
+				<li>Anneli_Tokiwano_Kendobuin</li>
+				<li>Anneli_Tokiwano_Kyudobuin</li>
+				<li>Anneli_SkipOverhead</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_BaseballCap-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_NonMetal">
+		<defName>Anneli_Tokiwano_BaseballCap</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6A_BaseballCap</label>
+		<graphicData>
+			<texPath>6A/Anneli_Tokiwano_BaseballCap</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Tokiwano_BaseballCap</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_SukebanA</li>
+				<li>Anneli_Tokiwano_SukebanB</li>
+				<li>Anneli_Tokiwano_Undoubuin</li>
+				<li>Anneli_Tokiwano_SuieibuinA</li>
+				<li>Anneli_Tokiwano_SuieibuinB</li>
+				<li>Anneli_SkipOverhead</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(60,65,90,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_VisorCap-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_NonMetal">
+		<defName>Anneli_Tokiwano_VisorCap</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6A_VisorCap</label>
+		<graphicData>
+			<texPath>6A/Anneli_Tokiwano_VisorCap</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Tokiwano_VisorCap</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Undoubuin</li>
+				<li>Anneli_Tokiwano_OuenbuinA</li>
+				<li>Anneli_Tokiwano_OuenbuinB</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_BikeHelmet-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_Metal">
+		<defName>Anneli_Tokiwano_BikeHelmet</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6A_BikeHelmet</label>
+		<graphicData>
+			<texPath>6A/Anneli_Tokiwano_BikeHelmet</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Tokiwano_BikeHelmet</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_SailorSuit</li>
+				<li>Anneli_SkipOverhead</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(60,65,90,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateCommonality>0.5</generateCommonality><!--Less chance-->
+	</ThingDef>	
+
+	<!--Anneli_Tokiwano_TacticalHeadset-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_Metal">
+		<defName>Anneli_Tokiwano_TacticalHeadset</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6A_TacticalHeadset</label>
+		<graphicData>
+			<texPath>6A/Anneli_Tokiwano_TacticalHeadset</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Tokiwano_TacticalHeadset</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>	
+
+	<!--Anneli_Tokiwano_CamoTacticalHeadset-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_Metal">
+		<defName>Anneli_Tokiwano_CamoTacticalHeadset</defName>
+		<description>NOT dyeable.</description>
+		<label>(Tokiwano)6A_CamoTacticalHeadset</label>
+		<graphicData>
+			<texPath>6A/Anneli_Tokiwano_CamoTacticalHeadset</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Tokiwano_CamoTacticalHeadset</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,255,255,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>	
+
+	<!--Anneli_Tokiwano_CatHeadset-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_Metal">
+		<defName>Anneli_Tokiwano_CatHeadset</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6A_CatHeadset</label>
+		<graphicData>
+			<texPath>6A/Anneli_Tokiwano_CatHeadset</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Tokiwano_CatHeadset</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Tokiwano_SukebanA</li>
+				<li>Anneli_Tokiwano_SukebanB</li>
+				<li>Anneli_Tokiwano_SuieibuinA</li>
+				<li>Anneli_Tokiwano_SuieibuinB</li>
+				<li>Anneli_SkipOverhead</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(240,180,180,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>	
+
+	<!--Anneli_Tokiwano_Hachimaki-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_NonMetal">
+		<defName>Anneli_Tokiwano_Hachimaki</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6A_Hachimaki</label>
+		<graphicData>
+			<texPath>6A/Anneli_Tokiwano_Hachimaki</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Tokiwano_Hachimaki</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Tsuppari</li>
+				<li>Anneli_Tokiwano_Undoubuin</li>
+				<li>Anneli_Tokiwano_Kendobuin</li>
+				<li>Anneli_Tokiwano_Kyudobuin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_HachimakiKanji-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_NonMetal">
+		<defName>Anneli_Tokiwano_HachimakiKanji</defName>
+		<description>NOT dyeable.</description>
+		<label>(Tokiwano)6A_HachimakiKanji</label>
+		<graphicData>
+			<texPath>6A/HachimakiKanji/Anneli_Tokiwano_HachimakiKanji_Gokaku</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/HachimakiKanji/Anneli_Tokiwano_HachimakiKanji_Gokaku</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Tsuppari</li>
+				<li>Anneli_Tokiwano_Undoubuin</li>
+				<li>Anneli_Tokiwano_Kendobuin</li>
+				<li>Anneli_Tokiwano_Kyudobuin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,255,255,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_ChiikawaAccessories-->
+	<ThingDef ParentName="Anneli_Tokiwano_6A_NonMetal">
+		<defName>Anneli_Tokiwano_ChiikawaAccessories</defName>
+		<description>NOT dyeable.</description>
+		<label>(Tokiwano)6A_ChiikawaAccessories</label>
+		<graphicData>
+			<texPath>6A/ChiikawaAccessories/Anneli_Tokiwano_ChiikawaAccessories_C</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/ChiikawaAccessories/Anneli_Tokiwano_ChiikawaAccessories_C</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_SailorSuit</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,255,255,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>

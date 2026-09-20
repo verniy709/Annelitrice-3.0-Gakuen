@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Tokiwano_6ABC_NonMetal" ParentName="Anneli_6ABC_NonMetal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Tokiwano</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Tokiwano_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Tokiwano_6ABC_Metal" ParentName="Anneli_6ABC_Metal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Tokiwano</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Tokiwano_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_KendoHelmet-->
+	<ThingDef ParentName="Anneli_Tokiwano_6ABC_Metal">
+		<defName>Anneli_Tokiwano_KendoHelmet</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6ABC_KendoHelmet</label>
+		<graphicData>
+			<texPath>6ABC/Anneli_Tokiwano_KendoHelmet</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6ABC/Anneli_Tokiwano_KendoHelmet</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kendobuin</li>
+				<li>Anneli_SkipOverhead</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_MotorHelmet-->
+	<ThingDef ParentName="Anneli_Tokiwano_6ABC_Metal">
+		<defName>Anneli_Tokiwano_MotorHelmet</defName>
+		<description>Dyeable.</description>
+		<label>(Tokiwano)6ABC_MotorHelmet</label>
+		<graphicData>
+			<texPath>6ABC/Anneli_Tokiwano_MotorHelmet</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6ABC/Anneli_Tokiwano_MotorHelmet</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+				<li>Anneli_Tokiwano_SukebanA</li>
+				<li>Anneli_Tokiwano_SukebanB</li>
+				<li>Anneli_SkipOverhead</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Tokiwano_PaperBag-->
+	<ThingDef ParentName="Anneli_Tokiwano_6ABC_NonMetal">
+		<defName>Anneli_Tokiwano_PaperBag</defName>
+		<description>NOT dyeable.</description>
+		<label>(Tokiwano)6ABC_PaperBag</label>
+		<graphicData>
+			<texPath>6ABC/PaperBag/Anneli_Tokiwano_PaperBag</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6ABC/PaperBag/Anneli_Tokiwano_PaperBag</wornGraphicPath>
+			<tags>
+				<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
+				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_SkipHeadAddons</li>
+				<li>Anneli_SkipOverhead</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_MiddleHair</li>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_FrontHair</li>
+				<li>Anneli_BackHair</li>
+				<li>Anneli_BackHair_Braid</li>
+			</renderSkipFlags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,255,255,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateCommonality>0.1</generateCommonality><!--Less chance-->
+	</ThingDef>
+
+</Defs>

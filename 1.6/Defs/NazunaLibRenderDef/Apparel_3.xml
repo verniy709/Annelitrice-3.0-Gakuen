@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Blazer</defName>
-		<originalDef>Anneli_Gakuen_Blazer</originalDef>
+		<defName>Anneli_Tokiwano_Blazer</defName>
+		<originalDef>Anneli_Tokiwano_Blazer</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>3/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Blazer</li>
+					<li>Anneli_Tokiwano_Blazer</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
@@ -26,7 +26,7 @@
 					<li>Anneli_Arm_LCS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LCS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel3_Sleeve2_LCS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -44,7 +44,7 @@
 					<li>Anneli_Arm_LCS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LCS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel3_Sleeve2_LCS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -63,15 +63,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_SweaterVest</defName>
-		<originalDef>Anneli_Gakuen_SweaterVest</originalDef>
+		<defName>Anneli_Tokiwano_SweaterVest</defName>
+		<originalDef>Anneli_Tokiwano_SweaterVest</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>3/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SweaterVest</li>
+					<li>Anneli_Tokiwano_SweaterVest</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
@@ -87,15 +87,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Apron</defName>
-		<originalDef>Anneli_Gakuen_Apron</originalDef>
+		<defName>Anneli_Tokiwano_Apron</defName>
+		<originalDef>Anneli_Tokiwano_Apron</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>3/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Apron</li>
+					<li>Anneli_Tokiwano_Apron</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
@@ -111,15 +111,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_Coat</defName>
-		<originalDef>Anneli_Gakuen_Coat</originalDef>
+		<defName>Anneli_Tokiwano_Coat</defName>
+		<originalDef>Anneli_Tokiwano_Coat</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>3/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Coat</li>
+					<li>Anneli_Tokiwano_Coat</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
@@ -136,7 +136,7 @@
 					<li>Anneli_Arm_LCS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LCS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel3_Sleeve2_LCS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -154,7 +154,7 @@
 					<li>Anneli_Arm_LCS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LCS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel3_Sleeve2_LCS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -173,15 +173,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_GakuranCoat</defName>
-		<originalDef>Anneli_Gakuen_GakuranCoat</originalDef>
+		<defName>Anneli_Tokiwano_GakuranCoat</defName>
+		<originalDef>Anneli_Tokiwano_GakuranCoat</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>3/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_GakuranCoat</li>
+					<li>Anneli_Tokiwano_GakuranCoat</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
@@ -198,7 +198,7 @@
 					<li>Anneli_Arm_LCS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LCS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel3_Sleeve2_LCS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -216,7 +216,7 @@
 					<li>Anneli_Arm_LCS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LCS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel3_Sleeve2_LCS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -235,15 +235,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_TiedAroundWaist</defName>
-		<originalDef>Anneli_Gakuen_TiedAroundWaist</originalDef>
+		<defName>Anneli_Tokiwano_TiedAroundWaist</defName>
+		<originalDef>Anneli_Tokiwano_TiedAroundWaist</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>3/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_TiedAroundWaist</li>
+					<li>Anneli_Tokiwano_TiedAroundWaist</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
@@ -259,15 +259,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_TrackJacket</defName>
-		<originalDef>Anneli_Gakuen_TrackJacket</originalDef>
+		<defName>Anneli_Tokiwano_TrackJacket</defName>
+		<originalDef>Anneli_Tokiwano_TrackJacket</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>3/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_TrackJacket</li>
+					<li>Anneli_Tokiwano_TrackJacket</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
@@ -284,7 +284,7 @@
 					<li>Anneli_Arm_LS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel3_Sleeve2_LS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -302,7 +302,7 @@
 					<li>Anneli_Arm_LS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel3_Sleeve2_LS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>

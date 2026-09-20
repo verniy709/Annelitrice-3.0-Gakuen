@@ -2,15 +2,15 @@
 <Defs>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_SchoolBag</defName>
-		<originalDef>Anneli_Gakuen_SchoolBag</originalDef>
+		<defName>Anneli_Tokiwano_SchoolBag</defName>
+		<originalDef>Anneli_Tokiwano_SchoolBag</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>7/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SchoolBag</li>
+					<li>Anneli_Tokiwano_SchoolBag</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
@@ -24,7 +24,7 @@
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Back_Gakuen_SchoolBag</li>
+					<li>Anneli_Back_Tokiwano_SchoolBag</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel7_Back</textureLevelsName>
@@ -41,15 +41,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Gakuen_ShoulderBag</defName>
-		<originalDef>Anneli_Gakuen_ShoulderBag</originalDef>
+		<defName>Anneli_Tokiwano_ShoulderBag</defName>
+		<originalDef>Anneli_Tokiwano_ShoulderBag</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>7/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_ShoulderBag</li>
+					<li>Anneli_Tokiwano_ShoulderBag</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
