@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>
+      /Defs/PawnKindDef[defName="Anneli_Player"]/*[
+      self::apparelRequired
+      or self::specificApparelRequirements
+      or self::apparelTags
+      or self::weaponTags
+      ]
+    </xpath>
+
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationRemove">
+          <xpath>
+            /Defs/PawnKindDef[defName="Anneli_Player"]/*[
+            self::apparelRequired
+            or self::specificApparelRequirements
+            or self::apparelTags
+            or self::weaponTags
+            ]
+          </xpath>
+        </li>
+        
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/PawnKindDef[defName="Anneli_Player"]</xpath>
+          <value>
+            <apparelRequired>
+              <li>Anneli_Tokiwano_ShirtNecktie</li>
+              <li>Anneli_Tokiwano_PlaidSkirt</li>
+            </apparelRequired>
+            <specificApparelRequirements>
+              <li>
+                <bodyPartGroup>Feet</bodyPartGroup>
+                <apparelLayer>OnSkin</apparelLayer>
+                <requiredTag>Anneli_Tokiwano_Kitakubuinn_WesternSuit</requiredTag>
+                <colorGenerator Class="ColorGenerator_Options">
+                  <options>
+                    <li>
+                      <weight>10</weight>
+                      <only>(50,45,50,255)</only>
+                    </li>
+                  </options>
+                </colorGenerator>
+              </li>
+              <li>
+                <bodyPartGroup>Feet</bodyPartGroup>
+                <apparelLayer>Middle</apparelLayer>
+                <requiredTag>Anneli_Tokiwano_Kitakubuinn_WesternSuit</requiredTag>
+                <colorGenerator Class="ColorGenerator_Options">
+                  <options>
+                    <li>
+                      <weight>10</weight>
+                      <only>(50,45,50,255)</only>
+                    </li>
+                  </options>
+                </colorGenerator>
+              </li>
+              <li>
+                <apparelLayer>Overhead</apparelLayer>
+                <colorGenerator Class="ColorGenerator_Options">
+                  <options>
+                    <li>
+                      <weight>10</weight>
+                      <only>(60,65,90,255)</only>
+                    </li>
+                  </options>
+                </colorGenerator>
+              </li>
+            </specificApparelRequirements>
+            <apparelTags>
+              <li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+              <li>Anneli_Tokiwano_RiotShield</li>
+            </apparelTags>
+            <apparelMoney>2000~4000</apparelMoney>
+            <weaponTags>
+              <li>SimpleGun</li>
+              <li>Revolver</li>
+              <li>IndustrialGunAdvanced</li>
+              <li>GrenadeDestructive</li>
+            </weaponTags>
+          </value>
+        </li>
+      </operations>
+    </match>
+
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/PawnKindDef[defName="Anneli_Player"]</xpath>
+      <value>
+        <apparelRequired>
+          <li>Anneli_Tokiwano_ShirtNecktie</li>
+          <li>Anneli_Tokiwano_PlaidSkirt</li>
+        </apparelRequired>
+        <specificApparelRequirements>
+          <li>
+            <bodyPartGroup>Feet</bodyPartGroup>
+            <apparelLayer>OnSkin</apparelLayer>
+            <requiredTag>Anneli_Tokiwano_Kitakubuinn_WesternSuit</requiredTag>
+            <colorGenerator Class="ColorGenerator_Options">
+              <options>
+                <li>
+                  <weight>10</weight>
+                  <only>(50,45,50,255)</only>
+                </li>
+              </options>
+            </colorGenerator>
+          </li>
+          <li>
+            <bodyPartGroup>Feet</bodyPartGroup>
+            <apparelLayer>Middle</apparelLayer>
+            <requiredTag>Anneli_Tokiwano_Kitakubuinn_WesternSuit</requiredTag>
+            <colorGenerator Class="ColorGenerator_Options">
+              <options>
+                <li>
+                  <weight>10</weight>
+                  <only>(50,45,50,255)</only>
+                </li>
+              </options>
+            </colorGenerator>
+          </li>
+          <li>
+            <apparelLayer>Overhead</apparelLayer>
+            <colorGenerator Class="ColorGenerator_Options">
+              <options>
+                <li>
+                  <weight>10</weight>
+                  <only>(60,65,90,255)</only>
+                </li>
+              </options>
+            </colorGenerator>
+          </li>
+        </specificApparelRequirements>
+        <apparelTags>
+          <li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+          <li>Anneli_Tokiwano_RiotShield</li>
+        </apparelTags>
+        <apparelMoney>2000~4000</apparelMoney>
+        <weaponTags>
+          <li>SimpleGun</li>
+          <li>Revolver</li>
+          <li>IndustrialGunAdvanced</li>
+          <li>GrenadeDestructive</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+</Patch>
