@@ -276,6 +276,7 @@
 			<wornGraphicPath>6A/Anneli_Tokiwano_TacticalHeadset</wornGraphicPath>
 			<tags>
 				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
+				<li>Anneli_Tokiwano_SukebanA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -302,6 +303,7 @@
 			<wornGraphicPath>6A/Anneli_Tokiwano_CamoTacticalHeadset</wornGraphicPath>
 			<tags>
 				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
+				<li>Anneli_Tokiwano_SukebanB</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

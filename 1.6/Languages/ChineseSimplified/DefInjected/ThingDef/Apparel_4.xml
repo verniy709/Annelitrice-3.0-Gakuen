@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Anneli_Gakuen_ArmorVest -->
+  <!-- Anneli_Tokiwano_ArmorVest -->
 
-  <Anneli_Gakuen_ArmorVest.label>(学园)4_防弹背心</Anneli_Gakuen_ArmorVest.label>
-  <Anneli_Gakuen_ArmorVest.description>可染色.</Anneli_Gakuen_ArmorVest.description>
-
-
-  <!-- Anneli_Gakuen_CamoArmorVest -->
-
-  <Anneli_Gakuen_CamoArmorVest.label>(学园)4_迷彩防弹背心</Anneli_Gakuen_CamoArmorVest.label>
-  <Anneli_Gakuen_CamoArmorVest.description>不可染色.</Anneli_Gakuen_CamoArmorVest.description>
+  <Anneli_Tokiwano_ArmorVest.label>(学园)4_防弹背心</Anneli_Tokiwano_ArmorVest.label>
+  <Anneli_Tokiwano_ArmorVest.description>可染色.</Anneli_Tokiwano_ArmorVest.description>
 
 
-  <!-- Anneli_Gakuen_ArmorBikini -->
+  <!-- Anneli_Tokiwano_CamoArmorVest -->
 
-  <Anneli_Gakuen_ArmorBikini.label>(学园)4_防弹比基尼</Anneli_Gakuen_ArmorBikini.label>
-  <Anneli_Gakuen_ArmorBikini.description>可染色.</Anneli_Gakuen_ArmorBikini.description>
-
-
-  <!-- Anneli_Gakuen_CamoArmorBikini -->
-
-  <Anneli_Gakuen_CamoArmorBikini.label>(学园)4_迷彩防弹比基尼</Anneli_Gakuen_CamoArmorBikini.label>
-  <Anneli_Gakuen_CamoArmorBikini.description>不可染色.</Anneli_Gakuen_CamoArmorBikini.description>
+  <Anneli_Tokiwano_CamoArmorVest.label>(学园)4_迷彩防弹背心</Anneli_Tokiwano_CamoArmorVest.label>
+  <Anneli_Tokiwano_CamoArmorVest.description>不可染色.</Anneli_Tokiwano_CamoArmorVest.description>
 
 
-  <!-- Anneli_Gakuen_Chestguard -->
+  <!-- Anneli_Tokiwano_ArmorBikini -->
 
-  <Anneli_Gakuen_Chestguard.label>(学园)4_护胸</Anneli_Gakuen_Chestguard.label>
-  <Anneli_Gakuen_Chestguard.description>可染色.</Anneli_Gakuen_Chestguard.description>
+  <Anneli_Tokiwano_ArmorBikini.label>(学园)4_防弹比基尼</Anneli_Tokiwano_ArmorBikini.label>
+  <Anneli_Tokiwano_ArmorBikini.description>可染色.</Anneli_Tokiwano_ArmorBikini.description>
+
+
+  <!-- Anneli_Tokiwano_CamoArmorBikini -->
+
+  <Anneli_Tokiwano_CamoArmorBikini.label>(学园)4_迷彩防弹比基尼</Anneli_Tokiwano_CamoArmorBikini.label>
+  <Anneli_Tokiwano_CamoArmorBikini.description>不可染色.</Anneli_Tokiwano_CamoArmorBikini.description>
+
+
+  <!-- Anneli_Tokiwano_Chestguard -->
+
+  <Anneli_Tokiwano_Chestguard.label>(学园)4_护胸</Anneli_Tokiwano_Chestguard.label>
+  <Anneli_Tokiwano_Chestguard.description>可染色.</Anneli_Tokiwano_Chestguard.description>
 
 
 </LanguageData>
