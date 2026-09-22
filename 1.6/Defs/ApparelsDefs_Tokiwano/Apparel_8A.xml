@@ -29,6 +29,7 @@
 					</li>
 				</grains>
 				<volumeRange>70~70</volumeRange>
+				<distRange>20~50</distRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -50,6 +51,7 @@
 					</li>
 				</grains>
 				<volumeRange>65~65</volumeRange>
+				<distRange>20~50</distRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -134,6 +136,7 @@
 					</li>
 				</grains>
 				<volumeRange>60~60</volumeRange>
+				<distRange>20~50</distRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -155,6 +158,7 @@
 					</li>
 				</grains>
 				<volumeRange>50~50</volumeRange>
+				<distRange>20~50</distRange>
 			</li>
 		</subSounds>
 	</SoundDef>
