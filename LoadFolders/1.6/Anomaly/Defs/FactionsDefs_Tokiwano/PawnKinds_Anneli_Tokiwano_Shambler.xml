@@ -49,9 +49,7 @@
 	
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_Kitakubuinn_SailorSuit</defName>
-		<label>Tokiwano_Kitakubuinn</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_SailorSuitA</li>
 			<li>Anneli_Tokiwano_Skirt</li>
@@ -106,9 +104,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_Kitakubuinn_WesternSuit</defName>
-		<label>Tokiwano_Kitakubuinn</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_ShirtNecktie</li>
 			<li>Anneli_Tokiwano_PlaidSkirt</li>
@@ -160,9 +156,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_Sabagebuin_SailorSuit</defName>
-		<label>Tokiwano_Sabagebuin</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_SailorSuitA</li>
 			<li>Anneli_Tokiwano_Skirt</li>
@@ -225,9 +219,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_Sabagebuin_WesternSuit</defName>
-		<label>Tokiwano_Sabagebuin</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_ShirtBowTie</li>
 			<li>Anneli_Tokiwano_PlaidMiniskirt</li>
@@ -290,9 +282,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_Tsuppari</defName>
-		<label>Tokiwano_Tsuppari</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_ShirtOpen</li>
 			<li>Anneli_Tokiwano_DressPants</li>
@@ -318,9 +308,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_SukebanA</defName>
-		<label>Tokiwano_Sukeban</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_SailorSuitB</li>
 			<li>Anneli_Tokiwano_Skirt</li>
@@ -375,9 +363,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_SukebanB</defName>
-		<label>Tokiwano_Sukeban</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_SailorCropTopB</li>
 			<li>Anneli_Tokiwano_Miniskirt</li>
@@ -443,9 +429,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_Undoubuin</defName>
-		<label>Tokiwano_Undoubuin</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_GymShirt</li>
 			<li>Anneli_Tokiwano_GymShorts</li>
@@ -511,9 +495,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_SuieibuinA</defName>
-		<label>Tokiwano_Suieibuin</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_SchoolSwimsuit</li>
 		</apparelRequired>
@@ -549,9 +531,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_SuieibuinB</defName>
-		<label>Tokiwano_Suieibuin</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_CowPrintSwimsuit</li>
 			<li>Anneli_Tokiwano_CowPrintStockings</li>
@@ -577,9 +557,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_OuenbuinA</defName>
-		<label>Tokiwano_Ouenbuin</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_CheerCropTop</li>
 			<li>Anneli_Tokiwano_CheerDress</li>
@@ -626,9 +604,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_OuenbuinB</defName>
-		<label>Tokiwano_Ouenbuin</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_SailorCropTopA</li>
 			<li>Anneli_Tokiwano_Miniskirt</li>
@@ -686,9 +662,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_Kendobuin</defName>
-		<label>Tokiwano_Kendobuin</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_ChestWrap</li>
 			<li>Anneli_Tokiwano_Loincloth</li>
@@ -719,9 +693,7 @@
 
 	<PawnKindDef ParentName="Anneli_Tokiwano_Shambler_KindBase">
 		<defName>Anneli_Tokiwano_Shambler_Kyudobuin</defName>
-		<label>Tokiwano_Kyudobuin</label>
 		<isFighter>True</isFighter>
-		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Tokiwano_ChestWrap</li>
 			<li>Anneli_Tokiwano_Loincloth</li>
