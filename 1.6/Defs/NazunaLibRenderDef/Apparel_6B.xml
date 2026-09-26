@@ -47,15 +47,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Tokiwano_SqureGlasses</defName>
-		<originalDef>Anneli_Tokiwano_SqureGlasses</originalDef>
+		<defName>Anneli_Tokiwano_SquareGlasses</defName>
+		<originalDef>Anneli_Tokiwano_SquareGlasses</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>6B/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Tokiwano_SqureGlasses</li>
+					<li>Anneli_Tokiwano_SquareGlasses</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6B</textureLevelsName>

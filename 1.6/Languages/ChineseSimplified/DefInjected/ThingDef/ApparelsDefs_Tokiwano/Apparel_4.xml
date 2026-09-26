@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_ArmorBikini.description>可染色.</Anneli_Tokiwano_ArmorBikini.description>
+  <!-- EN: (Tokiwano)4_ArmorBikini -->
+  <Anneli_Tokiwano_ArmorBikini.label>(学园)4_防弹比基尼</Anneli_Tokiwano_ArmorBikini.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_ArmorVest.description>可染色.</Anneli_Tokiwano_ArmorVest.description>
+  <!-- EN: (Tokiwano)4_ArmorVest -->
+  <Anneli_Tokiwano_ArmorVest.label>(学园)4_防弹背心</Anneli_Tokiwano_ArmorVest.label>
+  <!-- EN: NOT dyeable. -->
+  <Anneli_Tokiwano_CamoArmorBikini.description>不可染色.</Anneli_Tokiwano_CamoArmorBikini.description>
+  <!-- EN: (Tokiwano)4_CamoArmorBikini -->
+  <Anneli_Tokiwano_CamoArmorBikini.label>(学园)4_迷彩防弹比基尼</Anneli_Tokiwano_CamoArmorBikini.label>
+  <!-- EN: NOT dyeable. -->
+  <Anneli_Tokiwano_CamoArmorVest.description>不可染色.</Anneli_Tokiwano_CamoArmorVest.description>
+  <!-- EN: (Tokiwano)4_CamoArmorVest -->
+  <Anneli_Tokiwano_CamoArmorVest.label>(学园)4_迷彩防弹背心</Anneli_Tokiwano_CamoArmorVest.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_Chestguard.description>可染色.</Anneli_Tokiwano_Chestguard.description>
+  <!-- EN: (Tokiwano)4_Chestguard -->
+  <Anneli_Tokiwano_Chestguard.label>(学园)4_护胸</Anneli_Tokiwano_Chestguard.label>
+</LanguageData>

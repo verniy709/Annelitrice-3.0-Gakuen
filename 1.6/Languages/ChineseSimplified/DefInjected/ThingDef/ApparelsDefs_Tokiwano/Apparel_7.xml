@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_SchoolBag.description>可染色.</Anneli_Tokiwano_SchoolBag.description>
+  <!-- EN: (Tokiwano)7_SchoolBag -->
+  <Anneli_Tokiwano_SchoolBag.label>(学园)7_书包</Anneli_Tokiwano_SchoolBag.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_ShoulderBag.description>可染色.</Anneli_Tokiwano_ShoulderBag.description>
+  <!-- EN: (Tokiwano)7_ShoulderBag -->
+  <Anneli_Tokiwano_ShoulderBag.label>(学园)7_单肩书包</Anneli_Tokiwano_ShoulderBag.label>
+</LanguageData>

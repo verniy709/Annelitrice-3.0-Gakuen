@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: NOT dyeable. -->
+  <Anneli_Tokiwano_CowPrintStockings.description>不可染色.</Anneli_Tokiwano_CowPrintStockings.description>
+  <!-- EN: (Tokiwano)1C_CowPrintStockings -->
+  <Anneli_Tokiwano_CowPrintStockings.label>(学园)1C_奶牛过膝袜</Anneli_Tokiwano_CowPrintStockings.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_LooseSocks.description>可染色.</Anneli_Tokiwano_LooseSocks.description>
+  <!-- EN: (Tokiwano)1C_LooseSocks -->
+  <Anneli_Tokiwano_LooseSocks.label>(学园)1C_泡泡袜</Anneli_Tokiwano_LooseSocks.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_Pantyhose.description>可染色.</Anneli_Tokiwano_Pantyhose.description>
+  <!-- EN: (Tokiwano)1C_Pantyhose -->
+  <Anneli_Tokiwano_Pantyhose.label>(学园)1C_裤袜</Anneli_Tokiwano_Pantyhose.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_SoccerSocks.description>可染色.</Anneli_Tokiwano_SoccerSocks.description>
+  <!-- EN: (Tokiwano)1C_SoccerSocks -->
+  <Anneli_Tokiwano_SoccerSocks.label>(学园)1C_运动袜</Anneli_Tokiwano_SoccerSocks.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_Socks.description>可染色.</Anneli_Tokiwano_Socks.description>
+  <!-- EN: (Tokiwano)1C_Socks -->
+  <Anneli_Tokiwano_Socks.label>(学园)1C_长袜</Anneli_Tokiwano_Socks.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_Stockings.description>可染色.</Anneli_Tokiwano_Stockings.description>
+  <!-- EN: (Tokiwano)1C_Stockings -->
+  <Anneli_Tokiwano_Stockings.label>(学园)1C_过膝袜</Anneli_Tokiwano_Stockings.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_Tabi.description>可染色.</Anneli_Tokiwano_Tabi.description>
+  <!-- EN: (Tokiwano)1C_Tabi -->
+  <Anneli_Tokiwano_Tabi.label>(学园)1C_足袜</Anneli_Tokiwano_Tabi.label>
+</LanguageData>

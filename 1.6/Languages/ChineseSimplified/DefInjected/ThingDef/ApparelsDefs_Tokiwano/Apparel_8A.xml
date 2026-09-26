@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. No apparel texture. -->
+  <Anneli_Tokiwano_Flute.description>可染色. 无服装贴图.</Anneli_Tokiwano_Flute.description>
+  <!-- EN: (Tokiwano)8A_Flute -->
+  <Anneli_Tokiwano_Flute.label>(学园)8A_竖笛</Anneli_Tokiwano_Flute.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_KatanaA.description>可染色.</Anneli_Tokiwano_KatanaA.description>
+  <!-- EN: (Tokiwano)8A_KatanaA -->
+  <Anneli_Tokiwano_KatanaA.label>(学园)8A_装饰用武士刀A</Anneli_Tokiwano_KatanaA.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_KatanaB.description>可染色.</Anneli_Tokiwano_KatanaB.description>
+  <!-- EN: (Tokiwano)8A_KatanaB -->
+  <Anneli_Tokiwano_KatanaB.label>(学园)8A_装饰用武士刀B</Anneli_Tokiwano_KatanaB.label>
+  <!-- EN: Dyeable. No apparel texture. -->
+  <Anneli_Tokiwano_WALKWOMAN.description>可染色. 无服装贴图.</Anneli_Tokiwano_WALKWOMAN.description>
+  <!-- EN: (Tokiwano)8A_WALKWOMAN -->
+  <Anneli_Tokiwano_WALKWOMAN.label>(学园)8A_WALKWOMAN</Anneli_Tokiwano_WALKWOMAN.label>
+</LanguageData>

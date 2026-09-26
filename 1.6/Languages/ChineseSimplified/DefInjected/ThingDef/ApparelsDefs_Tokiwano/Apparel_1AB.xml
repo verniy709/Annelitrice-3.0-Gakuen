@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: NOT dyeable. -->
+  <Anneli_Tokiwano_CowPrintSwimsuit.description>不可染色.</Anneli_Tokiwano_CowPrintSwimsuit.description>
+  <!-- EN: (Tokiwano)1AB_CowPrintSwimsuit -->
+  <Anneli_Tokiwano_CowPrintSwimsuit.label>(学园)1AB_奶牛泳衣</Anneli_Tokiwano_CowPrintSwimsuit.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_SchoolSwimsuit.description>可染色.</Anneli_Tokiwano_SchoolSwimsuit.description>
+  <!-- EN: (Tokiwano)1AB_SchoolSwimsuit -->
+  <Anneli_Tokiwano_SchoolSwimsuit.label>(学园)1AB_学校泳衣</Anneli_Tokiwano_SchoolSwimsuit.label>
+</LanguageData>

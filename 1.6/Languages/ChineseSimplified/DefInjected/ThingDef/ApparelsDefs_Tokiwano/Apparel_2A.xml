@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_CheerCropTop.description>可染色.</Anneli_Tokiwano_CheerCropTop.description>
+  <!-- EN: (Tokiwano)2A_CheerCropTop -->
+  <Anneli_Tokiwano_CheerCropTop.label>(学园)2A_啦啦队短上衣</Anneli_Tokiwano_CheerCropTop.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_GymShirt.description>可染色.</Anneli_Tokiwano_GymShirt.description>
+  <!-- EN: (Tokiwano)2A_GymShirt -->
+  <Anneli_Tokiwano_GymShirt.label>(学园)2A_运动衬衫</Anneli_Tokiwano_GymShirt.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_KendoTop.description>可染色.</Anneli_Tokiwano_KendoTop.description>
+  <!-- EN: (Tokiwano)2A_KendoTop -->
+  <Anneli_Tokiwano_KendoTop.label>(学园)2A_剑道上衣</Anneli_Tokiwano_KendoTop.label>
+  <!-- EN: Dyeable. Collar. -->
+  <Anneli_Tokiwano_SailorCropTopA.description>可染色. 领子染色.</Anneli_Tokiwano_SailorCropTopA.description>
+  <!-- EN: (Tokiwano)2A_SailorCropTopA -->
+  <Anneli_Tokiwano_SailorCropTopA.label>(学园)2A_短水手服A</Anneli_Tokiwano_SailorCropTopA.label>
+  <!-- EN: Dyeable. Full -->
+  <Anneli_Tokiwano_SailorCropTopB.description>可染色. 全部染色.</Anneli_Tokiwano_SailorCropTopB.description>
+  <!-- EN: (Tokiwano)2A_SailorCropTopB -->
+  <Anneli_Tokiwano_SailorCropTopB.label>(学园)2A_短水手服B</Anneli_Tokiwano_SailorCropTopB.label>
+  <!-- EN: Dyeable. Collar. -->
+  <Anneli_Tokiwano_SailorSuitA.description>可染色. 领子染色.</Anneli_Tokiwano_SailorSuitA.description>
+  <!-- EN: (Tokiwano)2A_SailorSuitA -->
+  <Anneli_Tokiwano_SailorSuitA.label>(学园)2A_水手服A</Anneli_Tokiwano_SailorSuitA.label>
+  <!-- EN: Dyeable. Full. -->
+  <Anneli_Tokiwano_SailorSuitB.description>可染色. 全部染色.</Anneli_Tokiwano_SailorSuitB.description>
+  <!-- EN: (Tokiwano)2A_SailorSuitB -->
+  <Anneli_Tokiwano_SailorSuitB.label>(学园)2A_水手服B</Anneli_Tokiwano_SailorSuitB.label>
+  <!-- EN: Dyeable. Bow tie. -->
+  <Anneli_Tokiwano_ShirtBowTie.description>可染色. 领绳染色.</Anneli_Tokiwano_ShirtBowTie.description>
+  <!-- EN: (Tokiwano)2A_ShirtBowTie -->
+  <Anneli_Tokiwano_ShirtBowTie.label>(学园)2A_领绳衬衫</Anneli_Tokiwano_ShirtBowTie.label>
+  <!-- EN: Dyeable. Necktie. -->
+  <Anneli_Tokiwano_ShirtNecktie.description>可染色. 领结染色.</Anneli_Tokiwano_ShirtNecktie.description>
+  <!-- EN: (Tokiwano)2A_ShirtNecktie -->
+  <Anneli_Tokiwano_ShirtNecktie.label>(学园)2A_领结衬衫</Anneli_Tokiwano_ShirtNecktie.label>
+  <!-- EN: Dyeable. Full. -->
+  <Anneli_Tokiwano_ShirtOpen.description>可染色. 全部染色.</Anneli_Tokiwano_ShirtOpen.description>
+  <!-- EN: (Tokiwano)2A_ShirtOpen -->
+  <Anneli_Tokiwano_ShirtOpen.label>(学园)2A_敞开衬衫</Anneli_Tokiwano_ShirtOpen.label>
+</LanguageData>

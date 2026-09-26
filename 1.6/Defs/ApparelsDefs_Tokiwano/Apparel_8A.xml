@@ -250,8 +250,6 @@
 			<EquipDelay>1</EquipDelay>
 			<Flammability>0.15</Flammability>
 		</statBases>
-		<equippedStatOffsets>
-		</equippedStatOffsets>
 		<graphicData>
 			<texPath>8A/Anneli_Tokiwano_KatanaA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -314,8 +312,6 @@
 			<EquipDelay>1</EquipDelay>
 			<Flammability>0.15</Flammability>
 		</statBases>
-		<equippedStatOffsets>
-		</equippedStatOffsets>
 		<graphicData>
 			<texPath>8A/Anneli_Tokiwano_KatanaB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

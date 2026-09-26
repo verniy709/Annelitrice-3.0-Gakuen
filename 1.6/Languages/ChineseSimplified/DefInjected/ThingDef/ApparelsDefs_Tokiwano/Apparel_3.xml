@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_Apron.description>可染色.</Anneli_Tokiwano_Apron.description>
+  <!-- EN: (Tokiwano)3_Apron -->
+  <Anneli_Tokiwano_Apron.label>(学园)3_围裙</Anneli_Tokiwano_Apron.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_Blazer.description>可染色.</Anneli_Tokiwano_Blazer.description>
+  <!-- EN: (Tokiwano)3_Blazer -->
+  <Anneli_Tokiwano_Blazer.label>(学园)3_夹克</Anneli_Tokiwano_Blazer.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_Coat.description>可染色.</Anneli_Tokiwano_Coat.description>
+  <!-- EN: (Tokiwano)3_Coat -->
+  <Anneli_Tokiwano_Coat.label>(学园)3_大衣</Anneli_Tokiwano_Coat.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_GakuranCoat.description>可染色.</Anneli_Tokiwano_GakuranCoat.description>
+  <!-- EN: (Tokiwano)3_GakuranCoat -->
+  <Anneli_Tokiwano_GakuranCoat.label>(学园)3_制服外套</Anneli_Tokiwano_GakuranCoat.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_SweaterVest.description>可染色.</Anneli_Tokiwano_SweaterVest.description>
+  <!-- EN: (Tokiwano)3_SweaterVest -->
+  <Anneli_Tokiwano_SweaterVest.label>(学园)3_毛衣背心</Anneli_Tokiwano_SweaterVest.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_TiedAroundWaist.description>可染色.</Anneli_Tokiwano_TiedAroundWaist.description>
+  <!-- EN: (Tokiwano)3_TiedAroundWaist -->
+  <Anneli_Tokiwano_TiedAroundWaist.label>(学园)3_系腰外套</Anneli_Tokiwano_TiedAroundWaist.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_TrackJacket.description>可染色.</Anneli_Tokiwano_TrackJacket.description>
+  <!-- EN: (Tokiwano)3_TrackJacket -->
+  <Anneli_Tokiwano_TrackJacket.label>(学园)3_田径外套</Anneli_Tokiwano_TrackJacket.label>
+</LanguageData>

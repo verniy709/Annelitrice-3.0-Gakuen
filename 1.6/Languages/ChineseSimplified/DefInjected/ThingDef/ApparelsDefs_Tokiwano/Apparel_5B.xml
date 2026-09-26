@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Not dyeable. -->
+  <Anneli_Tokiwano_CamoLegRig.description>不可染色.</Anneli_Tokiwano_CamoLegRig.description>
+  <!-- EN: (Tokiwano)5B_CamoLegRig -->
+  <Anneli_Tokiwano_CamoLegRig.label>(学园)5B_迷彩腿部战术挂件</Anneli_Tokiwano_CamoLegRig.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_LegRig.description>可染色.</Anneli_Tokiwano_LegRig.description>
+  <!-- EN: (Tokiwano)5B_LegRig -->
+  <Anneli_Tokiwano_LegRig.label>(学园)5B_腿部战术挂件</Anneli_Tokiwano_LegRig.label>
+</LanguageData>

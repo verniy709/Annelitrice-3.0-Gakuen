@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_CheerDress.description>可染色.</Anneli_Tokiwano_CheerDress.description>
+  <!-- EN: (Tokiwano)2B_CheerDress -->
+  <Anneli_Tokiwano_CheerDress.label>(学园)2B_啦啦队短裙</Anneli_Tokiwano_CheerDress.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_DressPants.description>可染色.</Anneli_Tokiwano_DressPants.description>
+  <!-- EN: (Tokiwano)2B_DressPants -->
+  <Anneli_Tokiwano_DressPants.label>(学园)2B_西裤</Anneli_Tokiwano_DressPants.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_GymShorts.description>可染色.</Anneli_Tokiwano_GymShorts.description>
+  <!-- EN: (Tokiwano)2B_GymShorts -->
+  <Anneli_Tokiwano_GymShorts.label>(学园)2B_运动短裤</Anneli_Tokiwano_GymShorts.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_KendoHakama.description>可染色.</Anneli_Tokiwano_KendoHakama.description>
+  <!-- EN: (Tokiwano)2B_KendoHakama -->
+  <Anneli_Tokiwano_KendoHakama.label>(学园)2B_剑道袴</Anneli_Tokiwano_KendoHakama.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_Miniskirt.description>可染色.</Anneli_Tokiwano_Miniskirt.description>
+  <!-- EN: (Tokiwano)2B_Miniskirt -->
+  <Anneli_Tokiwano_Miniskirt.label>(学园)2B_迷你裙</Anneli_Tokiwano_Miniskirt.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_PlaidMiniskirt.description>可染色.</Anneli_Tokiwano_PlaidMiniskirt.description>
+  <!-- EN: (Tokiwano)2B_PlaidMiniskirt -->
+  <Anneli_Tokiwano_PlaidMiniskirt.label>(学园)2B_格子百褶裙</Anneli_Tokiwano_PlaidMiniskirt.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_PlaidSkirt.description>可染色.</Anneli_Tokiwano_PlaidSkirt.description>
+  <!-- EN: (Tokiwano)2B_PlaidSkirt -->
+  <Anneli_Tokiwano_PlaidSkirt.label>(学园)2B_格子百褶裙</Anneli_Tokiwano_PlaidSkirt.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_Skirt.description>可染色.</Anneli_Tokiwano_Skirt.description>
+  <!-- EN: (Tokiwano)2B_Skirt -->
+  <Anneli_Tokiwano_Skirt.label>(学园)2B_百褶裙</Anneli_Tokiwano_Skirt.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. But the color of shields has a bug. -->
+  <Anneli_Tokiwano_BallisticShield.description>可染色. 但是盾牌染色有bug.</Anneli_Tokiwano_BallisticShield.description>
+  <!-- EN: (Tokiwano)8C_BallisticShield -->
+  <Anneli_Tokiwano_BallisticShield.label>(学园)8C_防弹盾牌</Anneli_Tokiwano_BallisticShield.label>
+  <!-- EN: Dyeable. But the color of shields has a bug. -->
+  <Anneli_Tokiwano_RiotShield.description>可染色. 但是盾牌染色有bug.</Anneli_Tokiwano_RiotShield.description>
+  <!-- EN: (Tokiwano)8C_RiotShield -->
+  <Anneli_Tokiwano_RiotShield.label>(学园)8C_防暴盾</Anneli_Tokiwano_RiotShield.label>
+</LanguageData>

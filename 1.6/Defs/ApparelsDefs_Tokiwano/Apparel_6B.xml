@@ -121,17 +121,17 @@
 		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
-	<!--Anneli_Tokiwano_SqureGlasses-->
+	<!--Anneli_Tokiwano_SquareGlasses-->
 	<ThingDef ParentName="Anneli_Tokiwano_6B_Metal">
-		<defName>Anneli_Tokiwano_SqureGlasses</defName>
+		<defName>Anneli_Tokiwano_SquareGlasses</defName>
 		<description>Dyeable.</description>
 		<label>(Tokiwano)6B_SqureGlasses</label>
 		<graphicData>
-			<texPath>6B/Anneli_Tokiwano_SqureGlasses</texPath>
+			<texPath>6B/Anneli_Tokiwano_SquareGlasses</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6B/Anneli_Tokiwano_SqureGlasses</wornGraphicPath>
+			<wornGraphicPath>6B/Anneli_Tokiwano_SquareGlasses</wornGraphicPath>
 			<tags>
 				<li>Anneli_Tokiwano_Kitakubuinn_SailorSuit</li>
 				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>

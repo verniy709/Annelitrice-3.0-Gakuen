@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_KendoHelmet.description>可染色.</Anneli_Tokiwano_KendoHelmet.description>
+  <!-- EN: (Tokiwano)6ABC_KendoHelmet -->
+  <Anneli_Tokiwano_KendoHelmet.label>(学园)6ABC_剑道头盔</Anneli_Tokiwano_KendoHelmet.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_MotorHelmet.description>可染色.</Anneli_Tokiwano_MotorHelmet.description>
+  <!-- EN: (Tokiwano)6ABC_MotorHelmet -->
+  <Anneli_Tokiwano_MotorHelmet.label>(学园)6ABC_摩托车盔</Anneli_Tokiwano_MotorHelmet.label>
+  <!-- EN: NOT dyeable. -->
+  <Anneli_Tokiwano_PaperBag.description>不可染色.</Anneli_Tokiwano_PaperBag.description>
+  <!-- EN: (Tokiwano)6ABC_PaperBag -->
+  <Anneli_Tokiwano_PaperBag.label>(学园)6ABC_纸袋</Anneli_Tokiwano_PaperBag.label>
+</LanguageData>

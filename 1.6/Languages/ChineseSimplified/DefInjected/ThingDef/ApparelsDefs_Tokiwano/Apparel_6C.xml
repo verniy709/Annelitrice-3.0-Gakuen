@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_MedicalMask.description>可染色.</Anneli_Tokiwano_MedicalMask.description>
+  <!-- EN: (Tokiwano)6C_MedicalMask -->
+  <Anneli_Tokiwano_MedicalMask.label>(学园)6C_医用口罩</Anneli_Tokiwano_MedicalMask.label>
+  <!-- EN: NOT dyeable. -->
+  <Anneli_Tokiwano_Toast.description>不可染色.</Anneli_Tokiwano_Toast.description>
+  <!-- EN: (Tokiwano)6C_Toast -->
+  <Anneli_Tokiwano_Toast.label>(学园)6C_吐司</Anneli_Tokiwano_Toast.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_WoolMask.description>可染色.</Anneli_Tokiwano_WoolMask.description>
+  <!-- EN: (Tokiwano)6C_WoolMask -->
+  <Anneli_Tokiwano_WoolMask.label>(学园)6C_布口罩</Anneli_Tokiwano_WoolMask.label>
+</LanguageData>

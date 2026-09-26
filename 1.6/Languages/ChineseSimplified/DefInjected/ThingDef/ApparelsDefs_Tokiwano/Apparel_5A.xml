@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Not dyeable. -->
+  <Anneli_Tokiwano_CamoChestRig.description>不可染色.</Anneli_Tokiwano_CamoChestRig.description>
+  <!-- EN: (Tokiwano)5A_CamoChestRig -->
+  <Anneli_Tokiwano_CamoChestRig.label>(学园)5A_迷彩胸挂</Anneli_Tokiwano_CamoChestRig.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_ChestRig.description>可染色.</Anneli_Tokiwano_ChestRig.description>
+  <!-- EN: (Tokiwano)5A_ChestRig -->
+  <Anneli_Tokiwano_ChestRig.label>(学园)5A_胸挂</Anneli_Tokiwano_ChestRig.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_CoatAsCloak.description>可染色.</Anneli_Tokiwano_CoatAsCloak.description>
+  <!-- EN: (Tokiwano)5A_CoatAsCloak -->
+  <Anneli_Tokiwano_CoatAsCloak.label>(学园)5A_肩披外套</Anneli_Tokiwano_CoatAsCloak.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_PlaidScarf.description>可染色.</Anneli_Tokiwano_PlaidScarf.description>
+  <!-- EN: (Tokiwano)5A_PlaidScarf -->
+  <Anneli_Tokiwano_PlaidScarf.label>(学园)5A_格子围巾</Anneli_Tokiwano_PlaidScarf.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Tokiwano_Scarf.description>可染色.</Anneli_Tokiwano_Scarf.description>
+  <!-- EN: (Tokiwano)5A_Scarf -->
+  <Anneli_Tokiwano_Scarf.label>(学园)5A_围巾</Anneli_Tokiwano_Scarf.label>
+</LanguageData>
