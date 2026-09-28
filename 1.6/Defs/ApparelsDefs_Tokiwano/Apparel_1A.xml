@@ -54,7 +54,6 @@
 			<tags>
 				<li>Anneli_Tokiwano_Kitakubuinn_WesternSuit</li>
 				<li>Anneli_Tokiwano_Sabagebuin_WesternSuit</li>
-				<li>Anneli_Tokiwano_OuenbuinA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -81,8 +80,7 @@
 			<wornGraphicPath>1A/Anneli_Tokiwano_HalterNeckBra</wornGraphicPath>
 			<tags>
 				<li>Anneli_Tokiwano_SukebanA</li>
-				<li>Anneli_Tokiwano_SukebanB</li>
-				<li>Anneli_Tokiwano_OuenbuinB</li>
+				<li>Anneli_Tokiwano_OuenbuinA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -108,6 +106,7 @@
 		<apparel>
 			<wornGraphicPath>1A/Anneli_Tokiwano_ChestWrap</wornGraphicPath>
 			<tags>
+				<li>Anneli_Tokiwano_SukebanB</li>
 				<li>Anneli_Tokiwano_Tsuppari</li>
 				<li>Anneli_Tokiwano_Kendobuin</li>
 				<li>Anneli_Tokiwano_Kyudobuin</li>

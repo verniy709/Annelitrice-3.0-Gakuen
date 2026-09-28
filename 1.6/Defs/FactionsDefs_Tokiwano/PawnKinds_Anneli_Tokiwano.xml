@@ -42,6 +42,7 @@
 			</subOptionsChooseOne>
 		</inventoryOptions>
 		<combatEnhancingDrugsChance>0.5</combatEnhancingDrugsChance>
+		<combatEnhancingDrugsCount>0~2</combatEnhancingDrugsCount>
 		<xenotypeSet>
 			<xenotypeChances>
 				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">10.0</Anneli_Xenotype>
@@ -822,6 +823,17 @@
 				<bodyPartGroup>Feet</bodyPartGroup>
 				<apparelLayer>Middle</apparelLayer>
 				<requiredTag>Anneli_Tokiwano_OuenbuinB</requiredTag>
+			</li>
+			<li>
+				<apparelDef>Anneli_Tokiwano_SchoolSwimsuit</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
 			</li>
 			<li>
 				<apparelDef>Anneli_Tokiwano_Miniskirt</apparelDef>
