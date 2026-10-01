@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Bow_Recurve"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Bow_Recurve"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Tokiwano_Bow_Recurve</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Bow_Recurve"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Tokiwano_Bow_Recurve</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Flamebow"]</xpath>
+    <match Class="PatchOperationConditional">
+      <xpath>Defs/ThingDef[defName="Flamebow"]/weaponTags</xpath>
+      <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Flamebow"]/weaponTags</xpath>
+        <value>
+          <li>Anneli_Tokiwano_Flamebow</li>
+        </value>
+      </match>
+      <nomatch Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Flamebow"]</xpath>
+        <value>
+          <weaponTags>
+            <li>Anneli_Tokiwano_Flamebow</li>
+          </weaponTags>
+        </value>
+      </nomatch>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_Autopistol"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_Autopistol"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Tokiwano_Gun_Autopistol</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_Autopistol"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Tokiwano_Gun_Autopistol</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_BoltActionRifle"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_BoltActionRifle"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Tokiwano_Gun_BoltActionRifle</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_BoltActionRifle"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Tokiwano_Gun_BoltActionRifle</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_ChainShotgun"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_ChainShotgun"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Tokiwano_Gun_ChainShotgun</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_ChainShotgun"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Tokiwano_Gun_ChainShotgun</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_PumpShotgun"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_PumpShotgun"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Tokiwano_Gun_PumpShotgun</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_PumpShotgun"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Tokiwano_Gun_PumpShotgun</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_SniperRifle"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_SniperRifle"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Tokiwano_Gun_SniperRifle</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_SniperRifle"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Tokiwano_Gun_SniperRifle</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_ToxbombLauncher"]</xpath>
+    <match Class="PatchOperationConditional">
+      <xpath>Defs/ThingDef[defName="Gun_ToxbombLauncher"]/weaponTags</xpath>
+      <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Gun_ToxbombLauncher"]/weaponTags</xpath>
+        <value>
+          <li>Anneli_Tokiwano_Gun_ToxbombLauncher</li>
+        </value>
+      </match>
+      <nomatch Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Gun_ToxbombLauncher"]</xpath>
+        <value>
+          <weaponTags>
+            <li>Anneli_Tokiwano_Gun_ToxbombLauncher</li>
+          </weaponTags>
+        </value>
+      </nomatch>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_BreachAxe"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_BreachAxe"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Tokiwano_MeleeWeapon_BreachAxe</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_BreachAxe"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Tokiwano_MeleeWeapon_BreachAxe</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_Club"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Club"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Tokiwano_MeleeWeapon_Club</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Club"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Tokiwano_MeleeWeapon_Club</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_Ikwa"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Ikwa"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Tokiwano_MeleeWeapon_Ikwa</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Ikwa"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Tokiwano_MeleeWeapon_Ikwa</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_Mace"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Mace"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Tokiwano_MeleeWeapon_Mace</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Mace"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Tokiwano_MeleeWeapon_Mace</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Pila"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Pila"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Tokiwano_Pila</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Pila"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Tokiwano_Pila</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Weapon_GrenadeMolotov"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Weapon_GrenadeMolotov"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Tokiwano_Weapon_GrenadeMolotov</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Weapon_GrenadeMolotov"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Tokiwano_Weapon_GrenadeMolotov</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Weapon_GrenadeTox"]</xpath>
+    <match Class="PatchOperationConditional">
+      <xpath>Defs/ThingDef[defName="Weapon_GrenadeTox"]/weaponTags</xpath>
+      <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Weapon_GrenadeTox"]/weaponTags</xpath>
+        <value>
+          <li>Anneli_Tokiwano_Weapon_GrenadeTox</li>
+        </value>
+      </match>
+      <nomatch Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Weapon_GrenadeTox"]</xpath>
+        <value>
+          <weaponTags>
+            <li>Anneli_Tokiwano_Weapon_GrenadeTox</li>
+          </weaponTags>
+        </value>
+      </nomatch>
+    </match>
+  </Operation>
+</Patch>

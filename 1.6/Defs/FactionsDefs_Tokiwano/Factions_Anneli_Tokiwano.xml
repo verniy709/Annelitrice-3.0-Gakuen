@@ -20,7 +20,7 @@
 		<maxConfigurableAtWorldCreation>1</maxConfigurableAtWorldCreation>
 		<techLevel>Industrial</techLevel>
 		<allowedCultures>
-			<li>Anneli_Cultures_Rustican</li>
+			<li>Anneli_Cultures_Rustican_Tokiwano</li>
 		</allowedCultures>
 		<settlementTexturePath>Anneli_Factions/Anneli_Tokiwano</settlementTexturePath>
 		<factionIconPath>Anneli_Factions/Anneli_Tokiwano</factionIconPath>

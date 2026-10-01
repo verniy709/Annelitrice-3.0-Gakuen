@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <StyleCategoryDef>
+    <defName>Anneli_Tokiwano_Style</defName>
+    <label>Anneli_Tokiwano</label>
+    <iconPath>Anneli_Factions/Anneli_Tokiwano</iconPath>
+    <thingDefStyles>
+      <li>
+        <thingDef>Bow_Recurve</thingDef>
+        <styleDef>Anneli_Tokiwano_Bow_Recurve</styleDef>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Biotech">
+        <thingDef>Flamebow</thingDef>
+        <styleDef>Anneli_Tokiwano_Flamebow</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_Autopistol</thingDef>
+        <styleDef>Anneli_Tokiwano_Gun_Autopistol</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_BoltActionRifle</thingDef>
+        <styleDef>Anneli_Tokiwano_Gun_BoltActionRifle</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_ChainShotgun</thingDef>
+        <styleDef>Anneli_Tokiwano_Gun_ChainShotgun</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_PumpShotgun</thingDef>
+        <styleDef>Anneli_Tokiwano_Gun_PumpShotgun</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_SniperRifle</thingDef>
+        <styleDef>Anneli_Tokiwano_Gun_SniperRifle</styleDef>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Biotech">
+        <thingDef>Gun_ToxbombLauncher</thingDef>
+        <styleDef>Anneli_Tokiwano_Gun_ToxbombLauncher</styleDef>
+      </li>
+      <li>
+        <thingDef>MeleeWeapon_BreachAxe</thingDef>
+        <styleDef>Anneli_Tokiwano_MeleeWeapon_BreachAxe</styleDef>
+      </li>
+      <li>
+        <thingDef>MeleeWeapon_Club</thingDef>
+        <styleDef>Anneli_Tokiwano_MeleeWeapon_Club</styleDef>
+      </li>
+      <li>
+        <thingDef>MeleeWeapon_Ikwa</thingDef>
+        <styleDef>Anneli_Tokiwano_MeleeWeapon_Ikwa</styleDef>
+      </li>
+      <li>
+        <thingDef>MeleeWeapon_Mace</thingDef>
+        <styleDef>Anneli_Tokiwano_MeleeWeapon_Mace</styleDef>
+      </li>
+      <li>
+        <thingDef>Pila</thingDef>
+        <styleDef>Anneli_Tokiwano_Pila</styleDef>
+      </li>
+      <li>
+        <thingDef>Weapon_GrenadeMolotov</thingDef>
+        <styleDef>Anneli_Tokiwano_Weapon_GrenadeMolotov</styleDef>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Biotech">
+        <thingDef>Weapon_GrenadeTox</thingDef>
+        <styleDef>Anneli_Tokiwano_Weapon_GrenadeTox</styleDef>
+      </li>
+    </thingDefStyles>
+  </StyleCategoryDef>
+</Defs>
