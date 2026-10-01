@@ -7,7 +7,7 @@
 		<forceWeaponQuality>Masterwork</forceWeaponQuality>
 		<defaultFactionType>Anneli_Faction_Tokiwano</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>150</combatPower>
+		<combatPower>140</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryFiltersOverride>
 			<li>
