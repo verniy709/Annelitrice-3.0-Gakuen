@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingCategoryDef>
+		<defName>Anneli_Category_Gakuen</defName>
+		<parent>Apparel</parent>
+		<label>Annelitrice Gakuen Apparels</label>
+	</ThingCategoryDef>
+	
+</Defs>
