@@ -170,7 +170,7 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>Anneli_Tokiwano_MeleeWeapon_BreachAxe</li>
+			<li>Anneli_Tokiwano_Gun_Autopistol</li>
 			<li>Anneli_Tokiwano_MeleeWeapon_Club</li>
 			<li>Anneli_Tokiwano_MeleeWeapon_Ikwa</li>
 			<li>Anneli_Tokiwano_MeleeWeapon_Mace</li>
@@ -232,7 +232,7 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>Anneli_Tokiwano_MeleeWeapon_BreachAxe</li>
+			<li>Anneli_Tokiwano_Gun_Autopistol</li>
 			<li>Anneli_Tokiwano_MeleeWeapon_Club</li>
 			<li>Anneli_Tokiwano_MeleeWeapon_Ikwa</li>
 			<li>Anneli_Tokiwano_MeleeWeapon_Mace</li>
@@ -750,11 +750,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>Anneli_Tokiwano_MeleeWeapon_BreachAxe</li>
 			<li>Anneli_Tokiwano_MeleeWeapon_Club</li>
 			<li>Anneli_Tokiwano_MeleeWeapon_Ikwa</li>
 			<li>Anneli_Tokiwano_MeleeWeapon_Mace</li>
-			<li>Anneli_Tokiwano_Pila</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -967,7 +965,6 @@
 		<weaponTags>
 			<li>Anneli_Tokiwano_Bow_Recurve</li>
 			<li>Anneli_Tokiwano_Flamebow</li>
-			<li>Anneli_Tokiwano_Pila</li>
 		</weaponTags>
 	</PawnKindDef>
 
