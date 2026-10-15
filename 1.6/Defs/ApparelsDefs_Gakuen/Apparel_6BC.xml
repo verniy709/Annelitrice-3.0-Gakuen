@@ -35,11 +35,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6BC_GasMask</label>
 		<graphicData>
-			<texPath>6BC/Anneli_Gakuen_GasMask</texPath>
+			<texPath>6BC/Anneli_Tokiwano_GasMask</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6BC/Anneli_Gakuen_GasMask</wornGraphicPath>
+			<wornGraphicPath>6BC/Anneli_Tokiwano_GasMask</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>

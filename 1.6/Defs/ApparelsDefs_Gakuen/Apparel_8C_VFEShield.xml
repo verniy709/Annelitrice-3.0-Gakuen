@@ -108,7 +108,7 @@
         <label>(Gakuen)8C_BallisticShield</label>
         <description>Dyeable. But the color of shields has a bug.</description>
         <graphicData>
-            <texPath>8C/Anneli_Gakuen_BallisticShield</texPath>
+            <texPath>8C/Anneli_Tokiwano_BallisticShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>1</drawSize>
         </graphicData>
@@ -131,7 +131,7 @@
                     <li>Legs</li>
                 </coveredBodyPartGroups>
                 <offHandGraphicData>
-                    <texPath>8C/Anneli_Gakuen_BallisticShield</texPath>
+                    <texPath>8C/Anneli_Tokiwano_BallisticShield</texPath>
                     <graphicClass>Graphic_Multi</graphicClass>
                     <shaderType>CutoutComplex</shaderType>
                     <drawSize>1.55</drawSize>
@@ -171,7 +171,7 @@
         <label>(Gakuen)8C_RiotShield</label>
         <description>Dyeable. But the color of shields has a bug.</description>
         <graphicData>
-            <texPath>8C/Anneli_Gakuen_RiotShield</texPath>
+            <texPath>8C/Anneli_Tokiwano_RiotShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>1</drawSize>
         </graphicData>
@@ -194,7 +194,7 @@
                     <li>Legs</li>
                 </coveredBodyPartGroups>
                 <offHandGraphicData>
-                    <texPath>8C/Anneli_Gakuen_RiotShield</texPath>
+                    <texPath>8C/Anneli_Tokiwano_RiotShield</texPath>
                     <graphicClass>Graphic_Multi</graphicClass>
                     <shaderType>CutoutComplex</shaderType>
                     <drawSize>1.55</drawSize>

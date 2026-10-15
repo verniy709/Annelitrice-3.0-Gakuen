@@ -21,11 +21,11 @@
 		<description>Dyeable. Collar.</description>
 		<label>(Gakuen)2A_SailorSuitA</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_SailorSuitA</texPath>
+			<texPath>2A/Anneli_Tokiwano_SailorSuitA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_SailorSuitA</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Tokiwano_SailorSuitA</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
 				<li>Anneli_Gakuen_Sabagebuin_SailorSuit</li>
@@ -48,11 +48,11 @@
 		<description>Dyeable. Full.</description>
 		<label>(Gakuen)2A_SailorSuitB</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_SailorSuitB</texPath>
+			<texPath>2A/Anneli_Tokiwano_SailorSuitB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_SailorSuitB</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Tokiwano_SailorSuitB</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Sukeban</li>
 			</tags>
@@ -74,11 +74,11 @@
 		<description>Dyeable. Collar.</description>
 		<label>(Gakuen)2A_SailorCropTopA</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_SailorCropTopA</texPath>
+			<texPath>2A/Anneli_Tokiwano_SailorCropTopA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_SailorCropTopA</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Tokiwano_SailorCropTopA</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Ouenbuin_SailorSuit</li>
 			</tags>
@@ -100,11 +100,11 @@
 		<description>Dyeable. Full</description>
 		<label>(Gakuen)2A_SailorCropTopB</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_SailorCropTopB</texPath>
+			<texPath>2A/Anneli_Tokiwano_SailorCropTopB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_SailorCropTopB</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Tokiwano_SailorCropTopB</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Sukeban</li>
 			</tags>
@@ -126,11 +126,11 @@
 		<description>Dyeable. Bow tie.</description>
 		<label>(Gakuen)2A_ShirtBowTie</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_ShirtBowTie</texPath>
+			<texPath>2A/Anneli_Tokiwano_ShirtBowTie</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_ShirtBowTie</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Tokiwano_ShirtBowTie</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
 				<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
@@ -154,11 +154,11 @@
 		<description>Dyeable. Necktie.</description>
 		<label>(Gakuen)2A_ShirtNecktie</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_ShirtNecktie</texPath>
+			<texPath>2A/Anneli_Tokiwano_ShirtNecktie</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_ShirtNecktie</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Tokiwano_ShirtNecktie</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
 				<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
@@ -182,11 +182,11 @@
 		<description>Dyeable. Full.</description>
 		<label>(Gakuen)2A_ShirtOpen</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_ShirtOpen</texPath>
+			<texPath>2A/Anneli_Tokiwano_ShirtOpen</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_ShirtOpen</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Tokiwano_ShirtOpen</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
 				<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
@@ -210,11 +210,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2A_KendoTop</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_KendoTop</texPath>
+			<texPath>2A/Anneli_Tokiwano_KendoTop</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_KendoTop</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Tokiwano_KendoTop</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kendobuin</li>
 				<li>Anneli_Gakuen_Kyudobuin</li>
@@ -237,11 +237,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2A_CheerCropTop</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_CheerCropTop</texPath>
+			<texPath>2A/Anneli_Tokiwano_CheerCropTop</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_CheerCropTop</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Tokiwano_CheerCropTop</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
 			</tags>
@@ -263,11 +263,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2A_GymShirt</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_GymShirt</texPath>
+			<texPath>2A/Anneli_Tokiwano_GymShirt</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_GymShirt</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Tokiwano_GymShirt</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Undoubuin</li>
 			</tags>

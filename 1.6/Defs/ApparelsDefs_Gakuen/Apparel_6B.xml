@@ -35,11 +35,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6B_EyePatchA</label>
 		<graphicData>
-			<texPath>6B/Anneli_Gakuen_EyePatchA</texPath>
+			<texPath>6B/Anneli_Tokiwano_EyePatchA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6B/Anneli_Gakuen_EyePatchA</wornGraphicPath>
+			<wornGraphicPath>6B/Anneli_Tokiwano_EyePatchA</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>
@@ -63,11 +63,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6B_EyePatchB</label>
 		<graphicData>
-			<texPath>6B/Anneli_Gakuen_EyePatchB</texPath>
+			<texPath>6B/Anneli_Tokiwano_EyePatchB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6B/Anneli_Gakuen_EyePatchB</wornGraphicPath>
+			<wornGraphicPath>6B/Anneli_Tokiwano_EyePatchB</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>
@@ -91,11 +91,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6B_RoundGlasses</label>
 		<graphicData>
-			<texPath>6B/Anneli_Gakuen_RoundGlasses</texPath>
+			<texPath>6B/Anneli_Tokiwano_RoundGlasses</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6B/Anneli_Gakuen_RoundGlasses</wornGraphicPath>
+			<wornGraphicPath>6B/Anneli_Tokiwano_RoundGlasses</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>
@@ -131,11 +131,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6B_SqureGlasses</label>
 		<graphicData>
-			<texPath>6B/Anneli_Gakuen_SqureGlasses</texPath>
+			<texPath>6B/Anneli_Tokiwano_SquareGlasses</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6B/Anneli_Gakuen_SqureGlasses</wornGraphicPath>
+			<wornGraphicPath>6B/Anneli_Tokiwano_SquareGlasses</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Tsuppari</li>
@@ -171,11 +171,11 @@
 		<description>NOT dyeable.</description>
 		<label>(Gakuen)6B_InvisibleGlasses</label>
 		<graphicData>
-			<texPath>6B/Anneli_Gakuen_InvisibleGlasses</texPath>
+			<texPath>6B/Anneli_Tokiwano_InvisibleGlasses</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6B/Anneli_Gakuen_InvisibleGlasses</wornGraphicPath>
+			<wornGraphicPath>6B/Anneli_Tokiwano_InvisibleGlasses</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Suieibuin</li>
 				<li>Anneli_Gakuen_Undoubuin</li>

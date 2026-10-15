@@ -29,11 +29,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)5C_Glovelettes</label>
 		<graphicData>
-			<texPath>5C/Anneli_Gakuen_Glovelettes</texPath>
+			<texPath>5C/Anneli_Tokiwano_Glovelettes</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>5C/Anneli_Gakuen_Glovelettes</wornGraphicPath>
+			<wornGraphicPath>5C/Anneli_Tokiwano_Glovelettes</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
 				<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
@@ -63,11 +63,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)5C_CheerPomPoms</label>
 		<graphicData>
-			<texPath>5C/Anneli_Gakuen_CheerPomPoms</texPath>
+			<texPath>5C/Anneli_Tokiwano_CheerPomPoms</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>5C/Anneli_Gakuen_CheerPomPoms</wornGraphicPath>
+			<wornGraphicPath>5C/Anneli_Tokiwano_CheerPomPoms</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Undoubuin</li>
 				<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>

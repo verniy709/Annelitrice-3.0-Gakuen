@@ -9,7 +9,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Beret</li>
+					<li>Anneli_Tokiwano_Beret</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
@@ -32,7 +32,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SunHat</li>
+					<li>Anneli_Tokiwano_SunHat</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
@@ -45,7 +45,7 @@
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Back_Gakuen_SunHat</li>
+					<li>Anneli_Back_Tokiwano_SunHat</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A_Back</textureLevelsName>
@@ -69,7 +69,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Headband</li>
+					<li>Anneli_Tokiwano_Headband</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
@@ -92,7 +92,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_MilitaryHat</li>
+					<li>Anneli_Tokiwano_MilitaryHat</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
@@ -115,7 +115,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_BaseballCap</li>
+					<li>Anneli_Tokiwano_BaseballCap</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
@@ -138,7 +138,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_VisorCap</li>
+					<li>Anneli_Tokiwano_VisorCap</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
@@ -161,7 +161,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_BikeHelmet</li>
+					<li>Anneli_Tokiwano_BikeHelmet</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
@@ -184,7 +184,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_TacticalHeadset</li>
+					<li>Anneli_Tokiwano_TacticalHeadset</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
@@ -207,7 +207,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CamoTacticalHeadset</li>
+					<li>Anneli_Tokiwano_CamoTacticalHeadset</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
@@ -230,7 +230,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CatHeadset</li>
+					<li>Anneli_Tokiwano_CatHeadset</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
@@ -253,7 +253,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Hachimaki</li>
+					<li>Anneli_Tokiwano_Hachimaki</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
@@ -276,7 +276,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_HachimakiKanji_</li>
+					<li>Anneli_Tokiwano_HachimakiKanji_</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
@@ -299,7 +299,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_ChiikawaAccessories_</li>
+					<li>Anneli_Tokiwano_ChiikawaAccessories_</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>

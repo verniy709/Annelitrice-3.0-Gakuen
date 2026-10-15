@@ -9,7 +9,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_EyePatchA</li>
+					<li>Anneli_Tokiwano_EyePatchA</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6B</textureLevelsName>
@@ -32,7 +32,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_EyePatchB</li>
+					<li>Anneli_Tokiwano_EyePatchB</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6B</textureLevelsName>
@@ -55,7 +55,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SqureGlasses</li>
+					<li>Anneli_Tokiwano_SquareGlasses</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6B</textureLevelsName>
@@ -78,7 +78,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_RoundGlasses</li>
+					<li>Anneli_Tokiwano_RoundGlasses</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6B</textureLevelsName>
@@ -101,7 +101,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_InvisibleGlasses</li>
+					<li>Anneli_Tokiwano_InvisibleGlasses</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6B</textureLevelsName>

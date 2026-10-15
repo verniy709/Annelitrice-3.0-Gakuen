@@ -22,11 +22,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)1B_CatUnderwear</label>
 		<graphicData>
-			<texPath>1B/Anneli_Gakuen_CatUnderwear</texPath>
+			<texPath>1B/Anneli_Tokiwano_CatUnderwear</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1B/Anneli_Gakuen_CatUnderwear</wornGraphicPath>
+			<wornGraphicPath>1B/Anneli_Tokiwano_CatUnderwear</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Common</li>
@@ -50,11 +50,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)1B_Cheeky</label>
 		<graphicData>
-			<texPath>1B/Anneli_Gakuen_Cheeky</texPath>
+			<texPath>1B/Anneli_Tokiwano_Cheeky</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1B/Anneli_Gakuen_Cheeky</wornGraphicPath>
+			<wornGraphicPath>1B/Anneli_Tokiwano_Cheeky</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Common</li>
@@ -78,11 +78,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)1B_Classic</label>
 		<graphicData>
-			<texPath>1B/Anneli_Gakuen_Classic</texPath>
+			<texPath>1B/Anneli_Tokiwano_Classic</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1B/Anneli_Gakuen_Classic</wornGraphicPath>
+			<wornGraphicPath>1B/Anneli_Tokiwano_Classic</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Common</li>
@@ -106,11 +106,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)1B_Loincloth</label>
 		<graphicData>
-			<texPath>1B/Anneli_Gakuen_Loincloth</texPath>
+			<texPath>1B/Anneli_Tokiwano_Loincloth</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1B/Anneli_Gakuen_Loincloth</wornGraphicPath>
+			<wornGraphicPath>1B/Anneli_Tokiwano_Loincloth</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Kendobuin</li>

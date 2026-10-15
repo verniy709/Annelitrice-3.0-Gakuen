@@ -9,7 +9,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_LegRig</li>
+					<li>Anneli_Tokiwano_LegRig</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5B</textureLevelsName>
@@ -33,7 +33,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CamoLegRig</li>
+					<li>Anneli_Tokiwano_CamoLegRig</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5B</textureLevelsName>

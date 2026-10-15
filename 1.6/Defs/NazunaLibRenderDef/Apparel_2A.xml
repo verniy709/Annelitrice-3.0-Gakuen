@@ -9,7 +9,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SailorSuitA</li>
+					<li>Anneli_Tokiwano_SailorSuitA</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -77,7 +77,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SailorSuitB</li>
+					<li>Anneli_Tokiwano_SailorSuitB</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -141,7 +141,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SailorCropTopA</li>
+					<li>Anneli_Tokiwano_SailorCropTopA</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -209,7 +209,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SailorCropTopB</li>
+					<li>Anneli_Tokiwano_SailorCropTopB</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -273,7 +273,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_ShirtBowTie</li>
+					<li>Anneli_Tokiwano_ShirtBowTie</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -341,7 +341,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_ShirtNecktie</li>
+					<li>Anneli_Tokiwano_ShirtNecktie</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -409,7 +409,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_ShirtOpen</li>
+					<li>Anneli_Tokiwano_ShirtOpen</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -473,7 +473,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_KendoTop</li>
+					<li>Anneli_Tokiwano_KendoTop</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -537,7 +537,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CheerCropTop</li>
+					<li>Anneli_Tokiwano_CheerCropTop</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>
@@ -561,7 +561,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_GymShirt</li>
+					<li>Anneli_Tokiwano_GymShirt</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2A</textureLevelsName>

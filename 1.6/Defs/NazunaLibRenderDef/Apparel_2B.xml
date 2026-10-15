@@ -9,7 +9,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Miniskirt</li>
+					<li>Anneli_Tokiwano_Miniskirt</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -33,7 +33,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Skirt</li>
+					<li>Anneli_Tokiwano_Skirt</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -57,7 +57,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_PlaidSkirt</li>
+					<li>Anneli_Tokiwano_PlaidSkirt</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -81,7 +81,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_PlaidMiniskirt</li>
+					<li>Anneli_Tokiwano_PlaidMiniskirt</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -105,7 +105,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_KendoHakama</li>
+					<li>Anneli_Tokiwano_KendoHakama</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -129,7 +129,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CheerDress</li>
+					<li>Anneli_Tokiwano_CheerDress</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -153,7 +153,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_GymShorts</li>
+					<li>Anneli_Tokiwano_GymShorts</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
@@ -177,7 +177,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_DressPants</li>
+					<li>Anneli_Tokiwano_DressPants</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>

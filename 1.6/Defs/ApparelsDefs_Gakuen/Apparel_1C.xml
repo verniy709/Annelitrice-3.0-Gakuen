@@ -18,11 +18,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)1C_LooseSocks</label>
 		<graphicData>
-			<texPath>1C/Anneli_Gakuen_LooseSocks</texPath>
+			<texPath>1C/Anneli_Tokiwano_LooseSocks</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Gakuen_LooseSocks</wornGraphicPath>
+			<wornGraphicPath>1C/Anneli_Tokiwano_LooseSocks</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Common</li>
@@ -45,11 +45,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)1C_Pantyhose</label>
 		<graphicData>
-			<texPath>1C/Anneli_Gakuen_Pantyhose</texPath>
+			<texPath>1C/Anneli_Tokiwano_Pantyhose</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Gakuen_Pantyhose</wornGraphicPath>
+			<wornGraphicPath>1C/Anneli_Tokiwano_Pantyhose</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Common</li>
@@ -80,11 +80,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)1C_Socks</label>
 		<graphicData>
-			<texPath>1C/Anneli_Gakuen_Socks</texPath>
+			<texPath>1C/Anneli_Tokiwano_Socks</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Gakuen_Socks</wornGraphicPath>
+			<wornGraphicPath>1C/Anneli_Tokiwano_Socks</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Common</li>
@@ -120,11 +120,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)1C_Stockings</label>
 		<graphicData>
-			<texPath>1C/Anneli_Gakuen_Stockings</texPath>
+			<texPath>1C/Anneli_Tokiwano_Stockings</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Gakuen_Stockings</wornGraphicPath>
+			<wornGraphicPath>1C/Anneli_Tokiwano_Stockings</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Common</li>
@@ -157,11 +157,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)1C_SoccerSocks</label>
 		<graphicData>
-			<texPath>1C/Anneli_Gakuen_SoccerSocks</texPath>
+			<texPath>1C/Anneli_Tokiwano_SoccerSocks</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Gakuen_SoccerSocks</wornGraphicPath>
+			<wornGraphicPath>1C/Anneli_Tokiwano_SoccerSocks</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Common</li>
@@ -189,11 +189,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)1C_Tabi</label>
 		<graphicData>
-			<texPath>1C/Anneli_Gakuen_Tabi</texPath>
+			<texPath>1C/Anneli_Tokiwano_Tabi</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Gakuen_Tabi</wornGraphicPath>
+			<wornGraphicPath>1C/Anneli_Tokiwano_Tabi</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Kendobuin</li>
@@ -217,11 +217,11 @@
 		<description>NOT dyeable.</description>
 		<label>(Gakuen)1C_CowPrintStockings</label>
 		<graphicData>
-			<texPath>1C/Anneli_Gakuen_CowPrintStockings</texPath>
+			<texPath>1C/Anneli_Tokiwano_CowPrintStockings</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Gakuen_CowPrintStockings</wornGraphicPath>
+			<wornGraphicPath>1C/Anneli_Tokiwano_CowPrintStockings</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Suieibuin_CowPrint</li>

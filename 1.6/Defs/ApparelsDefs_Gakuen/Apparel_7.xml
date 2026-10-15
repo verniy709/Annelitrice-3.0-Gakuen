@@ -18,11 +18,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)7_SchoolBag</label>
 		<graphicData>
-			<texPath>7/Anneli_Gakuen_SchoolBag</texPath>
+			<texPath>7/Anneli_Tokiwano_SchoolBag</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>7/Anneli_Gakuen_SchoolBag</wornGraphicPath>
+			<wornGraphicPath>7/Anneli_Tokiwano_SchoolBag</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>
@@ -54,11 +54,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)7_ShoulderBag</label>
 		<graphicData>
-			<texPath>7/Anneli_Gakuen_ShoulderBag</texPath>
+			<texPath>7/Anneli_Tokiwano_ShoulderBag</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>7/Anneli_Gakuen_ShoulderBag</wornGraphicPath>
+			<wornGraphicPath>7/Anneli_Tokiwano_ShoulderBag</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>

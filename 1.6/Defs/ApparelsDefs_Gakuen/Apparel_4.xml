@@ -18,11 +18,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)4_ArmorVest</label>
 		<graphicData>
-			<texPath>4/Anneli_Gakuen_ArmorVest</texPath>
+			<texPath>4/Anneli_Tokiwano_ArmorVest</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>4/Anneli_Gakuen_ArmorVest</wornGraphicPath>
+			<wornGraphicPath>4/Anneli_Tokiwano_ArmorVest</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
 				<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
@@ -47,11 +47,11 @@
 		<description>NOT dyeable.</description>
 		<label>(Gakuen)4_CamoArmorVest</label>
 		<graphicData>
-			<texPath>4/Anneli_Gakuen_CamoArmorVest</texPath>
+			<texPath>4/Anneli_Tokiwano_CamoArmorVest</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>4/Anneli_Gakuen_CamoArmorVest</wornGraphicPath>
+			<wornGraphicPath>4/Anneli_Tokiwano_CamoArmorVest</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Sabagebuin_SailorSuit</li>
 				<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
@@ -75,11 +75,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)4_ArmorBikini</label>
 		<graphicData>
-			<texPath>4/Anneli_Gakuen_ArmorBikini</texPath>
+			<texPath>4/Anneli_Tokiwano_ArmorBikini</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>4/Anneli_Gakuen_ArmorBikini</wornGraphicPath>
+			<wornGraphicPath>4/Anneli_Tokiwano_ArmorBikini</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
 				<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
@@ -104,11 +104,11 @@
 		<description>NOT dyeable.</description>
 		<label>(Gakuen)4_CamoArmorBikini</label>
 		<graphicData>
-			<texPath>4/Anneli_Gakuen_CamoArmorBikini</texPath>
+			<texPath>4/Anneli_Tokiwano_CamoArmorBikini</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>4/Anneli_Gakuen_CamoArmorBikini</wornGraphicPath>
+			<wornGraphicPath>4/Anneli_Tokiwano_CamoArmorBikini</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Sabagebuin_SailorSuit</li>
 				<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
@@ -132,11 +132,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)4_Chestguard</label>
 		<graphicData>
-			<texPath>4/Anneli_Gakuen_Chestguard</texPath>
+			<texPath>4/Anneli_Tokiwano_Chestguard</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>4/Anneli_Gakuen_Chestguard</wornGraphicPath>
+			<wornGraphicPath>4/Anneli_Tokiwano_Chestguard</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kyudobuin</li>
 			</tags>

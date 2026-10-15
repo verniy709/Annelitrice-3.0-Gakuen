@@ -10,7 +10,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Pantyhose</li>
+					<li>Anneli_Tokiwano_Pantyhose</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>
@@ -34,7 +34,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Socks</li>
+					<li>Anneli_Tokiwano_Socks</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>
@@ -58,7 +58,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_LooseSocks</li>
+					<li>Anneli_Tokiwano_LooseSocks</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>
@@ -83,7 +83,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Stockings</li>
+					<li>Anneli_Tokiwano_Stockings</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>
@@ -107,7 +107,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_SoccerSocks</li>
+					<li>Anneli_Tokiwano_SoccerSocks</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>
@@ -131,7 +131,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Tabi</li>
+					<li>Anneli_Tokiwano_Tabi</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>
@@ -155,7 +155,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CowPrintStockings</li>
+					<li>Anneli_Tokiwano_CowPrintStockings</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>

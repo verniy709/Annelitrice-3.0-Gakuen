@@ -35,11 +35,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6ABC_KendoHelmet</label>
 		<graphicData>
-			<texPath>6ABC/Anneli_Gakuen_KendoHelmet</texPath>
+			<texPath>6ABC/Anneli_Tokiwano_KendoHelmet</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6ABC/Anneli_Gakuen_KendoHelmet</wornGraphicPath>
+			<wornGraphicPath>6ABC/Anneli_Tokiwano_KendoHelmet</wornGraphicPath>
 			<tags>
 				<li>Anneli_FullHelmet</li>
 				<li>Anneli_Gakuen_Kendobuin</li>
@@ -67,11 +67,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6ABC_MotorHelmet</label>
 		<graphicData>
-			<texPath>6ABC/Anneli_Gakuen_MotorHelmet</texPath>
+			<texPath>6ABC/Anneli_Tokiwano_MotorHelmet</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6ABC/Anneli_Gakuen_MotorHelmet</wornGraphicPath>
+			<wornGraphicPath>6ABC/Anneli_Tokiwano_MotorHelmet</wornGraphicPath>
 			<tags>
 				<li>Anneli_FullHelmet</li>
 				<li>Anneli_Gakuen_Common</li>
@@ -101,11 +101,11 @@
 		<description>NOT dyeable.</description>
 		<label>(Gakuen)6ABC_PaperBag</label>
 		<graphicData>
-			<texPath>6ABC/PaperBag/Anneli_Gakuen_PaperBag</texPath>
+			<texPath>6ABC/PaperBag/Anneli_Tokiwano_PaperBag</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6ABC/PaperBag/Anneli_Gakuen_PaperBag</wornGraphicPath>
+			<wornGraphicPath>6ABC/PaperBag/Anneli_Tokiwano_PaperBag</wornGraphicPath>
 			<tags>
 				<li>Anneli_FullHelmet</li>
 				<li>Anneli_Gakuen_Suieibuin</li>

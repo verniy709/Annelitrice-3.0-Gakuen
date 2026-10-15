@@ -35,11 +35,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6A_Beret</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_Beret</texPath>
+			<texPath>6A/Anneli_Tokiwano_Beret</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_Beret</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Tokiwano_Beret</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_SkipOverhead</li>
@@ -73,11 +73,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6A_SunHat</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_SunHat</texPath>
+			<texPath>6A/Anneli_Tokiwano_SunHat</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_SunHat</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Tokiwano_SunHat</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Suieibuin</li>
@@ -117,11 +117,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6A_Headband</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_Headband</texPath>
+			<texPath>6A/Anneli_Tokiwano_Headband</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_Headband</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Tokiwano_Headband</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>
@@ -160,11 +160,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6A_MilitaryHat</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_MilitaryHat</texPath>
+			<texPath>6A/Anneli_Tokiwano_MilitaryHat</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_MilitaryHat</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Tokiwano_MilitaryHat</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Tsuppari</li>
 				<li>Anneli_Gakuen_Kendobuin</li>
@@ -193,11 +193,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6A_BaseballCap</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_BaseballCap</texPath>
+			<texPath>6A/Anneli_Tokiwano_BaseballCap</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_BaseballCap</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Tokiwano_BaseballCap</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>
@@ -241,11 +241,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6A_VisorCap</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_VisorCap</texPath>
+			<texPath>6A/Anneli_Tokiwano_VisorCap</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_VisorCap</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Tokiwano_VisorCap</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Undoubuin</li>
 				<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
@@ -273,11 +273,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6A_BikeHelmet</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_BikeHelmet</texPath>
+			<texPath>6A/Anneli_Tokiwano_BikeHelmet</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_BikeHelmet</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Tokiwano_BikeHelmet</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Undoubuin</li>
@@ -320,11 +320,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6A_TacticalHeadset</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_TacticalHeadset</texPath>
+			<texPath>6A/Anneli_Tokiwano_TacticalHeadset</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_TacticalHeadset</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Tokiwano_TacticalHeadset</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubuinn_SailorSuit</li>
 				<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
@@ -347,11 +347,11 @@
 		<description>NOT dyeable.</description>
 		<label>(Gakuen)6A_CamoTacticalHeadset</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_CamoTacticalHeadset</texPath>
+			<texPath>6A/Anneli_Tokiwano_CamoTacticalHeadset</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_CamoTacticalHeadset</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Tokiwano_CamoTacticalHeadset</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Sabagebuin_SailorSuit</li>
 				<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
@@ -374,11 +374,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6A_CatHeadset</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_CatHeadset</texPath>
+			<texPath>6A/Anneli_Tokiwano_CatHeadset</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_CatHeadset</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Tokiwano_CatHeadset</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>
@@ -414,11 +414,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6A_Hachimaki</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_Hachimaki</texPath>
+			<texPath>6A/Anneli_Tokiwano_Hachimaki</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_Hachimaki</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Tokiwano_Hachimaki</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Tsuppari</li>
 				<li>Anneli_Gakuen_Kendobuin</li>
@@ -443,11 +443,11 @@
 		<description>NOT dyeable.</description>
 		<label>(Gakuen)6A_HachimakiKanji</label>
 		<graphicData>
-			<texPath>6A/HachimakiKanji/Anneli_Gakuen_HachimakiKanji_Gokaku</texPath>
+			<texPath>6A/HachimakiKanji/Anneli_Tokiwano_HachimakiKanji_Gokaku</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/HachimakiKanji/Anneli_Gakuen_HachimakiKanji_Gokaku</wornGraphicPath>
+			<wornGraphicPath>6A/HachimakiKanji/Anneli_Tokiwano_HachimakiKanji_Gokaku</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Tsuppari</li>
@@ -476,11 +476,11 @@
 		<description>NOT dyeable.</description>
 		<label>(Gakuen)6A_ChiikawaAccessories</label>
 		<graphicData>
-			<texPath>6A/ChiikawaAccessories/Anneli_Gakuen_ChiikawaAccessories_C</texPath>
+			<texPath>6A/ChiikawaAccessories/Anneli_Tokiwano_ChiikawaAccessories_C</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/ChiikawaAccessories/Anneli_Gakuen_ChiikawaAccessories_C</wornGraphicPath>
+			<wornGraphicPath>6A/ChiikawaAccessories/Anneli_Tokiwano_ChiikawaAccessories_C</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>

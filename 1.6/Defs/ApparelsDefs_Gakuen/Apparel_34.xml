@@ -22,11 +22,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)34_KendoArmor</label>
 		<graphicData>
-			<texPath>34/Anneli_Gakuen_KendoArmor</texPath>
+			<texPath>34/Anneli_Tokiwano_KendoArmor</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>34/Anneli_Gakuen_KendoArmor</wornGraphicPath>
+			<wornGraphicPath>34/Anneli_Tokiwano_KendoArmor</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kendobuin</li>
 			</tags>

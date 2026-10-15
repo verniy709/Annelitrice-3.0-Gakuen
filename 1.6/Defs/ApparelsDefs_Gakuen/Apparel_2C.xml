@@ -30,11 +30,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2C_Boots</label>
 		<graphicData>
-			<texPath>2C/Anneli_Gakuen_Boots</texPath>
+			<texPath>2C/Anneli_Tokiwano_Boots</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2C/Anneli_Gakuen_Boots</wornGraphicPath>
+			<wornGraphicPath>2C/Anneli_Tokiwano_Boots</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Tsuppari</li>
@@ -70,11 +70,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2C_LeatherShoes</label>
 		<graphicData>
-			<texPath>2C/Anneli_Gakuen_LeatherShoes</texPath>
+			<texPath>2C/Anneli_Tokiwano_LeatherShoes</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2C/Anneli_Gakuen_LeatherShoes</wornGraphicPath>
+			<wornGraphicPath>2C/Anneli_Tokiwano_LeatherShoes</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Tsuppari</li>
@@ -110,11 +110,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2C_TennisShoes</label>
 		<graphicData>
-			<texPath>2C/Anneli_Gakuen_TennisShoes</texPath>
+			<texPath>2C/Anneli_Tokiwano_TennisShoes</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2C/Anneli_Gakuen_TennisShoes</wornGraphicPath>
+			<wornGraphicPath>2C/Anneli_Tokiwano_TennisShoes</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Undoubuin</li>
@@ -147,11 +147,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2C_Sneakers</label>
 		<graphicData>
-			<texPath>2C/Anneli_Gakuen_Sneakers</texPath>
+			<texPath>2C/Anneli_Tokiwano_Sneakers</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2C/Anneli_Gakuen_Sneakers</wornGraphicPath>
+			<wornGraphicPath>2C/Anneli_Tokiwano_Sneakers</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Undoubuin</li>
@@ -184,11 +184,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2C_Geta</label>
 		<graphicData>
-			<texPath>2C/Anneli_Gakuen_Geta</texPath>
+			<texPath>2C/Anneli_Tokiwano_Geta</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2C/Anneli_Gakuen_Geta</wornGraphicPath>
+			<wornGraphicPath>2C/Anneli_Tokiwano_Geta</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kendobuin</li>
 				<li>Anneli_Gakuen_Kyudobuin</li>
@@ -215,11 +215,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2C_Uwabaki</label>
 		<graphicData>
-			<texPath>2C/Anneli_Gakuen_Uwabaki</texPath>
+			<texPath>2C/Anneli_Tokiwano_Uwabaki</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2C/Anneli_Gakuen_Uwabaki</wornGraphicPath>
+			<wornGraphicPath>2C/Anneli_Tokiwano_Uwabaki</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Undoubuin</li>
@@ -248,11 +248,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2C_Slippers</label>
 		<graphicData>
-			<texPath>2C/Anneli_Gakuen_Slippers</texPath>
+			<texPath>2C/Anneli_Tokiwano_Slippers</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2C/Anneli_Gakuen_Slippers</wornGraphicPath>
+			<wornGraphicPath>2C/Anneli_Tokiwano_Slippers</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Suieibuin</li>
 			</tags>

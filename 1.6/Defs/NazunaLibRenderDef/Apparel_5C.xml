@@ -9,7 +9,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Glovelettes</li>
+					<li>Anneli_Tokiwano_Glovelettes</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Glove1_Left</textureLevelsName>
@@ -28,7 +28,7 @@
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Glovelettes</li>
+					<li>Anneli_Tokiwano_Glovelettes</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Glove1_Right</textureLevelsName>
@@ -59,7 +59,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CheerPomPoms</li>
+					<li>Anneli_Tokiwano_CheerPomPoms</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Glove3_Left</textureLevelsName>
@@ -78,7 +78,7 @@
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CheerPomPoms</li>
+					<li>Anneli_Tokiwano_CheerPomPoms</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Glove3_Right</textureLevelsName>

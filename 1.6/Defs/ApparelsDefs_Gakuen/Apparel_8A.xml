@@ -60,11 +60,11 @@
 		<description>Dyeable. No apparel texture.</description>
 		<label>(Gakuen)8A_WALKWOMAN</label>
 		<graphicData>
-			<texPath>8A/Anneli_Gakuen_WALKWOMAN</texPath>
+			<texPath>8A/Anneli_Tokiwano_WALKWOMAN</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>8A/Anneli_Gakuen_WALKWOMAN</wornGraphicPath>
+			<wornGraphicPath>8A/Anneli_Tokiwano_WALKWOMAN</wornGraphicPath>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -160,11 +160,11 @@
     	<description>Dyeable. No apparel texture.</description>
     	<label>(Gakuen)8A_Flute</label>
     	<graphicData>
-    		<texPath>8A/Anneli_Gakuen_Flute</texPath>
+            <texPath>8A/Anneli_Tokiwano_Flute</texPath>
     		<graphicClass>Graphic_Single</graphicClass>
     	</graphicData>
     	<apparel>
-    		<wornGraphicPath>8A/Anneli_Gakuen_Flute</wornGraphicPath>
+            <wornGraphicPath>8A/Anneli_Tokiwano_Flute</wornGraphicPath>
     		<tags>
     		</tags>
     		<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -245,11 +245,11 @@
     	<equippedStatOffsets>
     	</equippedStatOffsets>
     	<graphicData>
-    		<texPath>8A/Anneli_Gakuen_KatanaA</texPath>
+            <texPath>8A/Anneli_Tokiwano_KatanaA</texPath>
     		<graphicClass>Graphic_Single</graphicClass>
     	</graphicData>
     	<apparel>
-    		<wornGraphicPath>8A/Anneli_Gakuen_KatanaA</wornGraphicPath>
+            <wornGraphicPath>8A/Anneli_Tokiwano_KatanaA</wornGraphicPath>
     		<tags>
     			<li>Anneli_Gakuen_Tsuppari</li>
     			<li>Anneli_Gakuen_Sukeban</li>
@@ -307,11 +307,11 @@
     	<equippedStatOffsets>
     	</equippedStatOffsets>
     	<graphicData>
-    		<texPath>8A/Anneli_Gakuen_KatanaB</texPath>
+            <texPath>8A/Anneli_Tokiwano_KatanaB</texPath>
     		<graphicClass>Graphic_Single</graphicClass>
     	</graphicData>
     	<apparel>
-    		<wornGraphicPath>8A/Anneli_Gakuen_KatanaB</wornGraphicPath>
+            <wornGraphicPath>8A/Anneli_Tokiwano_KatanaB</wornGraphicPath>
     		<tags>
     			<li>Anneli_Gakuen_Tsuppari</li>
     			<li>Anneli_Gakuen_Sukeban</li>

@@ -21,11 +21,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2B_Miniskirt</label>
 		<graphicData>
-			<texPath>2B/Anneli_Gakuen_Miniskirt</texPath>
+			<texPath>2B/Anneli_Tokiwano_Miniskirt</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2B/Anneli_Gakuen_Miniskirt</wornGraphicPath>
+			<wornGraphicPath>2B/Anneli_Tokiwano_Miniskirt</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Sukeban</li>
 			</tags>
@@ -47,11 +47,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2B_Skirt</label>
 		<graphicData>
-			<texPath>2B/Anneli_Gakuen_Skirt</texPath>
+			<texPath>2B/Anneli_Tokiwano_Skirt</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2B/Anneli_Gakuen_Skirt</wornGraphicPath>
+			<wornGraphicPath>2B/Anneli_Tokiwano_Skirt</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Sukeban</li>
 			</tags>
@@ -73,11 +73,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2B_PlaidSkirt</label>
 		<graphicData>
-			<texPath>2B/Anneli_Gakuen_PlaidSkirt</texPath>
+			<texPath>2B/Anneli_Tokiwano_PlaidSkirt</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2B/Anneli_Gakuen_PlaidSkirt</wornGraphicPath>
+			<wornGraphicPath>2B/Anneli_Tokiwano_PlaidSkirt</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
 				<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
@@ -100,11 +100,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2B_PlaidMiniskirt</label>
 		<graphicData>
-			<texPath>2B/Anneli_Gakuen_PlaidMiniskirt</texPath>
+			<texPath>2B/Anneli_Tokiwano_PlaidMiniskirt</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2B/Anneli_Gakuen_PlaidMiniskirt</wornGraphicPath>
+			<wornGraphicPath>2B/Anneli_Tokiwano_PlaidMiniskirt</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubuinn_WesternSuit</li>
 				<li>Anneli_Gakuen_Sabagebuin_WesternSuit</li>
@@ -127,11 +127,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2B_KendoHakama</label>
 		<graphicData>
-			<texPath>2B/Anneli_Gakuen_KendoHakama</texPath>
+			<texPath>2B/Anneli_Tokiwano_KendoHakama</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2B/Anneli_Gakuen_KendoHakama</wornGraphicPath>
+			<wornGraphicPath>2B/Anneli_Tokiwano_KendoHakama</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kendobuin</li>
 				<li>Anneli_Gakuen_Kyudobuin</li>
@@ -154,11 +154,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2B_CheerDress</label>
 		<graphicData>
-			<texPath>2B/Anneli_Gakuen_CheerDress</texPath>
+			<texPath>2B/Anneli_Tokiwano_CheerDress</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2B/Anneli_Gakuen_CheerDress</wornGraphicPath>
+			<wornGraphicPath>2B/Anneli_Tokiwano_CheerDress</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Ouenbuin_CheerLeader</li>
 			</tags>
@@ -180,11 +180,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2B_GymShorts</label>
 		<graphicData>
-			<texPath>2B/Anneli_Gakuen_GymShorts</texPath>
+			<texPath>2B/Anneli_Tokiwano_GymShorts</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2B/Anneli_Gakuen_GymShorts</wornGraphicPath>
+			<wornGraphicPath>2B/Anneli_Tokiwano_GymShorts</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Undoubuin</li>
 			</tags>
@@ -206,11 +206,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)2B_DressPants</label>
 		<graphicData>
-			<texPath>2B/Anneli_Gakuen_DressPants</texPath>
+			<texPath>2B/Anneli_Tokiwano_DressPants</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2B/Anneli_Gakuen_DressPants</wornGraphicPath>
+			<wornGraphicPath>2B/Anneli_Tokiwano_DressPants</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Tsuppari</li>
 			</tags>

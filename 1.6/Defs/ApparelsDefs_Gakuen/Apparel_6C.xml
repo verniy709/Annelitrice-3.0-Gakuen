@@ -18,11 +18,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6C_WoolMask</label>
 		<graphicData>
-			<texPath>6C/Anneli_Gakuen_WoolMask</texPath>
+			<texPath>6C/Anneli_Tokiwano_WoolMask</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6C/Anneli_Gakuen_WoolMask</wornGraphicPath>
+			<wornGraphicPath>6C/Anneli_Tokiwano_WoolMask</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>
@@ -54,11 +54,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)6C_MedicalMask</label>
 		<graphicData>
-			<texPath>6C/Anneli_Gakuen_MedicalMask</texPath>
+			<texPath>6C/Anneli_Tokiwano_MedicalMask</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6C/Anneli_Gakuen_MedicalMask</wornGraphicPath>
+			<wornGraphicPath>6C/Anneli_Tokiwano_MedicalMask</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>
@@ -86,11 +86,11 @@
 		<description>NOT dyeable.</description>
 		<label>(Gakuen)6C_Toast</label>
 		<graphicData>
-			<texPath>6C/Anneli_Gakuen_Toast</texPath>
+			<texPath>6C/Anneli_Tokiwano_Toast</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6C/Anneli_Gakuen_Toast</wornGraphicPath>
+			<wornGraphicPath>6C/Anneli_Tokiwano_Toast</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 				<li>Anneli_Gakuen_Sukeban</li>

@@ -9,7 +9,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_ChestRig</li>
+					<li>Anneli_Tokiwano_ChestRig</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
@@ -33,7 +33,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CamoChestRig</li>
+					<li>Anneli_Tokiwano_CamoChestRig</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
@@ -57,7 +57,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_Scarf</li>
+					<li>Anneli_Tokiwano_Scarf</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
@@ -81,7 +81,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_PlaidScarf</li>
+					<li>Anneli_Tokiwano_PlaidScarf</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
@@ -105,7 +105,7 @@
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Gakuen_CoatAsCloak</li>
+					<li>Anneli_Tokiwano_CoatAsCloak</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
@@ -119,7 +119,7 @@
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Back_Gakuen_CoatAsCloak</li>
+					<li>Anneli_Back_Tokiwano_CoatAsCloak</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A_Back</textureLevelsName>

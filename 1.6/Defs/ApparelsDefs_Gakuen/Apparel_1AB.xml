@@ -22,11 +22,11 @@
 		<description>Dyeable.</description>
 		<label>(Gakuen)1AB_SchoolSwimsuit</label>
 		<graphicData>
-			<texPath>1AB/Anneli_Gakuen_SchoolSwimsuit</texPath>
+			<texPath>1AB/Anneli_Tokiwano_SchoolSwimsuit</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1AB/Anneli_Gakuen_SchoolSwimsuit</wornGraphicPath>
+			<wornGraphicPath>1AB/Anneli_Tokiwano_SchoolSwimsuit</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Suieibuin</li>
@@ -57,11 +57,11 @@
 		<description>NOT dyeable.</description>
 		<label>(Gakuen)1AB_CowPrintSwimsuit</label>
 		<graphicData>
-			<texPath>1AB/Anneli_Gakuen_CowPrintSwimsuit</texPath>
+			<texPath>1AB/Anneli_Tokiwano_CowPrintSwimsuit</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1AB/Anneli_Gakuen_CowPrintSwimsuit</wornGraphicPath>
+			<wornGraphicPath>1AB/Anneli_Tokiwano_CowPrintSwimsuit</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Gakuen_Suieibuin_CowPrint</li>
