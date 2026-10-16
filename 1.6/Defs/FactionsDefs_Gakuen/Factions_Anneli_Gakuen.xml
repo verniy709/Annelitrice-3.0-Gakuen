@@ -22,8 +22,8 @@
 		<allowedCultures>
 			<li>Anneli_Cultures_Rustican</li>
 		</allowedCultures>
-		<settlementTexturePath>Anneli_Factions/Anneli_Gakuen</settlementTexturePath>
-		<factionIconPath>Anneli_Factions/Anneli_Gakuen</factionIconPath>
+		<settlementTexturePath>Anneli_Factions/Anneli_Tokiwano</settlementTexturePath>
+		<factionIconPath>Anneli_Factions/Anneli_Tokiwano</factionIconPath>
 		<listOrderPriority>30</listOrderPriority>
 		<settlementGenerationWeight>1</settlementGenerationWeight>
 		<requiredCountAtGameStart>1</requiredCountAtGameStart>
